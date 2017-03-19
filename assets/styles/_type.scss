@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'Objektiv';
+  src: url('/assets/fonts/objektiv.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Objektiv';
+  src: url('/assets/fonts/objektiv-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+$fontsize-1: 4.4rem;
+$fontsize-2: 3.2rem;
+$fontsize-3: 2.2rem;
+
+$lineheight-1: 6.1rem;
+$lineheight-2: 4.6rem;
+$lineheight-3: 3.2rem;
+
+.f1 {
+  font-size: $fontsize-1;
+  line-height: $lineheight-1;
+}
+
+.f2 {
+  font-size: $fontsize-2;
+  line-height: $lineheight-2;
+}
+
+.f3 {
+  font-size: $fontsize-3;
+  line-height: $lineheight-3;
+}
+
+@each $bp-prefix, $size in $breakpoints {
+  @media #{$size} {
+    .#{$bp-prefix}-f1 {
+      font-size: $fontsize-1;
+      line-height: $lineheight-1;
+    }
+    .#{$bp-prefix}-f2 {
+      font-size: $fontsize-2;
+      line-height: $lineheight-2;
+    }
+    .#{$bp-prefix}-f3 {
+      font-size: $fontsize-3;
+      line-height: $lineheight-3;
+    }
+  }
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.f1-icon {
+  line-height: 0;
+  svg {
+    height: $fontsize-1;
+  }
+}
+
+.f2-icon {
+  line-height: 0;
+  svg {
+    height: $fontsize-2;
+  }
+}
+
+.f3-icon {
+  line-height: 0;
+  svg {
+    height: $fontsize-3;
+  }
+}

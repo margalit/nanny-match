@@ -1,0 +1,28 @@
+<div class="sm-block relative overflow-hidden">
+  <div class="top-0 col-7 right-0 bottom-0 absolute bg-cover"  style="background-image:url('{{ include.feature.image }}'); background-position:{{ include.feature.position }};"></div>
+  <div class="col-7 mr-col-7 sm-col-14 flex center-items py-5 pr-col-1 pl-col-1 lg-pl-col-2 bg-feature relative">
+    <div class="sm-py-0">
+      <h1 class="f1 bold white mb-1">
+        {{ include.feature.title }}
+      </h1>
+      <h2 class="f2 white mb-2 pr-3">
+        {{ include.feature.subtitle }}
+      </h2>
+      <ul class="mb-3">
+        {% for item in include.feature.checklist %}
+          <li class="white mb-1">
+            <span class="f2-icon inline-block align-middle mr-1 white">
+              {% include svg/tick.svg %}
+            </span>
+            <span class="bold f2 align-middle">
+              {{ item }}
+            </span>
+          </li>
+        {% endfor %}
+      </ul>
+      <a class="button-inverted txt-primary" href="{{ include.feature.destination }}">
+        {{ include.feature.call_to_action }}
+      </a>
+    </div>
+  </div>
+</div>

@@ -16,8 +16,11 @@ module.exports = function(grunt) {
     },
     watch: {
       scripts: {
-        files: ['assets/styles/**/*.scss'],
-        tasks: ['scsslint'],
+        files: [
+          '_site/assets/styles/app.css',
+          '_site/assets/scripts/dist/app.js',
+          '_site/**/*.html',
+        ],
         options: {
           livereload: true,
         },

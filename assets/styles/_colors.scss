@@ -1,0 +1,39 @@
+$brand: #2F2F52;
+$parents: #2447C3;
+$nannies: #C32447;
+$contact: #594928;
+$white: #ffffff;
+
+.white {
+  color: $white;
+}
+
+.bg-white {
+  background: $white;
+}
+
+.txt-primary {
+  color: $brand;
+}
+
+.bg-feature  {
+
+  .parents & {
+    background-color: $parents;
+  }
+
+  .nannies & {
+    background-color: $nannies;
+  }
+}
+
+.txt-feature  {
+
+  .parents & {
+    color: $parents;
+  }
+
+  .nannies & {
+    color: $nannies;
+  }
+}

@@ -1,0 +1,59 @@
+$spacings: ($spacing);
+@for $i from 2 through 8 {
+  $spacings: append($spacings, nth($spacings, $i - 1) * $exponent);
+}
+
+$map: (
+  pa: (padding),
+  pl: (padding-left),
+  pr: (padding-right),
+  pt: (padding-top),
+  pb: (padding-bottom),
+  px: (padding-left, padding-right),
+  py: (padding-top, padding-bottom),
+  ma: (margin),
+  ml: (margin-left),
+  mr: (margin-right),
+  mt: (margin-top),
+  mb: (margin-bottom),
+  mx: (margin-left, margin-right),
+  my: (margin-top, margin-bottom),
+);
+
+@each $prefix, $properties in $map {
+  @for $i from 1 through 8 {
+    .#{$prefix}-#{$i} {
+      @each $property in $properties {
+        #{$property}: nth($spacings, $i);
+      }
+    }
+  }
+}
+
+@each $prefix, $properties in $map {
+  @each $bp-prefix, $size in $breakpoints {
+    @media #{$size} {
+      @for $i from 1 through 8 {
+        .#{$bp-prefix}-#{$prefix}-#{$i} {
+          @each $property in $properties {
+            #{$property}: nth($spacings, $i);
+          }
+        }
+      }
+    }
+  }
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@each $bp-prefix, $size in $breakpoints {
+  @media #{$size} {
+    .#{$bp-prefix}-mx-auto {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}

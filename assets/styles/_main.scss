@@ -1,24 +1,75 @@
 @charset 'utf-8';
 
-@import 'utils/variables';
-@import 'utils/functions';
-@import 'utils/mixins';
+$columns: 14;
+$spacing: 1.2rem;
+$exponent: 1.67;
+$breakpoint-sm: '(max-width: 52em)' !default;
+$breakpoint-lg: '(min-width: 100em)' !default;
+
+$breakpoints: (
+  sm: $breakpoint-sm,
+  lg: $breakpoint-lg
+);
+
+@import 'type';
+@import 'colors';
+@import 'flex';
+@import 'layout';
+@import 'background';
+@import 'spacing';
+@import 'grid';
+@import 'buttons';
+@import 'animations';
+// @import 'debug';
 
 * {
   box-sizing: border-box;
+  font-weight: normal;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
 }
 
 html {
-  font-size: 10px; // 0.1rem = 10px
+  font-size: 0.625vw;
+
+  @media #{$breakpoint-sm} {
+    font-size: 1.5vw;
+  }
+
+  @media #{$breakpoint-lg} {
+    font-size: 0.5vw;
+  }
 }
 
 body {
-  font-size: $font-size--body;
+  position: relative;
+  font-family: 'Objektiv';
+  font-size: 1.6rem;
 }
 
-body,
-button,
-input,
-textarea {
-  font-family: $font--sans;
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+path {
+  fill: currentColor;
+}
+
+body, html {
+  height: 100%;
+}
+
+body:after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('/assets/bg.png');
+  background-size: 100% auto;
+  opacity: 0;
+  z-index: 101;
+  pointer-events: none;
 }

@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/assets/styles/app.css" />
   </head>
 
-  <body>
+  <body class="{{ page.layout }}">
     {% if site.google_analytics %}
       <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -20,8 +20,27 @@
       </script>
     {% endif %}
 
+    <div class="pad py-3 f3 flex justify-between col-12 lg-col-10 mx-auto">
+      <a href="/" class="txt-primary bold no-underline relative">
+        Nanny Match
+        <div class="absolute" style="top: 50%; left: 0; transform: translate(3.8rem, 1rem); opacity: 0.5; width: 7rem; height: 3rem">
+          {% include svg/smile.svg %}
+        </div>
+      </a>
+      <div class="sm-hide">
+        <a href="/" class="txt-primary bold no-underline mr-4">Parents</a>
+        <a href="/nannies" class="txt-primary bold no-underline mr-4">Nannies</a>
+        <a href="/contact" class="txt-primary bold no-underline">Get in touch</a>
+      </div>
+    </div>
+
     {{ content }}
 
+    <div class="pad py-4 f3 col-12 pr-col-6 lg-col-10 mx-auto txt-primary">
+      Nanny Match would like to acknowledge the traditional owners of the land on which we are living and working and pay our respects to their elders both past and present.
+    </div>
+
     <script type="text/javascript" src="/assets/scripts/dist/app.js"></script>
+    <script src="//localhost:35729/livereload.js"></script>
   </body>
 </html>
