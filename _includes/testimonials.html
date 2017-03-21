@@ -1,0 +1,14 @@
+<div class="py-5 sm-py-4 txt-primary mx-auto col-12 lg-col-10 flex sm-block justify-between txt-primary">
+  {% for testimonial in include.testimonials %}
+    <div class="col-4 sm-col-14 sm-mb-4">
+      <div class="clearfix mb-3">
+        <img class="col col-4 sm-col-3 pr-2" src="{{ testimonial.photo }}">
+        <div class="col col-10 f3 py-1">
+          <div class="bold">{{ testimonial.name }}</div>
+          <a class="txt-feature no-underline" href="http://twitter.com/{{ testimonial.twitter }}">@{{ testimonial.twitter }}</a>
+        </div>
+      </div>
+      <div class="f3">{{ testimonial.quote }}</div>
+    </div>
+  {% endfor %}
+</div>

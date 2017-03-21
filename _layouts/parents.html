@@ -2,57 +2,45 @@
 layout: default
 ---
 {% include feature.html feature=page.feature %}
-<div class="py-5 txt-primary mx-auto col-12 lg-col-10 flex justify-between txt-primary">
-  <div class="col-4 sm-col-14 sm-mb-5">
-    <div class="clearfix mb-3">
-      <img class="col col-4 pr-2" src="http://nannymatch.com.au/uploads/missy.png">
-      <div class="col col-10 f3 py-1">
-        <div class="bold">Missy Higgins</div>
-        <a class="txt-feature no-underline" href="#">@missyhiggins</a>
-      </div>
-    </div>
-    <div class="f3">We actually loved all the nannies we interviewed, so it was hard to choose! I've recommended Nanny Match to several of my friends already.</div>
-  </div>
-  <div class="col-4 sm-col-14 sm-mb-5">
-    <div class="clearfix mb-3">
-      <img class="col col-4 pr-2" src="http://nannymatch.com.au/uploads/kate.png">
-      <div class="col col-10 f3 py-1">
-        <div class="bold">Kate Miller-Heidke</div>
-        <a class="txt-feature no-underline" href="#">@kmillerheidke</a>
-      </div>
-    </div>
-    <div class="f3">We hired someone fabulous within a week of calling Nanny Match. All of the nannies we interviewed were lovely, experienced and knowledgeable.</div>
-  </div>
-  <div class="col-4 sm-col-14 sm-mb-5">
-    <div class="clearfix mb-3">
-      <img class="col col-4 pr-2" src="http://nannymatch.com.au/uploads/jeremy.png">
-      <div class="col col-10 f3 py-1">
-        <div class="bold">Jeremy Wortsman</div>
-        <a class="txt-feature no-underline" href="#">@jackywinter</a>
-      </div>
-    </div>
-    <div class="f3">We would unreservedly recommend their services to anyone, especially those looking to hire a nanny for the first time!</div>
-  </div>
-</div>
+{% include testimonials.html testimonials=page.testimonials %}
 <div class="clearfix flex flex-wrap">
   {% for nanny in page.nannies %}
-    <img class="col col-2 block self-center" src="{{nanny}}" />
+    <img class="col col-2 sm-col-2 block self-center{% if forloop.index > 14 %} sm-hide{% endif %}" src="{{nanny}}" />
     {% if forloop.index == 7 %}
-      <div class="col col-6 pl-col-1 lg-pl-col-2 bg-feature flex">
+      <div class="col col-6 pl-col-1 lg-pl-col-2 bg-feature flex sm-col-14 sm-pr-col-1 sm-py-4 col-right">
         <div class="my-auto self-center">
-          <h3 class="f2 bold white mb-1">For nannies, by nannies</h3>
-          <h3 class="f3 white mb-2">All our nannies are employed by us, paid superannuation and receive a yearly payrise.</h3>
+          <h3 class="f2 bold white mb-1">By nannies, for nannies</h3>
+          <h3 class="f3 white mb-2">Our nannies are employed by us, paid superannuation and receive a yearly payrise.</h3>
         </div>
       </div>
     {% endif %}
   {% endfor %}
 </div>
-{% include columns.html columns=page.carer_types %}
-<div class="sm-block relative flex col-14">
-  <div class="col-6 sm-col-14 flex center-items py-5 pr-col-1 pl-col-1 lg-pl-col-2 bg-feature relative">
+<div class="my-5 sm-my-4 txt-primary mx-auto col-12 lg-col-10">
+  <h3 class="f2 bold mb-1">We value quality and longevity</h3>
+  <div class="clearfix f3 txt-primary">
+    <div class="col col-10 pr-col-1 sm-pr-col-0 sm-col-14">
+      When we connect you with a nanny, you’ll have peace of mind knowing each nanny has been met personally and carefully vetted for experience, reliability and cultural fit. We look for:
+      <ul class="py-2">
+        <li class="mb-1 item">People over the age of 25</li>
+        <li class="mb-1 item">Australian citizens or permanent residents</li>
+        <li class="mb-1 item">Tertiary educated carers and teachers</li>
+        <li class="mb-1 item">Experience working with children and families</li>
+        <li class="mb-1 item">People who have that spark, communicate effectively and smile throughout their day</li>
+      </ul>
+    </div>
+    <div class="col col-4 sm-col-14">
+      <p class="mb-3">Rates start at $30 an hour and are inclusive of salary, WorkCover, private and public indemnity insurance, superannuation, statuatory costs and agency fees.</p>
+      <a class="button" href="#">Download PDF</a>
+    </div>
+  </div>
+</div>
+<div class="sm-block relative flex sm-block col-14 flex-reverse">
+  <div class="col-8 sm-col-14 bg-cover sm-landscape" style="background-image:url('/assets/images/ruby.jpg'); background-position: 10% 30%;"></div>
+  <div class="col-6 sm-col-14 flex center-items py-5 sm-py-4 pr-col-1 pl-col-1 lg-pl-col-2 bg-feature relative">
     <div class="sm-py-0">
       <h1 class="f1 bold white mb-1">
-        Get started now
+        Bring more freedom to your family life
       </h1>
       <h2 class="f2 white mb-3">
         Call Ruby today to discuss your family’s needs
@@ -62,5 +50,4 @@ layout: default
       </a>
     </div>
   </div>
-  <div class="col-8 bg-cover"  style="background-image:url('/assets/images/ruby.jpg'); background-position: 10% 30%;"></div>
 </div>

@@ -3,7 +3,7 @@ title: Nanny Match
 layout: parents
 feature:
   title: Find the right fit
-  subtitle: Connect with experienced and reliable nannies in Melbourne
+  subtitle: Meet experienced and reliable agency nannies in Melbourne
   checklist:
     - Fully insured
     - Background checked
@@ -12,16 +12,19 @@ feature:
   position: 25%
   call_to_action: Get in touch
   destination: /contact
-carer_types:
-  - title: Registered Carers
-    description: Come pre-screened with all the checks needed to start working with your family.
-    note: From $30 an hour
-  - title: Seasoned Carers
-    description: Already have experience working with families and can hit the ground running.
-    note: From $35 an hour
-  - title: Home Educators
-    description: Our pride and joy. They are qualified educators and bring their expertise to your home.
-    note: From $40 an hour
+testimonials:
+  - name: Missy Higgins
+    photo: /uploads/missy.png
+    twitter: missyhiggins
+    quote: We actually loved all the nannies we interviewed, so it was hard to choose! I've recommended Nanny Match to several of my friends already.
+  - name: Kate Miller-Heidke
+    photo: /uploads/kate.png
+    twitter: kmillerheidke
+    quote:  We hired someone fabulous within a week of calling Nanny Match. All of the nannies we interviewed were lovely, experienced and knowledgeable.
+  - name: Jeremy Wortsman
+    photo: /uploads/jeremy.png
+    twitter: jackywinter
+    quote: We would unreservedly recommend their services to anyone, especially those looking to hire a nanny for the first time!
 nannies:
   - /assets/images/nannies/01.png
   - /assets/images/nannies/02.png

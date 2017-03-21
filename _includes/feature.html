@@ -1,6 +1,6 @@
-<div class="sm-block relative overflow-hidden">
-  <div class="top-0 col-7 right-0 bottom-0 absolute bg-cover"  style="background-image:url('{{ include.feature.image }}'); background-position:{{ include.feature.position }};"></div>
-  <div class="col-7 mr-col-7 sm-col-14 flex center-items py-5 pr-col-1 pl-col-1 lg-pl-col-2 bg-feature relative">
+<div class="sm-block clearfix flex flex-reverse col-14 bg-feature">
+  <div class="col col-7 sm-col-14 bg-cover sm-square" style="background-image:url('{{ include.feature.image }}'); background-position:{{ include.feature.position }};"></div>
+  <div class="col col-7 sm-col-14 flex center-items py-5 sm-py-4 pr-col-1 pl-col-1 lg-pl-col-2 relative">
     <div class="sm-py-0">
       <h1 class="f1 bold white mb-1">
         {{ include.feature.title }}

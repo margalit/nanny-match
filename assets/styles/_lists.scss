@@ -1,0 +1,10 @@
+.item {
+  position: relative;
+  padding-left: nth($spacings, 3);
+  &:before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}

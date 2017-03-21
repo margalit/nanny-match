@@ -8,6 +8,8 @@
 
 .square { padding-top: 100%; }
 
+.landscape { padding-top: 67.5%; }
+
 .double-height { padding-top: 200%; }
 
 .align-baseline { vertical-align: baseline }
@@ -42,6 +44,8 @@
   .sm-inline-block { display: inline-block; }
 
   .sm-square { padding-top: 76%; }
+
+  .sm-landscape { padding-top: 50%; }
 
   .sm-hide { display: none; }
 }

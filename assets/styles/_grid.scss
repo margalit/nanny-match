@@ -1,4 +1,4 @@
-@for $i from 1 through $columns {
+@for $i from 0 through $columns {
   .col-#{$i} {
     width: calc(#{$i}/#{$columns} * 100%);
   }
@@ -18,7 +18,7 @@
 
 @each $bp-prefix, $size in $breakpoints {
   @media #{$size} {
-    @for $i from 1 through $columns {
+    @for $i from 0 through $columns {
       .#{$bp-prefix}-col-#{$i} {
         width: calc(#{$i}/#{$columns} * 100%);
       }

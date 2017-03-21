@@ -4,8 +4,13 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
+    em-websocket (0.5.1)
+      eventmachine (>= 0.12.9)
+      http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.3)
     ffi (1.9.17)
     forwardable-extended (2.6.0)
+    http_parser.rb (0.6.0)
     jekyll (3.4.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -17,6 +22,9 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-livereload (0.2.2)
+      em-websocket (~> 0.5)
+      jekyll (~> 3.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-seo-tag (2.1.0)
@@ -34,27 +42,21 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
-    rainbow (2.2.1)
-    rake (12.0.0)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
       ffi (>= 0.5.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.23)
-    scss_lint (0.52.0)
-      rake (>= 0.9, < 13)
-      sass (~> 3.4.20)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   jekyll
+  jekyll-livereload
   jekyll-seo-tag
   jekyll-sitemap
-  rainbow
-  scss_lint
 
 BUNDLED WITH
-   1.12.5
+   1.14.6
