@@ -2,10 +2,17 @@
   {% for testimonial in include.testimonials %}
     <div class="col-4 sm-col-14 sm-mb-4">
       <div class="clearfix mb-3">
-        <img class="col col-4 sm-col-3 pr-2" src="{{ testimonial.photo }}">
+        <div class="col col-4 sm-col-3">
+          <div class="col-12 circle bg-cover" style="background-image: url({{ testimonial.photo }})"></div>
+        </div>
         <div class="col col-10 f3 py-1">
           <div class="bold">{{ testimonial.name }}</div>
-          <a class="txt-feature no-underline" href="http://twitter.com/{{ testimonial.twitter }}">@{{ testimonial.twitter }}</a>
+          {% if testimonial.subtitle %}
+            {{ testimonial.subtitle }}
+          {% endif %}
+          {% if testimonial.twitter %}
+            <a class="txt-feature no-underline" href="http://twitter.com/{{ testimonial.twitter }}">@{{ testimonial.twitter }}</a>
+          {% endif %}
         </div>
       </div>
       <div class="f3">{{ testimonial.quote }}</div>

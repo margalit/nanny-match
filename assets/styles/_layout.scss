@@ -1,5 +1,7 @@
 .block { display: block; }
 
+.hide { display: none; }
+
 .inline-block { display: inline-block; }
 
 .absolute { position: absolute; }
@@ -7,6 +9,17 @@
 .relative { position: relative; }
 
 .square { padding-top: 100%; }
+
+.circle {
+  position: relative;
+  border-radius: 50%;
+
+  &:after {
+    content: "";
+    display: block;
+    padding-top: 100%;
+  }
+}
 
 .landscape { padding-top: 67.5%; }
 

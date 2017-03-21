@@ -21,10 +21,20 @@ $map: (
 );
 
 @each $prefix, $properties in $map {
+  .#{$prefix}-0 {
+    @each $property in $properties {
+      #{$property}: 0;
+    }
+  }
   @for $i from 1 through 8 {
     .#{$prefix}-#{$i} {
       @each $property in $properties {
         #{$property}: nth($spacings, $i);
+      }
+    }
+    .#{$prefix}-n#{$i} {
+      @each $property in $properties {
+        #{$property}: -#{nth($spacings, $i)};
       }
     }
   }
@@ -33,10 +43,20 @@ $map: (
 @each $prefix, $properties in $map {
   @each $bp-prefix, $size in $breakpoints {
     @media #{$size} {
+      .#{$bp-prefix}-#{$prefix}-0 {
+        @each $property in $properties {
+          #{$property}: 0;
+        }
+      }
       @for $i from 1 through 8 {
         .#{$bp-prefix}-#{$prefix}-#{$i} {
           @each $property in $properties {
             #{$property}: nth($spacings, $i);
+          }
+        }
+        .#{$bp-prefix}-#{$prefix}-n#{$i} {
+          @each $property in $properties {
+            #{$property}: -#{nth($spacings, $i)};
           }
         }
       }

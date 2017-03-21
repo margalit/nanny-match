@@ -2,4 +2,7 @@
 layout: default
 ---
 {% include feature.html feature=page.feature %}
-{% include columns.html columns=page.benefits %}
+{% include testimonials.html testimonials=page.testimonials %}
+{% include profiles.html profiles=page.profiles %}
+{% include content.html title=page.content_title content=page.content sidebar=page.sidebar %}
+{% include feature.html feature=page.call_to_action %}

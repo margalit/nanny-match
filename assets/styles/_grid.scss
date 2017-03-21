@@ -18,6 +18,10 @@
 
 @each $bp-prefix, $size in $breakpoints {
   @media #{$size} {
+    .#{$bp-prefix}-col {
+      float: left;
+      box-sizing: border-box;
+    }
     @for $i from 0 through $columns {
       .#{$bp-prefix}-col-#{$i} {
         width: calc(#{$i}/#{$columns} * 100%);

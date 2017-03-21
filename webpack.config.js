@@ -5,9 +5,6 @@ var config = {
   entry: {
     app: './assets/scripts/src/app.js'
   },
-  eslint: {
-    configFile: path.join(__dirname, ".eslintrc.js")
-  },
   output: {
     path: './assets/scripts/dist',
     filename: '[name].js'
@@ -20,13 +17,6 @@ var config = {
         exclude: /(node_modules)/
       }
     ],
-    preLoaders: [
-      {
-        test: /\.js$/,
-        loader: "eslint-loader",
-        exclude: /(node_modules)/
-      }
-    ]
   },
   resolve: {
     extensions: ["", ".js", ".jsx"]

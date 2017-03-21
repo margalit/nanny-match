@@ -60,6 +60,10 @@ $lineheight-3: 3.2rem;
   text-align: center;
 }
 
+.right {
+  text-align: right;
+}
+
 .no-underline {
   text-decoration: none;
 }
@@ -82,5 +86,27 @@ $lineheight-3: 3.2rem;
   line-height: 0;
   svg {
     height: $fontsize-3;
+  }
+}
+
+.content {
+  p {
+    margin-bottom: nth($spacings, 1);
+  }
+
+  ul {
+    padding: nth($spacings, 1) 0;
+  }
+
+  li {
+    margin-bottom: nth($spacings, 1);
+    position: relative;
+    padding-left: nth($spacings, 3);
+    &:before {
+      content: "—";
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
   }
 }

@@ -1,8 +1,10 @@
 $brand: #2F2F52;
 $parents: #2447C3;
-$nannies: #C32447;
+$nannies: #d21640;
 $contact: #594928;
+$gray: #ccc;
 $white: #ffffff;
+$off-white: #fafafa;
 
 .white {
   color: $white;
@@ -10,6 +12,18 @@ $white: #ffffff;
 
 .bg-white {
   background: $white;
+}
+
+.bg-off-white {
+  background: $off-white;
+}
+
+@each $bp-prefix, $size in $breakpoints {
+  @media #{$size} {
+    .#{$bp-prefix}-bg-off-white {
+      background: $off-white;
+    }
+  }
 }
 
 .txt-primary {
