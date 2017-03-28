@@ -1,6 +1,13 @@
 ---
 title: Nanny Match Melbourne
 timezone: Australia/Melbourne
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 permalink: pretty
 exclude:
 - Gruntfile.js
