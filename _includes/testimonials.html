@@ -1,7 +1,7 @@
-<div class="py-5 sm-py-4 txt-primary mx-auto col-12 lg-col-10 flex sm-block justify-between txt-primary">
+<div class="py-5 sm-py-4 mx-auto col-12 lg-col-10 flex sm-block justify-between">
   {% for testimonial in include.testimonials %}
     <div class="col-4 sm-col-14 sm-mb-4">
-      <div class="clearfix mb-3">
+      <div class="overflow-hidden mb-3">
         <div class="col col-4 sm-col-3">
           <div class="col-12 circle bg-cover" style="background-image: url({{ testimonial.photo }})"></div>
         </div>
@@ -11,7 +11,7 @@
             {{ testimonial.subtitle }}
           {% endif %}
           {% if testimonial.twitter %}
-            <a class="txt-feature no-underline" href="http://twitter.com/{{ testimonial.twitter }}">@{{ testimonial.twitter }}</a>
+            <a class="feature no-underline" href="http://twitter.com/{{ testimonial.twitter }}">@{{ testimonial.twitter }}</a>
           {% endif %}
         </div>
       </div>

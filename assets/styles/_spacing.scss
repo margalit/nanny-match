@@ -1,9 +1,12 @@
+$spacing: 1.2rem;
+$exponent: 1.67;
+
 $spacings: ($spacing);
 @for $i from 2 through 8 {
   $spacings: append($spacings, nth($spacings, $i - 1) * $exponent);
 }
 
-$map: (
+$directions: (
   pa: (padding),
   pl: (padding-left),
   pr: (padding-right),
@@ -20,19 +23,26 @@ $map: (
   my: (margin-top, margin-bottom),
 );
 
-@each $prefix, $properties in $map {
-  .#{$prefix}-0 {
+$classes: (
+  mx-auto: (margin-left: auto, margin-right: auto),
+  my-auto: (margin-top: auto, margin-bottom: auto),
+);
+
+@include all-sizes($classes);
+
+@each $direction, $properties in $directions {
+  .#{$direction}-0 {
     @each $property in $properties {
       #{$property}: 0;
     }
   }
   @for $i from 1 through 8 {
-    .#{$prefix}-#{$i} {
+    .#{$direction}-#{$i} {
       @each $property in $properties {
         #{$property}: nth($spacings, $i);
       }
     }
-    .#{$prefix}-n#{$i} {
+    .#{$direction}-n#{$i} {
       @each $property in $properties {
         #{$property}: -#{nth($spacings, $i)};
       }
@@ -40,40 +50,26 @@ $map: (
   }
 }
 
-@each $prefix, $properties in $map {
+@each $direction, $properties in $directions {
   @each $bp-prefix, $size in $breakpoints {
     @media #{$size} {
-      .#{$bp-prefix}-#{$prefix}-0 {
+      .#{$bp-prefix}-#{$direction}-0 {
         @each $property in $properties {
           #{$property}: 0;
         }
       }
       @for $i from 1 through 8 {
-        .#{$bp-prefix}-#{$prefix}-#{$i} {
+        .#{$bp-prefix}-#{$direction}-#{$i} {
           @each $property in $properties {
             #{$property}: nth($spacings, $i);
           }
         }
-        .#{$bp-prefix}-#{$prefix}-n#{$i} {
+        .#{$bp-prefix}-#{$direction}-n#{$i} {
           @each $property in $properties {
             #{$property}: -#{nth($spacings, $i)};
           }
         }
       }
-    }
-  }
-}
-
-.mx-auto {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-@each $bp-prefix, $size in $breakpoints {
-  @media #{$size} {
-    .#{$bp-prefix}-mx-auto {
-      margin-left: auto;
-      margin-right: auto;
     }
   }
 }

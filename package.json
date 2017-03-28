@@ -10,12 +10,15 @@
     "webpack": "^1.13.2"
   },
   "scripts": {
-    "dev": "NODE_ENV=development webpack --progress --colors --watch | jekyll serve --livereload",
+    "start": "concurrently \"NODE_ENV=development webpack --progress --colors --watch\" \"jekyll serve --livereload\"",
     "build": "NODE_ENV=production webpack --progress --colors"
   },
   "babel": {
     "presets": [
       "es2015"
     ]
+  },
+  "dependencies": {
+    "concurrently": "^3.4.0"
   }
 }

@@ -1,53 +1,49 @@
 $brand: #2F2F52;
 $parents: #2447C3;
 $nannies: #d21640;
-$contact: #594928;
 $gray: #ccc;
 $white: #ffffff;
 $off-white: #fafafa;
 
-.white {
-  color: $white;
+$colors: (
+  "brand": $brand,
+  "parents": $parents,
+  "nannies": $nannies,
+  "gray": $gray,
+  "white": $white,
+  "off-white": $off-white,
+);
+
+.feature {
+  color: $parents;
 }
 
-.bg-white {
-  background: $white;
+.bg-feature {
+  background-color: $brand;
 }
 
-.bg-off-white {
-  background: $off-white;
-}
-
-@each $bp-prefix, $size in $breakpoints {
-  @media #{$size} {
-    .#{$bp-prefix}-bg-off-white {
-      background: $off-white;
+@mixin classes($colors) {
+  @each $name, $value in $colors {
+    .#{$name} {
+      color: $value;
+    }
+    .bg-#{$name} {
+      background-color: $value;
+    }
+    .#{$name}-layout {
+      .feature {
+        color: $value;
+      }
+      .bg-feature {
+        background-color: $value;
+      }
     }
   }
 }
 
-.txt-primary {
-  color: $brand;
-}
-
-.bg-feature  {
-
-  .parents & {
-    background-color: $parents;
-  }
-
-  .nannies & {
-    background-color: $nannies;
-  }
-}
-
-.txt-feature  {
-
-  .parents & {
-    color: $parents;
-  }
-
-  .nannies & {
-    color: $nannies;
+@include classes($colors);
+@each $bp-prefix, $size in $breakpoints {
+  @media #{$size} {
+    @include classes($colors);
   }
 }

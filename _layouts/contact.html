@@ -1,51 +1,51 @@
 ---
 layout: default
 ---
-<div class="my-4 sm-my-4 txt-primary mx-auto col-12 lg-col-10">
-  <h3 class="f2 bold">Contact</h3>
-  <div class="clearfix f3 txt-primary">
+{% include marquee.html title="Get in touch" subtitle="Call, email or fill out our form" header=true%}
+<div class="my-3 sm-my-2 mx-auto col-12 lg-col-10">
+  <div class="overflow-hidden f3">
     <form class="col py-2 col-10 pr-col-1 sm-pr-col-0 sm-col-14 content" action="https://formspree.io/sam@margalit.com.au" method="POST">
-      <div class="clearfix">
-        <div class="mb-2 col col-7 sm-col-14 pr-2 sm-pr-0">
+      <div class="overflow-hidden">
+        <div class="mb-3 sm-mb-2 col col-7 sm-col-14 pr-2 sm-pr-0">
           <label class="f4 mb-1 block">Name</label>
-          <input class="input"></input>
+          <input class="input" required name="Name"></input>
         </div>
-        <div class="mb-2 col col-7 sm-col-14 pl-2 sm-pl-0">
+        <div class="mb-3 sm-mb-2 col col-7 sm-col-14 pl-2 sm-pl-0">
           <label class="f4 mb-1 block">Suburb</label>
-          <input class="input"></input>
+          <input class="input" required name="Suburb"></input>
         </div>
       </div>
-      <div class="clearfix">
-        <div class="mb-2 col col-7 sm-col-14 pr-2 sm-pr-0">
+      <div class="overflow-hidden">
+        <div class="mb-3 sm-mb-2 col col-7 sm-col-14 pr-2 sm-pr-0">
           <label class="f4 mb-1 block">Phone Number</label>
-          <input class="input"></input>
+          <input class="input" required name="Phone Number"></input>
         </div>
-        <div class="mb-2 col col-7 sm-col-14 pl-2 sm-pl-0">
+        <div class="mb-3 sm-mb-2 col col-7 sm-col-14 pl-2 sm-pl-0">
           <label class="f4 mb-1 block">Email Address</label>
-          <input class="input"></input>
+          <input class="input" required name="Email Address"></input>
         </div>
       </div>
-      <div class="mb-3 col col-14">
+      <div class="mb-3 sm-mb-3 col col-14">
         <label class="f4 mb-1 block">Message</label>
-        <textarea class="textarea"></textarea>
+        <textarea class="textarea" required name="Message"></textarea>
       </div>
-      <input type="hidden" name="_next" value="/thanks.html" />
+      <input type="hidden" name="_next" value="/thanks" />
       <button type="submit" class="button">Submit</button>
     </form>
     <div class="col col-4 sm-col-14 pt-2">
-      <p class="f4 mb-2">
+      <p class="f4 mb-3">
         Phone<br/>
         <a class="bold">
           0400 000 000
         </a>
       </p>
-      <p class="f4 mb-2">
+      <p class="f4 mb-3">
         Email<br/>
         <a class="bold">
           ruby@nannymatch.com.au
         </a>
       </p>
-      <p class="f4 mb-2">
+      <p class="f4 mb-3">
         Address<br/>
         <a class="bold">
           9/41 Hanover St<br/>

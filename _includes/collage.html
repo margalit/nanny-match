@@ -1,4 +1,4 @@
-<div class="clearfix flex flex-wrap">
+<div class="overflow-hidden flex flex-wrap">
   {% for image in include.collage.images %}
     <img class="col col-2 sm-col-2 block self-center{% if forloop.index > 14 %} sm-hide{% endif %}" src="{{ image }}" />
     {% if forloop.index == 7 %}

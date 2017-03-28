@@ -25,21 +25,18 @@ testimonials:
     subtitle: Carlton
     photo: /uploads/lexi.jpg
     quote: This is such a wonderful and welcoming company. I've gained employment with two amazing families through Nanny Match!
-profiles:
-  title: Building strength through community support
-  subtitle: Our nannies regularly get together to enjoy wine-downs and social events, phone chats, coffees, workshops and courses to up-skill their talents.
-  images:
-    - /assets/images/profiles/profile-1.jpg
-    - /assets/images/profiles/profile-2.jpg
-    - /assets/images/profiles/profile-3.jpg
+pull_out:
+  title: Freedom to grow
+  subtitle: We take care of the administration so you can enjoy your daily nanny adventures. Let us handle tax contributions, employment benefits and superannuation. All you need to do it check in, check out and get paid on time.
 call_to_action:
-  title: Join the care revolution
-  subtitle: Apply to join today and feel supported in your work
+  title: Enjoy community support
+  subtitle: We’re here when you need us. And we like coffee!
   checklist:
-    - Get paid on time
-    - WorkCover insurance
-  image: https://image.shutterstock.com/z/stock-photo-mock-up-girl-is-holding-blank-cotton-tote-bag-handmade-eco-shopping-bag-for-girls-452960428.jpg
-  position: 25%
+    - Support with each placement
+    - Wine-downs and social events
+    - Workshops and courses
+  image: /assets/images/nanny-community-melbourne.jpg
+  position: 100%
   call_to_action: Apply now
   destination: /apply
 sidebar:
@@ -50,11 +47,11 @@ sidebar:
   button:
     text: Download PDF
     destination: /assets/pdfs/nanny-match-for-nannies.pdf
-content_title: Work with confidence
+content_title: Start off on the right foot
 ---
-Our nannies can focus on what they do best, knowing that we have them covered. On top of standard employment benefits, employees of Nanny Match also enjoy:
+We individually match each nanny with the best families for them. We encourage and support open communication, understanding, equality and respect. For the greatest chance at a successful working relationship each nanny receives:
 - A yearly payrise
 - Automated timesheets
 - Private and public indemnity insurance
-- Formal employment agreements with each family
+- Customisable and flexible formal agreements with each family
 - Sick and holiday cover

@@ -1,5 +1,5 @@
-<div class="sm-block clearfix flex flex-reverse col-14 bg-feature">
-  <div class="col col-7 sm-col-14 bg-cover sm-square" style="background-image:url('{{ include.feature.image }}'); background-position:{{ include.feature.position }};"></div>
+<div class="sm-block overflow-hidden flex flex-reverse col-14 bg-feature">
+  <div class="col col-7 sm-col-14 bg-cover ar-4x3" style="background-image:url('{{ include.feature.image }}'); background-position:{{ include.feature.position }};"></div>
   <div class="col col-7 sm-col-14 flex center-items py-5 sm-py-4 pr-col-1 pl-col-1 lg-pl-col-2 relative">
     <div class="sm-py-0">
       <h1 class="f1 bold white mb-1">
@@ -20,7 +20,7 @@
           </li>
         {% endfor %}
       </ul>
-      <a class="button-inverted txt-primary" href="{{ include.feature.destination }}">
+      <a class="button-inverted" href="{{ include.feature.destination }}">
         {{ include.feature.call_to_action }}
       </a>
     </div>

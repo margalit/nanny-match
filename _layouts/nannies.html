@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include feature.html feature=page.feature %}
-{% include testimonials.html testimonials=page.testimonials %}
-{% include profiles.html profiles=page.profiles %}
 {% include content.html title=page.content_title content=page.content sidebar=page.sidebar %}
+{% include marquee.html title=page.pull_out.title subtitle=page.pull_out.subtitle %}
+{% include testimonials.html testimonials=page.testimonials %}
 {% include feature.html feature=page.call_to_action %}

@@ -1,0 +1,46 @@
+.circle {
+  position: relative;
+  border-radius: 50%;
+
+  &:after {
+    content: "";
+    display: block;
+    padding-top: 100%;
+  }
+}
+
+.square {
+  position: relative;
+  &:after {
+    content: "";
+    display: block;
+    padding-top: 100%;
+  }
+}
+
+.ar-16x9 {
+  position: relative;
+  &:after {
+    content: "";
+    display: block;
+    padding-top: calc(100% * 9/16)
+  }
+}
+
+.ar-4x3 {
+  position: relative;
+  &:after {
+    content: "";
+    display: block;
+    padding-top: calc(100% * 3/4)
+  }
+}
+
+.ar-10x1 {
+  position: relative;
+  &:after {
+    content: "";
+    display: block;
+    padding-top: calc(100% * 1/10)
+  }
+}

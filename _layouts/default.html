@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/assets/styles/app.css" />
   </head>
 
-  <body class="{{ page.layout }} bg-off-white">
+  <body class="{{ page.layout }}-layout bg-off-white">
     {% if site.google_analytics %}
       <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -19,11 +19,11 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
-    <div class="bg-white clearfix">
+    <div class="bg-white overflow-hidden">
       <div class="py-3 sm-py-0 f3 flex sm-block justify-between col-12 lg-col-10 mx-auto sm-col-14">
-        <div class="clearfix sm-py-3 sm-col-12 sm-mx-auto">
+        <div class="overflow-hidden sm-py-3 sm-col-12 sm-mx-auto">
           <div class="sm-col sm-col-7">
-            <a href="/" class="txt-primary bold no-underline relative my-n3 py-3 sm-block">
+            <a href="/" class="bold no-underline relative my-n3 py-3 sm-block">
               Nanny Match
               <div class="absolute" style="top: 50%; left: 0; transform: translate(3.8rem, 1rem); opacity: 0.2; width: 7rem; height: 3rem">
                 {% include svg/smile.svg %}
@@ -31,14 +31,14 @@
             </a>
           </div>
           <div class="sm-col sm-col-7">
-            <button data-toggle class="txt-primary sm-block hide bold my-n3 py-3 col-14 right">Menu</button>
+            <button data-toggle class="sm-block hide bold my-n3 py-3 col-14 right">Menu</button>
           </div>
         </div>
         <div data-menu class="sm-hide sm-col-14 sm-py-2">
-          <div class="clearfix sm-col-12 sm-mx-auto">
-            <a href="/" class="txt-primary bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Parents</a>
-            <a href="/nannies" class="txt-primary bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Nannies</a>
-            <a href="/contact" class="txt-primary bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Get in touch</a>
+          <div class="overflow-hidden sm-col-12 sm-mx-auto">
+            <a href="/" class="bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Parents</a>
+            <a href="/nannies" class="bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Nannies</a>
+            <a href="/contact" class="bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Get in touch</a>
           </div>
         </div>
       </div>
@@ -47,18 +47,11 @@
 
     </div>
 
-    <div class="pad py-4 f3 col-9 sm-col-12 lg-col-7 mx-auto txt-primary center">
+    <div class="pad py-4 f3 col-9 sm-col-12 lg-col-7 mx-auto center">
       <p class="mb-1">Nanny Match would like to acknowledge the traditional owners of the land on which we are living and working and pay our respects to their elders both past and present.</p>
       <p class="bold">&copy; Nanny Match</p>
     </div>
 
-    <script>
-      var toggle = document.querySelector('[data-toggle]');
-      var menu = document.querySelector('[data-menu]');
-      var toggleMenu = function() {
-        menu.classList.toggle('sm-hide');
-      };
-      toggle.addEventListener('click', toggleMenu);
-    </script>
+    <script type="text/javascript" src="/assets/scripts/dist/app.js"></script>
   </body>
 </html>

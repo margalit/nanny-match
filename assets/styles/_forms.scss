@@ -1,18 +1,17 @@
-.input, .textarea {
-  font-family: inherit;
-  font-size: inherit;
-  display: block;
-  padding: nth($spacings, 2);
-  font-size: $fontsize-3;
-  line-height: $lineheight-3;
-  width: 100%;
-  border: 1px solid $gray;
-  &:focus {
-    border: 1px solid $brand;
-    outline: 0;
-  }
-}
+$classes: (
+  input: (
+    padding: nth($spacings, 2),
+    font-size: $fontsize-3,
+    line-height: $lineheight-3,
+    border: 1px solid $gray,
+  ),
+  textarea: (
+    padding: nth($spacings, 2),
+    font-size: $fontsize-3,
+    line-height: $lineheight-3,
+    min-height: nth($spacings, 7),
+    border: 1px solid $gray,
+  ),
+);
 
-.textarea {
-  min-height: nth($spacings, 7);
-}
+@include all-sizes($classes);
