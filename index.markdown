@@ -1,5 +1,6 @@
 ---
 title: Nanny Match Melbourne
+description: Meet experienced and reliable agency nannies in Melbourne
 layout: parents
 feature:
   title: Find the right fit
@@ -71,7 +72,6 @@ sidebar:
     destination: "/assets/pdfs/nanny-match-for-parents.pdf"
 content_title: We value quality and longevity
 image: "/assets/images/nannies-melbourne.jpg"
-description: Find a nanny in Melbourne
 ---
 
 When we connect you with a nanny, you’ll have peace of mind knowing each nanny has been met personally and carefully vetted for experience, reliability and cultural fit. We look for:
