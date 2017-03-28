@@ -21,7 +21,7 @@ testimonials:
     really is a match making service!
 - name: Brooke
   subtitle: Brunswick West
-  photo: "/uploads/Brooke.jpg"
+  photo: "/uploads/brooke.jpg"
   quote: I have worked with a number of nanny recruitment agencies of the last 17
     years and Nanny Match is by far the most unique and personal agency I have worked
     for!
