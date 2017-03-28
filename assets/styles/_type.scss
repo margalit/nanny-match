@@ -64,23 +64,37 @@ $classes: (
 }
 
 .content {
+
   p {
     margin-bottom: nth($spacings, 1);
   }
 
-  ul {
-    padding: nth($spacings, 1) 0;
+  h3 {
+    margin-top: nth($spacings, 3);
+    margin-bottom: nth($spacings, 1);
+    &:first-child {
+      margin-top: 0;
+    }
   }
 
-  li {
-    margin-bottom: nth($spacings, 1);
-    position: relative;
-    padding-left: nth($spacings, 3);
-    &:before {
-      content: "—";
-      position: absolute;
-      left: 0;
-      top: 0;
+  ol {
+    padding: nth($spacings, 1) 0;
+    list-style-type: none;
+  }
+
+  ul {
+    padding: nth($spacings, 1) 0;
+
+    li {
+      margin-bottom: nth($spacings, 1);
+      position: relative;
+      padding-left: nth($spacings, 3);
+      &:before {
+        content: "—";
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
     }
   }
 }

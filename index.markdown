@@ -70,7 +70,7 @@ sidebar:
   button:
     text: Download PDF
     destination: "/assets/pdfs/nanny-match-for-parents.pdf"
-content_title: We value quality and longevity
+content_title: We value quality and long-lasting matches
 image: "/assets/images/nannies-melbourne.jpg"
 ---
 
