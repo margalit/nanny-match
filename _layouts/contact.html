@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include marquee.html title="Get in touch" subtitle="Call, email or fill out our form" header=true%}
+{% include marquee.html title=page.title subtitle=page.subtitle header=true%}
 <div class="my-3 sm-my-2 mx-auto col-12 lg-col-10">
   <div class="overflow-hidden f3">
     <form class="col py-2 col-10 pr-col-1 sm-pr-col-0 sm-col-14 content" action="https://formspree.io/sam@margalit.com.au" method="POST">
@@ -32,27 +32,6 @@ layout: default
       <input type="hidden" name="_next" value="/thanks" />
       <button type="submit" class="button">Submit</button>
     </form>
-    <div class="col col-4 sm-col-14 pt-2">
-      <p class="f4 mb-3">
-        Phone<br/>
-        <a class="bold">
-          0400 000 000
-        </a>
-      </p>
-      <p class="f4 mb-3">
-        Email<br/>
-        <a class="bold">
-          ruby@nannymatch.com.au
-        </a>
-      </p>
-      <p class="f4 mb-3">
-        Address<br/>
-        <a class="bold">
-          9/41 Hanover St<br/>
-          Fitzroy 3065<br/>
-          Melbourne, VIC
-        </a>
-      </p>
-    </div>
+    {% include sidebar.html %}
   </div>
 </div>

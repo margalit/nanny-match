@@ -59,7 +59,7 @@ call_to_action:
   destination: /contact
 sidebar:
   content: |
-    Rates start at $30 an hour and are inclusive of salary, WorkCover, private and public indemnity insurance, superannuation, statuatory costs and agency fees.
+    Rates start at $28 an hour and are inclusive of salary, WorkCover, private and public indemnity insurance, superannuation, statuatory costs and agency fees.
   button:
     text: Download PDF
     destination: /assets/pdfs/nanny-match-for-parents.pdf
