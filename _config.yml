@@ -1,5 +1,5 @@
 ---
-title: Nanny Match
+title: Nanny Match Melbourne
 timezone: Australia/Melbourne
 permalink: pretty
 exclude:
@@ -23,3 +23,5 @@ address_line_1: 9/41 Hanover St
 address_line_2: Fitzroy 3065
 address_line_3: Melbourne, VIC
 google_analytics: UA-72697217-1
+description: Find a nanny in Melbourne
+url: http://nannymatch.com.au
