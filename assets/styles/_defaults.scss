@@ -47,6 +47,8 @@ button {
   font: inherit;
   cursor: pointer;
   -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 
   &:focus {
     outline: 0;
@@ -63,9 +65,11 @@ input, textarea, select {
   font-size: inherit;
   display: block;
   width: 100%;
-  -webkit-appearance: none;
   border-radius: 0;
   background: transparent;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 
   &:focus {
     border: 1px solid;

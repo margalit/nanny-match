@@ -9,11 +9,11 @@ layout: default
       <div class="overflow-hidden">
         <div class="mb-3 sm-mb-2 col col-7 sm-col-14 pr-2 sm-pr-0">
           <label class="f4 mb-1 block">Date of Birth</label>
-          <input class="input" type="date" data-field="date-of-birth"></input>
+          <input class="input" required type="date" placeholder="dd/mm/yyyy" data-field="date-of-birth"></input>
         </div>
         <div class="mb-3 sm-mb-2 col col-7 sm-col-14 pl-2 sm-pl-0">
           <label class="f4 mb-1 block">Visa Status</label>
-          <select class="input" data-field="visa-status">
+          <select class="input" required data-field="visa-status">
             <option selected disabled>Select one</option>
             <option value="permanent">I am a permanent resident or Australian Citizen</option>
             <option value="temporary">Working Holiday Visa</option>
@@ -23,7 +23,7 @@ layout: default
       </div>
       <div class="mb-3 sm-mb-2 col col-14 sm-col-14">
         <label class="f4 mb-1 block">Do you have a valid Working With Children Check?</label>
-        <select class="input" data-field="wwcc">
+        <select class="input" required data-field="wwcc">
           <option selected disabled>Select one</option>
           <option value="has-wwcc">Yes</option>
           <option value="will-get-wwcc">No but I am willing to get one</option>
@@ -32,7 +32,7 @@ layout: default
       </div>
       <div class="mb-3 sm-mb-2 col col-14 sm-col-14">
         <label class="f4 mb-1 block">Do you have a valid First Aid Certificate?</label>
-        <select class="input" data-field="first-aid">
+        <select class="input" required data-field="first-aid">
           <option selected disabled>Select one</option>
           <option value="has-first-aid">Yes</option>
           <option value="will-get-first-aid">No but I am willing to get one</option>
@@ -41,14 +41,14 @@ layout: default
       </div>
       <div class="mb-3 sm-mb-3 col col-14 sm-col-14">
         <label class="f4 mb-1 block">Are you available to work in Melbourne for at least 12 months?</label>
-        <select class="input" data-field="commited">
+        <select class="input" required data-field="commited">
           <option selected disabled>Select one</option>
           <option value="yes">Yes</option>
           <option value="no">No</option>
         </select>
       </div>
       <input type="hidden" name="_next" value="/thanks" />
-      <button type="submit" class="button" data-submit disabled>Next step</button>
+      <button type="submit" class="button">Next step</button>
     </form>
     {% include sidebar.html %}
   </div>

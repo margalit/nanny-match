@@ -9,48 +9,23 @@ const setupMenu = () => {
 
 const setupForm = () => {
   const form = document.querySelector('[data-nanny-form]')
-  const submit = document.querySelector('[data-submit]')
-  const validateFormWithFields = validateForm(form)(submit)
   if (form) {
     const fields = form.querySelectorAll('[data-field]')
-    fields.forEach(field => {
-      field.addEventListener('change', () => {
-        validateFormWithFields(fields)
-      })
-    })
     form.onsubmit = evt => {
       evt.preventDefault()
       screenResults(fields)
     }
-  }
-}
-
-const validateForm = form => button => fields => {
-  let valid = true
-  fields.forEach(field => {
-    if(field.value === '' || field.value === 'Select one') {
-      valid = false
-    }
-  })
-  if(valid) {
-    form.onsubmit = evt => {
-      evt.preventDefault()
-      screenResults(fields)
-    }
-    button.disabled = false
-  } else {
-    form.onSubmit = evt => {
-      evt.preventDefault()
-    }
-    button.disabled = true
   }
 }
 
 const screenResults = fields => {
-  let satisfyCriteria = true
   let dateOfBirth
+  let satisfyCriteria = true
   fields.forEach(field => {
     const { value } = field
+    if(field.value === '' || field.value === 'Select one') {
+      satisfyCriteria = false
+    }
     switch(field.dataset.field) {
       case 'date-of-birth':
         dateOfBirth = value

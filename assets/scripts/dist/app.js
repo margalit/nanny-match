@@ -57,15 +57,8 @@
 
 	var setupForm = function setupForm() {
 	  var form = document.querySelector('[data-nanny-form]');
-	  var submit = document.querySelector('[data-submit]');
-	  var validateFormWithFields = validateForm(form)(submit);
 	  if (form) {
 	    var fields = form.querySelectorAll('[data-field]');
-	    fields.forEach(function (field) {
-	      field.addEventListener('change', function () {
-	        validateFormWithFields(fields);
-	      });
-	    });
 	    form.onsubmit = function (evt) {
 	      evt.preventDefault();
 	      screenResults(fields);
@@ -73,37 +66,15 @@
 	  }
 	};
 
-	var validateForm = function validateForm(form) {
-	  return function (button) {
-	    return function (fields) {
-	      var valid = true;
-	      fields.forEach(function (field) {
-	        if (field.value === '' || field.value === 'Select one') {
-	          valid = false;
-	        }
-	      });
-	      if (valid) {
-	        form.onsubmit = function (evt) {
-	          evt.preventDefault();
-	          screenResults(fields);
-	        };
-	        button.disabled = false;
-	      } else {
-	        form.onSubmit = function (evt) {
-	          evt.preventDefault();
-	        };
-	        button.disabled = true;
-	      }
-	    };
-	  };
-	};
-
 	var screenResults = function screenResults(fields) {
-	  var satisfyCriteria = true;
 	  var dateOfBirth = void 0;
+	  var satisfyCriteria = true;
 	  fields.forEach(function (field) {
 	    var value = field.value;
 
+	    if (field.value === '' || field.value === 'Select one') {
+	      satisfyCriteria = false;
+	    }
 	    switch (field.dataset.field) {
 	      case 'date-of-birth':
 	        dateOfBirth = value;
