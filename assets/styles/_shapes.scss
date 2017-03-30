@@ -44,3 +44,14 @@
     padding-top: calc(100% * 1/10)
   }
 }
+
+@media #{$breakpoint-lg} {
+  .lg-ar-16x9 {
+    position: relative;
+    &:after {
+      content: "";
+      display: block;
+      padding-top: calc(100% * 9/16)
+    }
+  }
+}
