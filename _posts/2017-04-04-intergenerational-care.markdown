@@ -38,6 +38,7 @@ Another intergenerational model is that of [Humanitas in the Netherlands](http:/
 
 **NS:** Intergenerational work has the capacity to harness the young, the old and everyone in-between. It is about connection and humanity and to me, it has the ability to enrich our lives immensely.
 
+
 **Check out these great organisations:**
 [Five Good Friends](https://www.fivegoodfriends.com.au/)
 [The Casserole Club](https://www.casseroleclub.com)
