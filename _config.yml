@@ -32,3 +32,16 @@ address_line_3: Melbourne, VIC
 google_analytics: UA-72697217-1
 description: Find a nanny in Melbourne
 url: http://nannymatch.com.au
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/blog/:title/"
+    author: ruby
+authors:
+  ruby:
+    name: Ruby Brown
+    avatar: "/uploads/ruby.jpg"
+    email: ruby@nannymatch.com.au

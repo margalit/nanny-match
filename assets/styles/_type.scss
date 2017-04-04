@@ -69,7 +69,9 @@ $classes: (
     margin-bottom: nth($spacings, 1);
   }
 
-  h3 {
+  h1, h2, h3 {
+    font-size: $fontsize-3;
+    line-height: $lineheight-3;
     margin-top: nth($spacings, 3);
     margin-bottom: nth($spacings, 1);
     &:first-child {
@@ -96,5 +98,15 @@ $classes: (
         top: 0;
       }
     }
+  }
+
+  strong {
+    font-weight: bold;
+  }
+
+  img {
+    padding: nth($spacings, 2) 0;
+    max-width: 100%;
+    display: block;
   }
 }

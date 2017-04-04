@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% include marquee.html title=page.title subtitle=page.subtitle header=true%}
+<div class="py-5 sm-py-4 mx-auto col-12 lg-col-10 sm-block justify-between">
+  {% for post in site.posts %}
+    {% assign author = site.authors[post.author] %}
+    <div class="overflow-hidden flex sm-block mb-6">
+      <div class="col col-2 sm-col-14">
+        <div class="col-10 sm-col-3 sm-mx-auto circle bg-cover" style="background-image: url({{ author.avatar }})"></div>
+      </div>
+      <div class="col col-12 sm-col-14 pr-col-2 sm-pr-col-0 lg-pr-col-3 pt-2 sm-center">
+        <a class="f2 mb-1 bold no-underline" href="{{ post.url }}">{{ post.title }}</a>
+        <div class="f3 mb-3">{{ author.name }} on {{ post.date | date: '%B %d, %Y' }}</div>
+        <div class="f3 mb-4 content sm-left">
+          {{ post.excerpt | markdownify }}
+        </div>
+        <a href="{{ post.url }}" class="button">
+          Read more
+        </a>
+      </div>
+    </div>
+  {% endfor %}
+</div>
