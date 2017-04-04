@@ -12,7 +12,6 @@ tags:
 target: parents
 ---
 
-
 So, you have a shortlist of interested nannies who you would like to meet. Invite each applicant over for a cuppa, give them a tour of your home and watch how they interact with your children.
 
 ### Remember to view:

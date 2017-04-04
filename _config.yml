@@ -8,6 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/blog/:title/"
+    author: ruby
 permalink: pretty
 exclude:
 - Gruntfile.js
@@ -32,14 +40,6 @@ address_line_3: Melbourne, VIC
 google_analytics: UA-72697217-1
 description: Find a nanny in Melbourne
 url: http://nannymatch.com.au
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/blog/:title/"
-    author: ruby
 authors:
   ruby:
     name: Ruby Brown
