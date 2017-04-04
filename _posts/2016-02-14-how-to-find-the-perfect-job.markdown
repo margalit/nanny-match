@@ -1,6 +1,7 @@
 ---
 title: How to Find the Right Family
 date: 2016-02-14 14:49:00 +11:00
+published: false
 categories:
 - nannies
 tags:
@@ -8,6 +9,7 @@ tags:
 - nanny
 - melbourne
 - childcare
+target: nannies
 excerpt: |-
   Every nanny has their favourite family - welcoming, appreciative, caring, interested.
 
@@ -16,7 +18,6 @@ excerpt: |-
   ![beyonce2.gif](/uploads/beyonce2.gif)
 
   Think about your favourite job/nanny family so far. What made this job so great? Make a list. Here's my list:
-target: nannies
 ---
 
 Every nanny has their favourite family - welcoming, appreciative, caring, interested.
