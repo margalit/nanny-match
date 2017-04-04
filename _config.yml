@@ -40,6 +40,7 @@ defaults:
     layout: post
     permalink: "/blog/:title/"
     author: ruby
+    target: parents
 authors:
   ruby:
     name: Ruby Brown
