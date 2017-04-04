@@ -8,6 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/blog/:title/"
+    author: ruby
 permalink: pretty
 exclude:
 - Gruntfile.js
