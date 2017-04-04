@@ -5,6 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
+    target: parents
   uploads:
     title: Uploads
     output: true
