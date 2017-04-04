@@ -1,11 +1,12 @@
 ---
-title: Nanny Wisdom
+title: What makes a good match?
 date: 2016-04-04 21:15:00 +10:00
 categories:
 - nanny stories
 tags:
 - nannies
 - tips
+target: nannies
 excerpt: |-
   ![giphy.gif](/uploads/giphy.gif)
   Power GIF by [Libby Vanderploeg](http://www.libbyvanderploeg.com/about/)
@@ -15,7 +16,6 @@ excerpt: |-
   ### Tell me about your favourite families. What made those relationships work?
 
   Here's a collection of the best responses so far. I think we can learn quite a bit from these ladies...
-target: nannies
 ---
 
 ![giphy.gif](/uploads/giphy.gif)
@@ -51,7 +51,7 @@ Here's a collection of the best responses so far. I think we can learn quite a b
 
 **– Katie**
 
-> Similar interests, lifestyle and child-raising values. Looking back on a previous role, I really didn't click with the mother and I shouldn't have taken the job because it's not beneficial for either party. So that connection is really important.
+> Similar interests, lifestyle and child-raising values. Looking back on a previous role, I really didn't click with the parents and I shouldn't have taken the job because it's not beneficial for either party. So that connection is really important.
 
 **– Ursula**
 
