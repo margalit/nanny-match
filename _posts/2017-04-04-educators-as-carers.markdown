@@ -1,6 +1,11 @@
 ---
 title: Educators as Carers
 date: 2017-04-04 22:32:00 +10:00
+tags:
+- carers
+- education
+- nanny
+- early childhood
 ---
 
 After completing a BA of Early Childhood Education in 2015, Sarah decided to take a step away from formal education systems and continue her work as a private nanny. She was drawn to the opportunity to form intimate in-home partnerships and the ability to work with children from infancy through to toddlerhood. She wanted to combine her skills as a caregiver and educator: [Sarah De Lean Personalised Educare](https://www.facebook.com/Sarah-de-Lean-Personalised-Educare-1116343531731344/) was born. 
