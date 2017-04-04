@@ -1,6 +1,11 @@
 ---
 title: Intergenerational Care
 date: 2017-04-04 22:24:00 +10:00
+tags:
+- care
+- childcare
+- aged care
+- ideas
 ---
 
 We're part of an ongoing conversation about childcare alternatives that offer more flexibility to our community. We connected with Neri Solomon to learn more about a great solution that could change the lives of many Australian families.
