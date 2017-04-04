@@ -1,6 +1,10 @@
 ---
 title: The Rise of the Part Time Nanny
 date: 2017-04-04 22:34:00 +10:00
+tags:
+- parents
+- part-time
+- industry
 ---
 
 As parents find themselves without family support, working longer hours than expected and running businesses from their home office, part-time nannies are becoming more popular than full-time carers.
