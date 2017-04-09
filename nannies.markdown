@@ -1,7 +1,6 @@
 ---
 title: Work with Nanny Match
 description: Earn up to $30 an hour working with children in Melbourne
-layout: nannies
 feature:
   title: We’ve got you covered
   subtitle: Earn up to $30 an hour working with children in Melbourne
@@ -34,7 +33,7 @@ pull_out:
   title: Freedom to grow
   subtitle: We take care of the administration so you can enjoy your daily nanny adventures.
     Let us handle tax contributions, employment benefits and superannuation. All you
-    need to do it check in, check out and get paid on time.
+    need to do is check in, check out and get paid on time.
 call_to_action:
   title: Enjoy community support
   subtitle: We’re here when you need us. And we like coffee!
@@ -56,6 +55,7 @@ sidebar:
     destination: "/assets/pdfs/nanny-match-for-nannies.pdf"
 content_title: Start off on the right foot
 image: "/assets/images/nanny-jobs-melbourne.jpg"
+layout: nannies
 ---
 
 We individually match each nanny with the best families for them. We encourage and support open communication, understanding, equality and respect. For the greatest chance at a successful working relationship each nanny receives:
