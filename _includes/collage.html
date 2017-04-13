@@ -1,0 +1,13 @@
+<div class="overflow-hidden flex flex-wrap">
+  {% for image in include.collage.images %}
+    <img class="col col-2 sm-col-2 block self-center{% if forloop.index > 14 %} sm-hide{% endif %}" src="{{ image }}" />
+    {% if forloop.index == 7 %}
+      <div class="col col-6 pl-col-1 lg-pl-col-2 bg-feature flex sm-col-14 sm-pr-col-1 sm-py-4 col-right">
+        <div class="my-auto self-center">
+          <h3 class="f2 bold white mb-1">{{ include.collage.title }}</h3>
+          <h3 class="f3 white mb-2">{{ include.collage.subtitle }}</h3>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

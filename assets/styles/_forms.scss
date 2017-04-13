@@ -1,0 +1,17 @@
+$classes: (
+  input: (
+    padding: nth($spacings, 2),
+    font-size: $fontsize-3,
+    line-height: $lineheight-3,
+    border: 1px solid $gray,
+  ),
+  textarea: (
+    padding: nth($spacings, 2),
+    font-size: $fontsize-3,
+    line-height: $lineheight-3,
+    min-height: nth($spacings, 7),
+    border: 1px solid $gray,
+  ),
+);
+
+@include all-sizes($classes);

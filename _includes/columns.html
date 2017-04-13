@@ -1,0 +1,13 @@
+<div class="flex sm-block justify-between my-5 mx-auto col-12 lg-col-10">
+  {% for column in include.columns %}
+    <div class="flex sm-block flex-column col-4 sm-col-14 sm-mb-5 justify-between">
+      <div>
+        <h3 class="f2 bold mb-1">{{ column.title }}</h3>
+        <p class="f3 sm-f2 mb-3">{{ column.description }}</p>
+      </div>
+      {% if column.note %}
+        <h4 class="f3 sm-f2 bold">{{ column.note }}</h4>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>

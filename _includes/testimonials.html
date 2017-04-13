@@ -1,0 +1,21 @@
+<div class="py-5 sm-py-4 mx-auto col-12 lg-col-10 flex sm-block justify-between">
+  {% for testimonial in include.testimonials %}
+    <div class="col-4 sm-col-14 sm-mb-4">
+      <div class="overflow-hidden mb-3 sm-flex">
+        <div class="col col-4">
+          <div class="col-12 circle bg-cover" style="background-image: url({{ testimonial.photo }})"></div>
+        </div>
+        <div class="col col-10 f3 py-1 sm-my-auto">
+          <div class="bold">{{ testimonial.name }}</div>
+          {% if testimonial.subtitle %}
+            {{ testimonial.subtitle }}
+          {% endif %}
+          {% if testimonial.twitter %}
+            <a class="feature no-underline" href="http://twitter.com/{{ testimonial.twitter }}">@{{ testimonial.twitter }}</a>
+          {% endif %}
+        </div>
+      </div>
+      <div class="f3">{{ testimonial.quote }}</div>
+    </div>
+  {% endfor %}
+</div>

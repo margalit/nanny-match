@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+  font-weight: normal;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  font-size: 0.625vw;
+
+  @media #{$breakpoint-sm} {
+    font-size: 1.5vw;
+  }
+
+  @media #{$breakpoint-lg} {
+    font-size: 0.5vw;
+  }
+}
+
+body {
+  position: relative;
+  font-family: 'Objektiv';
+  color: $brand;
+  font-size: 1.6rem;
+}
+
+a {
+  color: inherit;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+path {
+  fill: currentColor;
+}
+
+body, html {
+  min-height: 100%;
+}
+
+button {
+  border: 0;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  &:focus {
+    outline: 0;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+}
+
+input, textarea, select {
+  font-family: inherit;
+  font-size: inherit;
+  display: block;
+  width: 100%;
+  border-radius: 0;
+  background: transparent;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  &:focus {
+    border: 1px solid;
+    outline: 0;
+  }
+}

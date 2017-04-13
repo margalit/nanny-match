@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta content="nanny agency, nanny, agency, melbourne, babysitters, nanny fitzroy, nanny northcote, nanny carlton, childcare, child care" name="keywords" />
+    {% seo %}
+    <link rel="stylesheet" href="/assets/styles/app.css" />
+    <link rel="shortcut icon" href="/assets/images/favicon.png" />
+  </head>
+
+  <body class="{{ page.layout }}-layout bg-off-white">
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+    <div class="bg-white overflow-hidden">
+      <div class="py-3 sm-py-0 f3 flex sm-block justify-between col-12 lg-col-10 mx-auto sm-col-14">
+        <div class="sm-py-3 sm-col-12 sm-mx-auto sm-overflow-hidden">
+          <div class="sm-col sm-col-7">
+            <a href="/" class="bold no-underline relative my-n3 py-3 sm-block">
+              Nanny Match
+              <div class="absolute" style="top: 50%; left: 0; transform: translate(3.8rem, 1rem); opacity: 0.2; width: 7rem; height: 3rem">
+                {% include svg/smile.svg %}
+              </div>
+            </a>
+          </div>
+          <div class="sm-col sm-col-7">
+            <button data-toggle class="sm-block hide bold my-n3 py-3 col-14 right">Menu</button>
+          </div>
+        </div>
+        <div data-menu class="sm-hide sm-col-14 sm-py-2">
+          <div class="overflow-hidden sm-col-12 sm-mx-auto">
+            <a href="/" class="sm-f2 bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Parents</a>
+            <a href="/nannies" class="sm-f2 bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Nannies</a>
+            <a href="/blog" class="sm-f2 bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Blog</a>
+            <a href="/contact" class="sm-f2 bold no-underline px-2 py-3 my-n3 sm-py-2 sm-my-0 sm-mx-n2 sm-block">Get in touch</a>
+          </div>
+        </div>
+      </div>
+
+      {{ content }}
+
+    </div>
+
+    <div class="pad py-4 f3 col-14 pl-col-2 pr-col-2 lg-pl-col-3 lg-pr-col-3 sm-pl-col-1 sm-pr-col-1 center bg-off-white">
+      <div class="mb-3">
+        <a class="no-underline bold mx-2 sm-block mx-0 mb-2" href="/">Parents</a>
+        <a class="no-underline bold mx-2 sm-block mx-0 mb-2" href="/nannies">Nannies</a>
+        <a class="no-underline bold mx-2 sm-block mx-0 mb-2" href="/blog">Blog</a>
+        <a class="no-underline bold mx-2 sm-block mx-0 mb-2" href="/contact">Contact</a>
+        <a class="no-underline bold mx-2 sm-block mx-0 mb-2" href="/privacy">Privacy Policy</a>
+        <a class="no-underline bold mx-2 sm-block mx-0 mb-2" href="/apply">Apply</a>
+      </div>
+      <p class="mb-1">Nanny Match would like to acknowledge the traditional owners of the land on which we are living and working and pay our respects to their elders both past and present.</p>
+      <p class="bold">&copy; Nanny Match</p>
+    </div>
+
+    <script type="text/javascript" src="/assets/scripts/dist/app.js"></script>
+  </body>
+</html>
