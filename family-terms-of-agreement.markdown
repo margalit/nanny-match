@@ -1,7 +1,6 @@
 ---
 title: Family terms of agreement
 date: 2017-04-14 08:44:00 +10:00
-published: false
 ---
 
 Thank you for choosing to use Nanny Match. These terms and conditions form the agreement upon which Nannies and Families use the services provided by ATA Creative Pty Ltd trading as Nanny Match (“Nanny Match”).
