@@ -3,7 +3,16 @@ title: Nanny Terms of Agreement
 date: 2017-04-14 13:13:00 +10:00
 ---
 
-By registering with us you warrant that all details you provide are valid and correct and that you are over 18 years of age and that you are eligible to work in Australia.
+Hi there, 
+
+Please find our terms of agreement below. Our goal is to create a community of happy and supported nannies. We're not huge fans of legal-jargon but it is important that we understand what each of our roles entail in this working relationship. Below is your agreement with Nanny Match. You'll also complete an agreement with each family, so everyone is on the same page. 
+
+Please feel free to contact us if you have any questions or queries. 
+
+Kindness, 
+Ruby and the Nanny Match team
+
+**Nanny Terms of Agreement with Nanny Match**
 
 You agree to only provide information that is true and correct and that is not false or misleading in any way. You agree to indemnify Nanny Match for any costs incurred, loss or claim (including potential claim) that arises as a result of incorrect information provided to Nanny Match you.
 
