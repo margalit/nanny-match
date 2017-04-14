@@ -1,7 +1,6 @@
 ---
 title: Nanny Terms of Agreement
 date: 2017-04-14 13:13:00 +10:00
-published: false
 ---
 
 By registering with us you warrant that all details you provide are valid and correct and that you are over 18 years of age and that you are eligible to work in Australia.
