@@ -2,9 +2,11 @@
 title: The Rise of the Part Time Nanny
 date: 2017-04-04 22:34:00 +10:00
 tags:
-- parents
-- part-time
-- industry
+- working parents
+- part-time nanny
+- after school care
+- find a part time nanny
+- date night
 ---
 
 As parents find themselves without family support, working longer hours than expected and running businesses from their home office, part-time nannies are becoming more popular than full-time carers.
@@ -15,7 +17,7 @@ As parents find themselves without family support, working longer hours than exp
 
 Michelle, Northcote 
 
->We moved to Melbourne for business, and after struggling with school pick-up and having a social life, we decided to find a nanny to work three afternoons each week. She works until 9pm every Friday and my partner and I meet for a date-night. I did not realise how relieved I would feel to know that we have someone to call on.
+>We moved to Melbourne for business, and after struggling with school pick-up and having a social life, we decided to find a nanny to work three afternoons each week. She works until 9pm every Friday and my partner and I meet for a date-night. I did not realise how relieved I would feel to know we have someone to call on.
 
 
 Valerie, Carlton
