@@ -11,10 +11,9 @@ tags:
 target: parents
 ---
 
-When Gemma applied to join Nanny Match I was absolutely floored. Her resume presents like a beautifully designed picture book. Gemma has a brilliant mind, an open heart and one seriously [exciting business](http://www.tobarwynandback.com/) under her wing.
-
 ![IMG_4113.JPG](/uploads/IMG_4113.JPG)
 
+When Gemma applied to join Nanny Match I was absolutely floored. Her resume presents like a beautifully designed picture book. Gemma has a brilliant mind, an open heart and one seriously [exciting business](http://www.tobarwynandback.com/) under her wing.
 
 ## Hi Gemma! Tell us a quick Gemma story. Where are you from and what lead you to where you are now?
 
