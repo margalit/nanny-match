@@ -41,6 +41,7 @@ You agree to refer new Families to Nanny Match before engaging with them.
 You understand that Nanny Match may terminate the employment if terms of agreement are breached or Family feedback does not reflect the standard of performance referenced by referees or falls below the standards as outlined by Nanny Match.
 
 You will not attend the workplace under the influence of narcotics or alcohol nor have them in possession.
+
 You agree to closely and safely supervise children at all times. You agree to be wholly responsible for the children in care and will not transfer these children to another person without permission from the Family.
 
 You shall not take to nor allow any unauthorised person or persons into the home of the Family unless that person has been approved by Nanny Match and/or the Family.
