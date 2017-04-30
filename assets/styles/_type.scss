@@ -70,12 +70,18 @@ $classes: (
   }
 
   h1, h2, h3 {
+    font-weight: bold;
     font-size: $fontsize-3;
     line-height: $lineheight-3;
     margin-top: nth($spacings, 3);
     margin-bottom: nth($spacings, 1);
     &:first-child {
       margin-top: 0;
+    }
+    
+    @media #{$breakpoint-sm} {
+      font-size: $fontsize-2;
+      line-height: $lineheight-2;
     }
   }
 

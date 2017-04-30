@@ -5,7 +5,7 @@
         <div class="col col-4">
           <div class="col-12 circle bg-cover" style="background-image: url({{ testimonial.photo }})"></div>
         </div>
-        <div class="col col-10 f3 py-1 sm-my-auto">
+        <div class="col col-10 f3 sm-f2 py-1 sm-my-auto">
           <div class="bold">{{ testimonial.name }}</div>
           {% if testimonial.subtitle %}
             {{ testimonial.subtitle }}
@@ -15,7 +15,7 @@
           {% endif %}
         </div>
       </div>
-      <div class="f3">{{ testimonial.quote }}</div>
+      <div class="f3 sm-f2">{{ testimonial.quote }}</div>
     </div>
   {% endfor %}
 </div>

@@ -10,8 +10,8 @@ layout: default
     </div>
     <div class="col col-12 sm-col-14 pr-col-2 sm-pr-col-0 lg-pr-col-3 pt-2 sm-center">
       <a class="f2 mb-1 bold no-underline" href="{{ post.url }}">{{ page.title }}</a>
-      <div class="f3 mb-3">{{ author.name }} on {{ page.date | date: '%B %d, %Y' }}</div>
-      <div class="f3 mb-4 content sm-left">
+      <div class="f3 sm-f2 mb-3">{{ author.name }} on {{ page.date | date: '%B %d, %Y' }}</div>
+      <div class="f3 sm-f2 mb-4 content sm-left">
         {{ page.content | markdownify }}
       </div>
     </div>
