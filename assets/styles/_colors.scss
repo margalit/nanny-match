@@ -22,15 +22,15 @@ $colors: (
   background-color: $brand;
 }
 
-@mixin classes($colors) {
+@mixin classes($colors, $bp-prefix) {
   @each $name, $value in $colors {
-    .#{$name} {
+    .#{$bp-prefix}-#{$name} {
       color: $value;
     }
-    .bg-#{$name} {
+    .#{$bp-prefix}-bg-#{$name} {
       background-color: $value;
     }
-    .#{$name}-layout {
+    .#{$bp-prefix}-#{$name}-layout {
       .feature {
         color: $value;
       }
@@ -41,9 +41,25 @@ $colors: (
   }
 }
 
-@include classes($colors);
+@each $name, $value in $colors {
+  .#{$name} {
+    color: $value;
+  }
+  .bg-#{$name} {
+    background-color: $value;
+  }
+  .#{$name}-layout {
+    .feature {
+      color: $value;
+    }
+    .bg-feature {
+      background-color: $value;
+    }
+  }
+}
+
 @each $bp-prefix, $size in $breakpoints {
   @media #{$size} {
-    @include classes($colors);
+    @include classes($colors, $bp-prefix);
   }
 }

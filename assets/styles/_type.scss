@@ -103,6 +103,9 @@ $classes: (
         left: 0;
         top: 0;
       }
+      @media #{$breakpoint-sm} {
+        padding-left: nth($spacings, 4);
+      }
     }
   }
 
