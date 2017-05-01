@@ -1,0 +1,121 @@
+@font-face {
+  font-family: 'Objektiv';
+  src: url('/assets/fonts/objektiv.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Objektiv';
+  src: url('/assets/fonts/objektiv-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+$fontsize-1: 4.4rem;
+$fontsize-2: 3.2rem;
+$fontsize-3: 2.2rem;
+
+$lineheight-1: 6.1rem;
+$lineheight-2: 4.6rem;
+$lineheight-3: 3.2rem;
+
+$classes: (
+  f1: (
+    font-size: $fontsize-1,
+    line-height: $lineheight-1
+  ),
+  f2: (
+    font-size: $fontsize-2,
+    line-height: $lineheight-2
+  ),
+  f3: (
+    font-size: $fontsize-3,
+    line-height: $lineheight-3
+  ),
+  bold: (font-weight: bold),
+  center: (text-align: center),
+  right: (text-align: right),
+  left: (text-align: left),
+  no-underline: (text-decoration: none),
+);
+
+@include all-sizes($classes);
+
+.f1-icon {
+  line-height: 0;
+  svg {
+    height: $fontsize-1;
+  }
+}
+
+.f2-icon {
+  line-height: 0;
+  svg {
+    height: $fontsize-2;
+  }
+}
+
+.f3-icon {
+  line-height: 0;
+  svg {
+    height: $fontsize-3;
+  }
+}
+
+.content {
+
+  p {
+    margin-bottom: nth($spacings, 1);
+  }
+
+  h1, h2, h3 {
+    font-weight: bold;
+    font-size: $fontsize-3;
+    line-height: $lineheight-3;
+    margin-top: nth($spacings, 3);
+    margin-bottom: nth($spacings, 1);
+    &:first-child {
+      margin-top: 0;
+    }
+    
+    @media #{$breakpoint-sm} {
+      font-size: $fontsize-2;
+      line-height: $lineheight-2;
+    }
+  }
+
+  ol {
+    padding: nth($spacings, 1) 0;
+    list-style-type: none;
+  }
+
+  ul {
+    padding: nth($spacings, 1) 0;
+
+    li {
+      margin-bottom: nth($spacings, 1);
+      position: relative;
+      padding-left: nth($spacings, 3);
+      &:before {
+        content: "—";
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      @media #{$breakpoint-sm} {
+        padding-left: nth($spacings, 4);
+      }
+    }
+  }
+
+  strong {
+    font-weight: bold;
+  }
+
+  img {
+    padding: nth($spacings, 2) 0;
+    max-width: 100%;
+    display: block;
+  }
+}
