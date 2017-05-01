@@ -5,7 +5,7 @@ date: 2017-04-29 20:59:00 +10:00
 
 We recently caught up with Ruth (mama and lawyer) who we matched with Brooke (mama and nanny) in early 2017. Here, Ruth tells us about life before a nanny and what a difference Brooke has made to her family. It's a lovely story, and one of our favourite matches.
 
-## What was happening in your life that lead to your decision to find a nanny?
+##What was happening in your life that lead to your decision to find a nanny?
 
 My child was about to turn 1. I'd been back at work part-time for about 6 months. We had decided to try to both work part-time without childcare or a nanny and it just wasn't working. We both felt like we
 weren’t enjoying either parenting or work and it was putting a strain on our relationship.
