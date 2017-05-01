@@ -58,7 +58,7 @@ Your Family will be charged a permanent placement fee of $290 upon indication of
 
 Your Family will be charged for hours when the Nanny is engaged. Nannies will record their arrival and departure times using Nanny Match’s online human resources and employee management software. 
 
-Nanny Match employee rates are based on a minimum 5-hour day. An additional surcharge may apply at Nanny Match’s discretion if less than the minimum 5 hours is booked.
+Nanny Match employee rates are based on a minimum 4-hour shift. An additional surcharge may apply at Nanny Match’s discretion if less than the minimum 4 hours is booked.
 
 Invoices are generated weekly and will be automatically charged to your nominated credit card or direct debit account within one week. A transaction fee of 1.98% (Visa/Mastercard) or 3.85% (AMEX) + 33c will be charged if paying by credit card. There is no transaction fee for direct debit. Services may be suspended if an account is in arrears for more than seven days. 
 
