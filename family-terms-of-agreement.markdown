@@ -22,7 +22,9 @@ The general terms of this agreement may be amended from time to time at the disc
 You have requested Nanny Match to provide your Family with the services of an employee of Nanny Match. Nanny Match is a service provider for the purposes of the Australian Consumer Law, and will provide services in accordance with this and all other relevant legislation.
 
 In addition to this agreement, you will also be provided with a Family & Nanny Agreement. This agreement is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. Nanny Match must be notified of any variations to this agreement negotiated between your Family and the Nanny. 
+
 Nanny Match will not themselves perform the services agreed to, but rather will supply one or more workers to fulfill your Family’s request. Nannies supplied by Nanny Match to carry out work shall at all times remain employees of Nanny Match.
+
 The contact details for any Nanny engaged by the Family shall remain confidential. Such details shall not be made available to any other person, company, or private employer without the consent of the Nanny.
 
 It is your Family’s responsibility to contact a Nanny to arrange an interview. Nannies employed by Nanny Match will interview with multiple families.
@@ -56,9 +58,11 @@ Your Family will be charged a permanent placement fee of $290 upon indication of
 * Your Family engages with a temporary Nanny; or
 * Your Family has found the Nanny to be employed by Nanny Match.
 
+In the event that your Family engages in a trial with a Nanny, the Family will be charged the Nanny's temporary rate. Your Family will be charged a placement fee on completion of the trial period once the desire to commence an ongoing engagement is confirmed.
+
 Your Family will be charged for hours when the Nanny is engaged. Nannies will record their arrival and departure times using Nanny Match’s online human resources and employee management software. 
 
-Nanny Match employee rates are based on a minimum 5-hour day. An additional surcharge may apply at Nanny Match’s discretion if less than the minimum 5 hours is booked.
+Nanny Match employee rates are based on a minimum 4-hour shift. An additional surcharge may apply at Nanny Match’s discretion if less than the minimum 4 hours is booked.
 
 Invoices are generated weekly and will be automatically charged to your nominated credit card or direct debit account within one week. A transaction fee of 1.98% (Visa/Mastercard) or 3.85% (AMEX) + 33c will be charged if paying by credit card. There is no transaction fee for direct debit. Services may be suspended if an account is in arrears for more than seven days. 
 
