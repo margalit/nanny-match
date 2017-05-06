@@ -30,28 +30,11 @@ testimonials:
   quote: We would unreservedly recommend their services to anyone, especially those
     looking to hire a nanny for the first time!
 collage:
-  title: By nannies, for nannies
+  title: Happy Nannies
   subtitle: Our nannies are employed by us, paid superannuation and receive a yearly
     payrise.
-  images:
-  - "/assets/images/nannies/01.png"
-  - "/assets/images/nannies/02.png"
-  - "/assets/images/nannies/03.png"
-  - "/assets/images/nannies/04.png"
-  - "/assets/images/nannies/05.png"
-  - "/assets/images/nannies/06.png"
-  - "/assets/images/nannies/07.png"
-  - "/assets/images/nannies/08.png"
-  - "/assets/images/nannies/09.png"
-  - "/assets/images/nannies/10.png"
-  - "/assets/images/nannies/11.png"
-  - "/assets/images/nannies/12.png"
-  - "/assets/images/nannies/13.png"
-  - "/assets/images/nannies/14.png"
-  - "/assets/images/nannies/15.png"
-  - "/assets/images/nannies/16.png"
-  - "/assets/images/nannies/17.png"
-  - "/assets/images/nannies/18.png"
+  image: "/assets/images/best-nannies-melbourne.jpg"
+  image_mobile: "/assets/images/best-nannies-melbourne-mobile.jpg"
 call_to_action:
   title: Bring more freedom to your family life
   subtitle: Call Ruby today to discuss your family’s needs
