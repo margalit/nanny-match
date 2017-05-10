@@ -77,13 +77,14 @@ The rates charged to your Family will also be increased by $1 per hour for each 
 The provision of services to a Family by a Nanny is subject at all times to the place of care being a safe and suitable place for the Nanny, and a suitable Nanny being available.
 
 Your Family is responsible for the direction, instruction and supervision of the Nanny during the engagement. 
+
 Your Family is responsible for the maintenance of a safe workplace for the Nanny, including the safety and condition of all machinery and vehicles provided for the Nanny as used during the course of the engagement.
 
 A Nanny is entitled to an informal break at some point during their shift. The length and nature of this break will be agreed upon between your Family and the Nanny.
 
 Your Family indemnifies Nanny Match from claims arising from the failure of the Family to provide a safe or harassment-free workplace.
 
-Your Family must ensure that current emergency contact information is given to Nanny Match staff. Your Family agrees to pay any costs related to the provision of emergency services, and must notify Nanny Match within 24 hours if a Nanny suffers an injury during their engagement.
+Your Family must ensure that current emergency contact information is given to Nanny Match staff. Your Family agrees to pay any costs related to the provision of emergency services and must notify Nanny Match within 24 hours if a Nanny suffers an injury during their engagement.
 
 Your Family must permit Nanny Match staff to conduct support visits to the Nanny in the Family home.
 
@@ -104,6 +105,7 @@ Your Family will ensure that the motor vehicle is fitted with child restraints a
 In the event that the Nanny is required to drive their own motor vehicle during their engagement with your Family:
 
 * Your Family will indemnify Nanny Match and the Nanny in relation to any and all principal or vicarious liability whatsoever in relation to the use of the Nanny’s vehicle; 
+
 Your Family will indemnify Nanny Match and the Nanny against any loss, damages, actions, suits, claims, demands and other liabilities of any nature whatsoever which your Family now or at any time may have arising from the use of a motor vehicle owned by the Nanny; and
 
 * Your Family will negotiate a petrol allowance to be paid directly to the Nanny.

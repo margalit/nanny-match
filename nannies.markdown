@@ -35,14 +35,14 @@ pull_out:
     Let us handle tax contributions, employment benefits and superannuation. All you
     need to do is check in, check out and get paid on time.
 call_to_action:
-  title: Enjoy community support
-  subtitle: We’re here when you need us. And we like coffee!
+  title: We’re here for you
+  subtitle: Our goal is to help nannies feel supported in their work
   checklist:
   - Support with each placement
   - Wine-downs and social events
   - Workshops and courses
-  image: "/assets/images/nanny-community-melbourne.jpg"
-  position: 100%
+  image: "/assets/images/happy-nanny-melbourne.jpg"
+  position: center
   call_to_action: Apply now
   destination: "/apply"
 sidebar:
