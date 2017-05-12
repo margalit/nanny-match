@@ -33,10 +33,12 @@ Nanny Match was recommended to my sister through her mother’s group though she
 
 **Tell us about your first meeting with Brooke. How did you know she was the one?**
 
-![2.jpg](/uploads/2.jpg)
-
 Brooke was the first nanny we interviewed and we were both nervous about it. I had spoken earlier that day to a mum who Brooke still works for one day a week and she had nothing but praise for her
 which was great. I really liked how Brooke was with our son. She didn’t try to cuddle him or push it but was just gentle and interested. She has an outstanding smile and he seemed to like her straight away. She was someone who I immediately felt would be a friend and a lovely presence in our house. She was also immensely knowledgeable about kids. It felt right.
+
+
+![2.jpg](/uploads/2.jpg)
+
 
 **How has your life changed since Brooke started with your family?**
 
