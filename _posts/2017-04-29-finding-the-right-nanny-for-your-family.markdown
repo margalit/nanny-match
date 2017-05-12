@@ -44,8 +44,6 @@ I think our house is a lot happier. My partner and I are not having to negotiate
 
 **What's your advice to parents who are about to find a nanny?**
 
-There is no one size fits all. Lots of people tell you what the perfect person is but I think it is about really analysing what is the thing in your life that you want to help with and going from there. We wanted someone we viewed as a peer because I would be at home sometimes with her. So someone my age with a kid was perfect. That’s what I think Nanny Match helps with–finding that fit. I also can’t emphasise enough how important talking to past employers is. It really put us at ease. Finally, give yourself a break. Parenting is hard and it is fine to not want to do it full-time. I feel I am a far better mum working part-time than I was when I was home 24/7. 
-
-**Our boy is thriving and life is really really good.**
+There is no one size fits all. Lots of people tell you what the perfect person is but I think it is about really analysing what is the thing in your life that you want to help with and going from there. We wanted someone we viewed as a peer because I would be at home sometimes with her. So someone my age with a kid was perfect. That’s what I think Nanny Match helps with–finding that fit. I also can’t emphasise enough how important talking to past employers is. It really put us at ease. Finally, give yourself a break. Parenting is hard and it is fine to not want to do it full-time. I feel I am a far better mum working part-time than I was when I was home 24/7. **Our boy is thriving and life is really really good.**
 
 ![1.jpg](/uploads/1.jpg)
