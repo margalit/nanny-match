@@ -1,9 +1,15 @@
 ---
 title: Finding the right nanny for your family
 date: 2017-04-29 20:59:00 +10:00
+tags:
+- melbourne nanny
+- find a nanny
+- childcare
+- return to work
+- working parents
 ---
 
-We recently caught up with Ruth (mama and lawyer) who we matched with Brooke (mama and nanny) in early 2017. Here, Ruth tells us about life before a nanny and what a difference Brooke has made to her family. It's a lovely story and one of our favourite matches.
+We recently caught up with Ruth (mama and lawyer) who we matched with Brooke (mama and nanny) in early 2017. Here, Ruth tells us about life before a nanny and what a difference Brooke has made to her family. It's a lovely story and one of our favourite matches. Ruth is based in Coburg, Melbourne.
 
 **What was happening in your life that lead to your decision to find a nanny?**
 
@@ -27,10 +33,8 @@ Nanny Match was recommended to my sister through her mother’s group though she
 
 **Tell us about your first meeting with Brooke. How did you know she was the one?**
 
-![2.jpg](/uploads/2.jpg)
-
 Brooke was the first nanny we interviewed and we were both nervous about it. I had spoken earlier that day to a mum who Brooke still works for one day a week and she had nothing but praise for her
-which was great. I really liked how Brooke was with our son. She didn’t try to cuddle him or push it but was just gentle and interested. She has an outstanding smile and he seemed to like her straight away. She was someone who I immediately felt would be a friend and a lovely presence in our house. She was also immensely knowledgeable about kids. It felt right.
+which was great. I really liked how Brooke was with our son. She didn’t try to cuddle him or push it but was just gentle and interested. She has an outstanding smile and he seemed to like her straight away. She was someone who I immediately felt would be a friend and a lovely presence in our house. She was also immensely knowledgeable about kids. **It felt right**.
 
 **How has your life changed since Brooke started with your family?**
 
