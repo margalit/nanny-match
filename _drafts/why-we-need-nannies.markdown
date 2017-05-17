@@ -16,6 +16,6 @@ Flexible, high quality, affordable childcare is essential if families are to bal
 * 19% of centres had no vacancies for 3-4 year olds, with only 43% of centres having places available on all days
 * Nearly 6 out of 10 centres would offer more places if they had the resources available to expand their physical space
 
-3. Our working hours don't match school hours
+3. Our working hours don't match school or kinder hours
 
 4. We have less family support (Working grandparents, relocated)
