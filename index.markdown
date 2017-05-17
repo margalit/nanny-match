@@ -1,7 +1,6 @@
 ---
 title: Happy Nannies
 description: Meet experienced and reliable agency nannies in Melbourne
-layout: parents
 feature:
   title: Find the right fit
   subtitle: Meet experienced and reliable agency nannies in Melbourne
@@ -46,8 +45,8 @@ call_to_action:
   call_to_action: Get in touch
   destination: "/contact"
 sidebar:
-  content: 'Rates start at $28 an hour and are inclusive of salary, WorkCover, private
-    and public indemnity insurance, superannuation, statuatory costs and agency fees.
+  content: 'Rates start at $30 an hour and are inclusive of salary, WorkCover, private
+    and public indemnity insurance, superannuation, statutory costs and agency fees.
 
 '
   button:
@@ -55,6 +54,7 @@ sidebar:
     destination: "/assets/pdfs/nanny-match-for-parents.pdf"
 content_title: We value quality and long-lasting matches
 image: "/assets/images/nannies-melbourne.jpg"
+layout: parents
 ---
 
 When we connect you with a nanny, you’ll have peace of mind knowing each nanny has been met personally and carefully vetted for experience, reliability and cultural fit. We look for:
