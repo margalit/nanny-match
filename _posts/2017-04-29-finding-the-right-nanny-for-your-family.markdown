@@ -9,7 +9,9 @@ tags:
 - working parents
 ---
 
-We recently caught up with Ruth (mama and lawyer) who we matched with Brooke (mama and nanny) in early 2017. Here, Ruth tells us about life before a nanny and what a difference Brooke has made to her family. It's a lovely story and one of our favourite matches. Ruth is based in Coburg, Melbourne.
+We caught up with Ruth, who is a mama and lawyer. We matched with Ruth with Brooke (mama and nanny) in early 2017. 
+
+Here, Ruth tells us about life before and after finding their nanny. It's a lovely story and one of our favourite matches. Ruth and Brooke are based in Coburg, Melbourne.
 
 **What was happening in your life that lead to your decision to find a nanny?**
 
@@ -25,7 +27,7 @@ I felt very positive about taking the step.
 
 **What did you want to find in your new nanny?**
 
-Someone who had a similar philosophy in terms of children who would stimulate our son but also let him play alone. Someone we liked having in our house and trusted. Someone who we hoped would become a longterm significant person in our family life.
+Someone who had a similar philosophy in terms of children who would stimulate our son but also let him play alone. Someone we liked having in our house and trusted. Someone who we hoped would become a long term significant person in our family life.
 
 **How did you find Nanny Match? How did Nanny Match help you?**
 
