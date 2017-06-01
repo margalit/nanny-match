@@ -123,7 +123,7 @@ At your Family’s request, Nanny Match will endeavour to find your Family a rep
 
 In the event that no Nanny Match employees are available, Nanny Match will endeavour to find an independent contractor to provide childcare services to your Family. Independent contractors are not employees of Nanny Match and assume all their own liabilities.
 
-No pre-placement interviews will take place for Nannies engaged into temporary positions, unless your Family elects to pay the costs of the temporary Nanny attending an interview. Nanny Match charges a minimum of 1 hour per interview.
+No pre-placement interviews will take place for Nannies engaged into temporary positions, unless your Family elects to pay the costs of the temporary Nanny attending an interview. Nanny Match charges a minimum of 2 hours per interview.
 
 In the event that a Nanny terminates their engagement with your Family within 12 months of placement, Nanny Match will endeavor to find your Family a suitable replacement as soon as possible.
 
