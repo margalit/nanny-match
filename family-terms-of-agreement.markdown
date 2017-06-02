@@ -55,14 +55,14 @@ Nanny Match is responsible for the following in relation to the Nanny:
 
 Your Family will be charged a permanent placement fee of $290 upon indication of interest in a Nanny. A placement fee will not be charged if:
 
-* Your Family engages with a temporary Nanny; or
+* Your Family engages with a temporary or trial Nanny; or
 * Your Family has found the Nanny to be employed by Nanny Match.
 
 In the event that your Family engages in a trial with a Nanny, the Family will be charged the Nanny's temporary rate. Your Family will be charged a placement fee on completion of the trial period once the desire to commence an ongoing engagement is confirmed.
 
-Your Family will be charged for hours when the Nanny is engaged. Nannies will record their arrival and departure times using Nanny Match’s online human resources and employee management software. 
+Your Family will be charged for hours when a temp Nanny, trial Nanny and ongoing Nanny is engaged. Nannies will record their arrival and departure times using Nanny Match’s online human resources and employee management software. 
 
-Nanny Match employee rates are based on a minimum 4-hour shift. An additional surcharge may apply at Nanny Match’s discretion if less than the minimum 4 hours is booked.
+Nanny Match employee rates are based on a minimum 2-hour shift and preference is given to shifts of 4 hours or more. An additional surcharge may apply at Nanny Match’s discretion if less than the minimum 2 hours is booked.
 
 Invoices are generated weekly and will be automatically charged to your nominated credit card or direct debit account within one week. A transaction fee of 1.98% (Visa/Mastercard) or 3.85% (AMEX) + 33c will be charged if paying by credit card. There is no transaction fee for direct debit. Services may be suspended if an account is in arrears for more than seven days. 
 
@@ -77,13 +77,14 @@ The rates charged to your Family will also be increased by $1 per hour for each 
 The provision of services to a Family by a Nanny is subject at all times to the place of care being a safe and suitable place for the Nanny, and a suitable Nanny being available.
 
 Your Family is responsible for the direction, instruction and supervision of the Nanny during the engagement. 
+
 Your Family is responsible for the maintenance of a safe workplace for the Nanny, including the safety and condition of all machinery and vehicles provided for the Nanny as used during the course of the engagement.
 
 A Nanny is entitled to an informal break at some point during their shift. The length and nature of this break will be agreed upon between your Family and the Nanny.
 
 Your Family indemnifies Nanny Match from claims arising from the failure of the Family to provide a safe or harassment-free workplace.
 
-Your Family must ensure that current emergency contact information is given to Nanny Match staff. Your Family agrees to pay any costs related to the provision of emergency services, and must notify Nanny Match within 24 hours if a Nanny suffers an injury during their engagement.
+Your Family must ensure that current emergency contact information is given to Nanny Match staff. Your Family agrees to pay any costs related to the provision of emergency services and must notify Nanny Match within 24 hours if a Nanny suffers an injury during their engagement.
 
 Your Family must permit Nanny Match staff to conduct support visits to the Nanny in the Family home.
 
@@ -104,6 +105,7 @@ Your Family will ensure that the motor vehicle is fitted with child restraints a
 In the event that the Nanny is required to drive their own motor vehicle during their engagement with your Family:
 
 * Your Family will indemnify Nanny Match and the Nanny in relation to any and all principal or vicarious liability whatsoever in relation to the use of the Nanny’s vehicle; 
+
 Your Family will indemnify Nanny Match and the Nanny against any loss, damages, actions, suits, claims, demands and other liabilities of any nature whatsoever which your Family now or at any time may have arising from the use of a motor vehicle owned by the Nanny; and
 
 * Your Family will negotiate a petrol allowance to be paid directly to the Nanny.
@@ -121,7 +123,7 @@ At your Family’s request, Nanny Match will endeavour to find your Family a rep
 
 In the event that no Nanny Match employees are available, Nanny Match will endeavour to find an independent contractor to provide childcare services to your Family. Independent contractors are not employees of Nanny Match and assume all their own liabilities.
 
-No pre-placement interviews will take place for Nannies engaged into temporary positions, unless your Family elects to pay the costs of the temporary Nanny attending an interview. Nanny Match charges a minimum of 1 hour per interview.
+No pre-placement interviews will take place for Nannies engaged into temporary positions, unless your Family elects to pay the costs of the temporary Nanny attending an interview. Nanny Match charges a minimum of 2 hours per interview.
 
 In the event that a Nanny terminates their engagement with your Family within 12 months of placement, Nanny Match will endeavor to find your Family a suitable replacement as soon as possible.
 
