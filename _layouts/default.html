@@ -8,6 +8,21 @@
     {% seo %}
     <link rel="stylesheet" href="/assets/styles/app.css" />
     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window,document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '179865132457871'); 
+      fbq('track', 'PageView');
+    </script>
+    <noscript>
+      <img height="1" width="1" src="https://www.facebook.com/tr?id=179865132457871&ev=PageView&noscript=1"/>
+    </noscript>
   </head>
 
   <body class="{{ page.layout }}-layout bg-off-white">
@@ -30,7 +45,7 @@
             </a>
           </div>
           <div class="sm-col sm-col-7">
-            <button data-toggle class="sm-block hide bold my-n3 py-3 col-14 right brand">Menu</button>
+            <button data-toggle class="sm-block hide bold my-n3 px-0 py-3 col-14 right brand">Menu</button>
           </div>
         </div>
         <div data-menu class="sm-hide sm-col-14 sm-py-2 sm-bg-off-white">
