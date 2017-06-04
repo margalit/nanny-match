@@ -3,6 +3,8 @@ title: Introducing Libby
 date: 2017-06-05 08:41:00 +10:00
 ---
 
+[![Photo 19-1-17, 12 43 10 pm.jpg](/uploads/Photo%2019-1-17,%2012%2043%2010%20pm.jpg)](https://www.instagram.com/nannymatch/)
+
 I'm a responsible, down to earth and nurturing person in my work. I have Certificate III in Children's Services, WWCC, Police Check, am trained in First Aid, CPR, Anaphylaxis and Asthma management.
 
 When I'm not working I enjoy spending time with my loved ones, going out for brunch, exercising, and going away over the weekend and visiting beautiful places in Victoria. 
