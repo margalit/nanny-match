@@ -8,7 +8,7 @@ tags:
 - Carla
 ---
 
-[[![File 5-6-17, 8 30 40 am.jpeg](/uploads/File%205-6-17,%208%2030%2040%20am.jpeg)]](https://www.instagram.com/nannymatch/)
+[![File 5-6-17, 8 30 40 am.jpeg](/uploads/File%205-6-17,%208%2030%2040%20am.jpeg)]](https://www.instagram.com/nannymatch/)
 
 In 2016 I graduated with my Masters in Speech Pathology. Prior to that, I completed a Bachelor of Arts with Honours in Linguistics. My interests have long centred around language, but I also love literature, creative arts and politics, with a particular interest in gender studies. I'm an avid traveller, with stints living in Italy and Latin America, and other trips throughout Asia and Europe during my time at university. I speak fluent Italian and intermediate Spanish, and am happy to utilise these skills in my work with children. I have a close relationship with my family- I have two older sisters and a niece who is eleven months old, which has given me a lot of recent experience working with young children. In my spare time I like to read, write, go to the cinema, attend life drawing classes,  dance, practice yoga, camp and go hiking.  
 
