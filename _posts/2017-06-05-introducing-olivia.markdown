@@ -10,11 +10,11 @@ tags:
 
 ![Olivia square.jpg](/uploads/Olivia%20square.jpg)
 
-Olivia's one of those rare finds—enthusiastic, extremely experienced, mature and qualified. We enjoyed speaking with her references, who sing Olivia's praises: 
+Olivia's one of those rare finds—enthusiastic, extremely experienced, mature and qualified. We enjoyed speaking with Olivia's references and hearing them sing her praises: 
  
 > 'We were extremely impressed by how quickly Olivia won the affections of our children. In a matter of days they were the best of friends and the house was a happy place to return to in the evenings. There was never any question of them testing her...she had the measure of them from the start and they immediately fell in line. We returned from work to find the children in their Pj's, calm and relaxed with the kitchen immaculate. Olivia is a happy presence to have around the house. She is calm under pressure, extremely efficient and organised and wonderfully imaginative when it comes to entertaining children and cooking their meals. She is a natural around children, organizing age appropriate activities and games and insuring that they always feel secure and loved. It is rare to find a nanny who is not only mature for her age but also so intelligent, she really is the safest pair of hands a parent could hope for.'—Anna, London
 
-And some words from Olivia:
+Olivia brings a Diploma of Children's services and experience as both a room leader and private nanny:
 
 > I am a fun loving, caring and lively child carer. I bring 5 years of experience in childcare and nanny positions. I hold my Diploma in Children's Services which I completed in 2014. After I finished my diploma I moved to London for 2 years where I worked as a nanny and it was incredible. I worked for two wonderful families and really felt like part of the families I worked with. I love my job and I am a hands on nanny, offering fun and education for each child. I love to listen, play and sing a long to music and love to play sport. I played Aussie Rules football while I was over in London and I love to be active and get out and about.
 
