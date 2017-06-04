@@ -8,7 +8,7 @@ tags:
 - Olivia
 ---
 
-![Olivia square-7f351c.jpg](/uploads/Olivia%20square-7f351c.jpg)](https://www.instagram.com/nannymatch/) 
+[![Olivia square-7f351c.jpg](/uploads/Olivia%20square-7f351c.jpg)](https://www.instagram.com/nannymatch/) 
 
  "We were extremely impressed by how quickly Olivia won the affections of our children. In a matter of days they were the best of friends and the house was a happy place to return to in the evenings. There was never any question of them testing her...she had the measure of them from the start and they immediately fell in line. We returned from work to find the children in their Pj's, calm and relaxed with the kitchen immaculate. Olivia is a happy presence to have around the house. She is calm under pressure, extremely efficient and organised and wonderfully imaginative when it comes to entertaining children and cooking their meals. She is a natural around children, organizing age appropriate activities and games and insuring that they always feel secure and loved. It is rare to find a nanny who is not only mature for her age but also so intelligent, she really is the safest pair of hands a parent could hope for."
 
