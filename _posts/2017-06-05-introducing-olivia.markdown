@@ -8,7 +8,7 @@ tags:
 - Olivia
 ---
 
-![Olivia square.jpg](/uploads/Olivia%20square.jpg)
+[[![Olivia square.jpg]](/uploads/Olivia%20square.jpg)](https://www.instagram.com/nannymatch/)
 
 Olivia's one of those rare finds—enthusiastic, extremely experienced, mature and qualified. We enjoyed speaking with Olivia's references and hearing them sing her praises: 
  
