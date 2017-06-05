@@ -41,7 +41,7 @@ A Nanny may work overtime or engage in casual babysitting for your Family outsid
 
 Nanny Match is responsible for the following in relation to the Nanny:
 
-* Ensuring that relevant screening is completed prior to commencement, including verification of work history, police and working with children checks and registered care documentation;
+* Ensuring that relevant screening is completed prior to commencement, including verification of work history, child care first aid qualifications, working with children checks and registered care documentation;
 
 * Lodging salary payments to the Nanny’s nominated bank account, deducting PAYG taxation and lodging with the Australian Taxation Office;
 
