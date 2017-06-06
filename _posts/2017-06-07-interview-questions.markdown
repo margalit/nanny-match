@@ -7,14 +7,6 @@ tags:
 - family
 ---
 
-
-
-
-
-
-
-
-
 Thanks to our families for sharing their best nanny interview questions: 
 
 * Tell me about your experience with children? 
