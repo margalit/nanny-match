@@ -6,7 +6,11 @@ categories:
 - personalised search
 ---
 
-Finding a nanny is all about finding the **right match**. If you haven't found your match in our available nannies we can recruit a new nanny for your family. Here's how it works: 
+Finding a nanny is all about finding the **right match**. The first step in finding your match with us is to view the profiles of nannies who are currently available. 
+
+If you're still looking for your match, you can choose to check back for newly available nannies or we can arrange a **personalised search**. 
+
+Here's how it works: 
 
 * First, we finalise your job specs. We require a deposit of $290 to start your search.
 
