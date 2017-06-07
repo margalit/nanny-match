@@ -1,9 +1,9 @@
 ---
 title: Introducing Nina
-date: 2017-06-05 08:54:00 +10:00
+date: 2017-05-01 08:54:00 +10:00
 ---
 
-[![File 5-6-17, 8 50 51 am.jpeg](/uploads/File%205-6-17,%208%2050%2051%20am.jpeg)](https://www.instagram.com/nannymatch/)
+[![File 5-6-17, 8 50 51 am.jpeg](/uploads/File%205-6-17,%208%2050%2051%20am.jpeg)](http://nannymatch.com.au/contact/)
 
 I'm a 25 year Psychology graduate with a Cert IV in Pilates and soon to be Yoga Teacher.  I have a passion for childhood development and feel strongly about the importance of providing a consistently safe, caring and supportive environment for children during their formative years. My other passion is with the mind body connection and how embodied therapy can be used for psychological health and wellbeing. When I am not working I love to cook for friends and family, go camping and explore in nature, dog-watch at the park, exercise, read and write. I am an extremely warm, caring and attentive person. I have loved my previous nanny jobs and gain so much fulfilment in supporting children to grow and shine.
 
