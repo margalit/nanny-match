@@ -1,7 +1,9 @@
 ---
 title: Personalised Nanny Search
 date: 2017-06-07 17:59:00 +10:00
-published: false
+categories:
+- nanny search
+- personalised search
 ---
 
 Finding a nanny is all about finding the **right match**. If you haven't found your match in our available nannies we can recruit a new nanny for your family. Here's how it works: 
