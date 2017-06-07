@@ -1,5 +1,5 @@
 ---
-title: Interview Questions
+title: Suggested Interview Questions
 date: 2017-06-07 09:34:00 +10:00
 tags:
 - interviews
@@ -7,7 +7,7 @@ tags:
 - family
 ---
 
-Thanks to our families for sharing their best nanny interview questions: 
+The nanny industry is fast-paced—when I find a great nanny, I have two weeks to place her before she finds another job. For parents, it pays to take time to run a phone interview. If all checks out, organise to meet and see if you 'click' in person. 
 
 * Tell me about your experience with children? 
 * What do you enjoy most about working with children? 
