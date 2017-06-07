@@ -6,9 +6,9 @@ categories:
 - personalised search
 ---
 
-Finding a nanny is all about finding the **right match**. The first step in finding your match with us is to view the profiles of nannies who are currently available. 
+Finding a nanny is all about finding the **right match**. When you register with Nanny Match, we'll first share our database of nannies who are available and looking for work. From here, you'll be able to contact the nannies directly and have a chat to see if it's a match.
 
-If you're still looking for your match, you can choose to check back for newly available nannies or we can arrange a **personalised search**. 
+Once you've worked through our current pool and if you're still looking for your match, we can arrange a **personalised search**. 
 
 Here's how it works: 
 
