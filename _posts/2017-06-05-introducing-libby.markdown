@@ -3,11 +3,13 @@ title: Introducing Libby
 date: 2017-06-05 08:41:00 +10:00
 ---
 
-I'm a responsible, down to earth and nurturing person in my work. I have Certificate III in Children's Services, WWCC, Police Check, am trained in First Aid, CPR, Anaphylaxis and Asthma management.
+I'm a responsible, down to earth and nurturing person in my work. I'm looking to join a new family for up to four days per week. Please [get in touch](http://nannymatch.com.au/contact/) to view my full profile and organise a chat or interview. 
+
+I have Certificate III in Children's Services, WWCC, Police Check, am trained in First Aid, CPR, Anaphylaxis and Asthma management.
 
 I have 4.5 years of  experience in the Childcare industry both at a centre and working as a nanny. I have experience with newborns to children up to age 10. I've cared for families with one, two, three and four children, twins, triplets, children on the spectrum, and new born babies.
 
-[![Photo 19-1-17, 12 43 10 pm.jpg](/uploads/Photo%2019-1-17,%2012%2043%2010%20pm.jpg)](https://www.instagram.com/nannymatch/)
+[![Photo 19-1-17, 12 43 10 pm.jpg](/uploads/Photo%2019-1-17,%2012%2043%2010%20pm.jpg)](http://nannymatch.com.au/contact/)
 
 
 When I'm not working I enjoy spending time with my loved ones, going out for brunch, exercising, and going away over the weekend and visiting beautiful places in Victoria.  
