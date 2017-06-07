@@ -31,6 +31,6 @@ Please note a personalised search takes at least three weeks.
 If you'd like to arrange a personalised search, please [get in touch](http://nannymatch.com.au/contact/) to discuss: 
 
 Ruby Brown
-0406 262 869
-ruby@nannymatch.com.au
+// 0406 262 869
+// ruby@nannymatch.com.au
 
