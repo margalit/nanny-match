@@ -1,5 +1,5 @@
 ---
-title: Suggested Interview Questions
+title: Interviewing Nannies
 date: 2017-06-07 09:34:00 +10:00
 tags:
 - interviews
@@ -7,9 +7,9 @@ tags:
 - family
 ---
 
-The nanny industry is fast-paced—when I find a great nanny, I have two weeks to place her before she finds another job. For parents, it pays to take time to run a phone interview. If all checks out, organise to meet and see if you 'click' in person. 
+The nanny industry is fast-paced. When we find a great nanny, we have two weeks to place her before she finds another job. For parents, this means taking time to run phone interviews before investing time to meet in person. 
 
-* Tell me about your experience with children? 
+* Tell me about your experience with children. 
 * What do you enjoy most about working with children? 
 * What do you bring to your work with children?
 * What was your own childhood like? 
