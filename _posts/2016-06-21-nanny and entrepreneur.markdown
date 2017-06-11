@@ -1,5 +1,5 @@
 ---
-title: 'Introducing: Gemma'
+title: 'Gemma: Nanny and Entrepreneur'
 date: 2016-06-21 13:38:00 +10:00
 tags:
 - nannies
