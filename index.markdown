@@ -21,7 +21,7 @@ testimonials:
 - name: Kate Miller-Heidke
   photo: "/uploads/kate.png"
   twitter: kmillerheidke
-  quote: We hired someone fabulous within a week of calling Nanny Match. All of the
+  quote: We found someone fabulous within a week of calling Nanny Match. All of the
     nannies we interviewed were lovely, experienced and knowledgeable.
 - name: Jeremy Wortsman
   photo: "/uploads/jeremy.png"

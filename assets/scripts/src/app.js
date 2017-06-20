@@ -1,3 +1,5 @@
+import profiles from './profiles'
+
 const setupMenu = () => {
   const toggle = document.querySelector('[data-toggle]')
   const menu = document.querySelector('[data-menu]')
