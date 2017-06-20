@@ -5,7 +5,6 @@ if (profiles) {
   fetch(`https://api.airtable.com/v0/appJv6x50plgdZjnP/Nannies?api_key=${AIRTABLE_KEY}&maxRecords=3&view=Current%20available%20nannies`)
     .then(resp => resp.json())
     .then(response => {
-      console.log(response)
       const profilesMarkup = response.records.map(nanny => (
         `
           <div class="col-4 sm-col-14 sm-mb-4">
