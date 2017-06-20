@@ -46,3 +46,9 @@ authors:
     name: Ruby Brown
     avatar: "/uploads/ruby.jpg"
     email: ruby@nannymatch.com.au
+social:
+  name: Nanny Match Melbourne
+  links:
+    - https://www.facebook.com/NannyMatchMelbourne/
+    - https://plus.google.com/+Nannymatch
+    
