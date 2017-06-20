@@ -1,6 +1,4 @@
 ---
-title: Blog
+title: Learn more about finding a nanny in Melbourne
 layout: blog
-subtitle: Learn more about Nanny Match
 ---
-

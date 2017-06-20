@@ -1,5 +1,5 @@
 ---
-title: Happy Nannies
+title: Qualified, checked and insured nannies
 description: Meet experienced and reliable agency nannies in Melbourne
 feature:
   title: Find the right fit
