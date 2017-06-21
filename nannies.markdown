@@ -1,5 +1,5 @@
 ---
-title: Work with Nanny Match
+title: Find nanny work in Melbourne, earn super and a yearly payrise
 description: Earn up to $30 an hour working with children in Melbourne
 feature:
   title: We’ve got you covered

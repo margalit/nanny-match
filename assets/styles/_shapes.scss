@@ -9,6 +9,11 @@
   }
 }
 
+.rounded {
+  position: relative;
+  border-radius: nth($spacings, 2);
+}
+
 .square {
   position: relative;
   &:after {
@@ -23,7 +28,16 @@
   &:after {
     content: "";
     display: block;
-    padding-top: calc(100% * 9/16)
+    padding-top: calc(100% * 9/16);
+  }
+}
+
+.ar-9x16 {
+  position: relative;
+  &:after {
+    content: "";
+    display: block;
+    padding-top: calc(100% * 16/9);
   }
 }
 
@@ -32,7 +46,16 @@
   &:after {
     content: "";
     display: block;
-    padding-top: calc(100% * 3/4)
+    padding-top: calc(100% * 3/4);
+  }
+}
+
+.ar-3x4 {
+  position: relative;
+  &:after {
+    content: "";
+    display: block;
+    padding-top: calc(100% * 4/3);
   }
 }
 
@@ -41,7 +64,7 @@
   &:after {
     content: "";
     display: block;
-    padding-top: calc(100% * 1/10)
+    padding-top: calc(100% * 1/10);
   }
 }
 
@@ -50,7 +73,7 @@
   &:after {
     content: "";
     display: block;
-    padding-top: calc(100% * 1/4)
+    padding-top: calc(100% * 1/4);
   }
 }
 
@@ -59,7 +82,7 @@
   &:after {
     content: "";
     display: block;
-    padding-top: calc(100% * 3/7)
+    padding-top: calc(100% * 3/7);
   }
 }
 
