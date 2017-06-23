@@ -21,6 +21,10 @@ It is with pleasure that I confirm an offer of casual employment as Nanny with A
 
 (e) You will be required to perform your duties at Parents’ address, or at another location as reasonably directed by the Employer.
 
+(f) You will be required to complete a Nanny & Family Agreement with each Parent/s you engage with. 
+
+(g) You will be required to complete a Nanny & Family Review after four weeks of engagement with each Parent/s.
+
 
 **2. Terms and conditions of employment**
 
@@ -28,7 +32,7 @@ It is with pleasure that I confirm an offer of casual employment as Nanny with A
 
 (a) Unless more generous provisions are provided in this letter or the schedules, the terms and conditions of your employment will be those set out in the Award and applicable legislation, including the National Employment Standards in the Fair Work Act 2009 (Cth). Neither the Award nor any applicable legislation is incorporated into your contract of employment.
 
-(b) Your employment may be terminated by either party by giving one day's notice.
+(b) Your employment may be terminated by Nanny Match by giving one day's notice.
 
 (c) As a casual employee, there is no guarantee of ongoing or regular work.
 
@@ -40,7 +44,7 @@ It is with pleasure that I confirm an offer of casual employment as Nanny with A
 
 **2.3 Worker's compensation**
 
-In order to protect the rights of employees, notice of any injury incurred during working hours or while travelling to or from work must be given immediately to the Employer.
+In order to protect the rights of employees, notice of any injury incurred during working hours or while travelling to or from work must be given immediately to the Employer. You can report injury by email (ruby@nannymatch.com.au) or by entering the injury on your Deputy timesheet. 
 
 **2.4 Return of Employer property**
 
@@ -57,9 +61,9 @@ By accepting this letter of offer, you acknowledge and agree that you will not, 
 
 (a) You will be paid an hourly rate for all hours worked. You will be required to submit your working hours to the Employer by way of Deputy. You will be required to check in upon arrival at the Family location and check out upon leaving the Family location. 
 
-(b) The standard Hourly Rate will be minimum $22 per hour. You will be paid an Hourly Rate of minimum $22 per hour for work performed on weekends and an Hourly Rate of minimum $22 per hour for work performed on public holidays.
+(b) The standard Hourly Rate will be minimum $22.125 per hour. You will be paid an Hourly Rate of minimum $22.125 per hour for work performed on weekends and an Hourly Rate of minimum $22.125 per hour for work performed on public holidays.
 
-(c) You will receive your pay Fortnightly into your nominated bank account.
+(c) You will receive your pay fortnightly into your nominated bank account.
 
 
 **3.2 Casual loading**
