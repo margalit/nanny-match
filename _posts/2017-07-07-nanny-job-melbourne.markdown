@@ -1,6 +1,13 @@
 ---
 title: Nanny Required in Kensington
 date: 2017-07-07 15:45:00 +10:00
+categories:
+- jobs
+tags:
+- nanny job
+- melbourne
+- kensington
+target: nannies
 ---
 
 **Experienced nanny required in Kensington**
