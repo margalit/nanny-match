@@ -1,6 +1,13 @@
 ---
 title: Nanny required in Elsternwick
 date: 2017-07-07 16:11:00 +10:00
+categories:
+- jobs
+tags:
+- nanny jobs
+- nanny
+- job
+target: nannies
 ---
 
 3 days per week, 7am–6pm 
