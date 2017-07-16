@@ -3,10 +3,12 @@ layout: default
 ---
 
 {% include marquee.html title=page.title subtitle=page.subtitle header=true%}
-<div class="my-4 sm-my-4 mx-auto col-12 lg-col-10">
+<div class="my-4 sm-my-4 mx-auto sm-col-14 col-12 lg-col-10">
   <div class="clearfix f3">
     <div class="col py-2 col-10 pr-col-1 sm-pr-col-0 sm-col-14 content">
       {{ page.content | markdownify }}
     </div>
-    {% include sidebar.html %}
+    <div class="sm-col-12 mx-auto">
+      {% include sidebar.html %}
+    </div>
 </div>
