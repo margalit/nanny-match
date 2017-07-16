@@ -3,6 +3,7 @@ var webpack = require("webpack");
 
 var config = {
   entry: {
+    fetch: 'whatwg-fetch',
     app: './assets/scripts/src/app.js'
   },
   output: {

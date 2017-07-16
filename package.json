@@ -19,6 +19,7 @@
     ]
   },
   "dependencies": {
-    "concurrently": "^3.4.0"
+    "concurrently": "^3.4.0",
+    "whatwg-fetch": "^2.0.3"
   }
 }
