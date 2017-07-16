@@ -11,6 +11,8 @@ $classes: (
   align-bottom: (vertical-align: bottom),
   overflow-visible: (overflow: visible),
   overflow-hidden: (overflow: hidden),
+  "clearfix:before, .clearfix:after": (content: " ", display: table),
+  "clearfix:after": (clear: both),
   top-0: (top: 0),
   bottom-0: (bottom: 0),
   left-0: (left: 0),

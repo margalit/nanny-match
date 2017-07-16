@@ -10,8 +10,8 @@ feature:
   - First-aid qualified
   image: "/assets/images/nannies-melbourne.jpg"
   position: 25%
-  call_to_action: Get in touch
-  destination: "/contact"
+  call_to_action: Register Now
+  destination: "/register"
 testimonials:
 - name: Missy Higgins
   photo: "/uploads/missy.png"
@@ -42,8 +42,8 @@ call_to_action:
   - 3 year average match
   image: "/assets/images/ruby.jpg"
   position: 25%
-  call_to_action: Get in touch
-  destination: "/contact"
+  call_to_action: Register Now
+  destination: "/register"
 sidebar:
   content: 'Rates start at $30 an hour and are inclusive of salary, WorkCover, private
     and public indemnity insurance, superannuation, statutory costs and agency fees.
