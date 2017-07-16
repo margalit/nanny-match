@@ -1,6 +1,7 @@
 ---
 title: Qualified, checked and insured nannies
-description: Meet experienced and reliable agency nannies in Melbourne
+description: We are a people-first nanny agency specialising in affordable childcare
+  in Melbourne. Our nannies are fully insured, background checked and first-aid qualified.
 feature:
   title: Find the right fit
   subtitle: Meet experienced and reliable agency nannies in Melbourne
