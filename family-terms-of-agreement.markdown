@@ -41,7 +41,7 @@ A Nanny may work overtime or engage in casual babysitting for your Family outsid
 
 Nanny Match is responsible for the following in relation to the Nanny:
 
-* Ensuring that relevant screening is completed prior to commencement, including verification of work history, child care first aid qualifications, working with children checks and registered care documentation;
+* Ensuring that relevant screening is completed prior to commencement of placement, including verification of work history, child care first aid qualifications and working with children checks;
 
 * Lodging salary payments to the Nanny’s nominated bank account, deducting PAYG taxation and lodging with the Australian Taxation Office;
 
@@ -114,6 +114,8 @@ Both the Family and the Nanny will give notice of absenteeism, cancellations, an
 
 * The Nanny to be paid a retainer during your Family’s holiday to ensure continued commitment; or
 * The Nanny to be placed with another family.
+
+Cancellation of a temporary booking must be made with 24 hours notice. When cancellation is made in less than 24 hours a 50% cancellation fee applies.
 
 **Replacement and Temporary Nannies**
 
