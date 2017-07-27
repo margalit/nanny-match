@@ -21,7 +21,7 @@ The general terms of this agreement may be amended from time to time at the disc
 
 You have requested Nanny Match to provide your Family with the services of an employee of Nanny Match. Nanny Match is a service provider for the purposes of the Australian Consumer Law, and will provide services in accordance with this and all other relevant legislation.
 
-In addition to this agreement, you will also be provided with a Family & Nanny Agreement. This agreement is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. Nanny Match must be notified of any variations to this agreement negotiated between your Family and the Nanny. 
+In addition to this agreement, you will also be provided with a Family & Nanny Agreement. This agreement is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. Nanny Match must be notified of any variations to this agreement negotiated between your Family and the. It is your Family's responsibility to complete the Family & Nanny Agreement before services commence. Should your Family fail to complete the Family & Nanny Agreement your Family indemnifies Nanny Match and the Nanny against any loss, damages, actions, suits, claims, demands and other liabilities of any nature whatsoever which at any time may arise from the Nanny’s engagement.
 
 Nanny Match will not themselves perform the services agreed to, but rather will supply one or more workers to fulfill your Family’s request. Nannies supplied by Nanny Match to carry out work shall at all times remain employees of Nanny Match.
 
