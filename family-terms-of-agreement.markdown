@@ -29,7 +29,7 @@ Should your Family fail to complete the Placement Agreement:
 
 * Your Family indemnifies Nanny Match and the Nanny against any loss, damages, actions, suits, claims, demands and other liabilities of any nature whatsoever which at any time may arise from the Nanny’s engagement.
 
-* Your Family will be charged for temporary rates of $1 more per hour until the Placement Agreement is completed. 
+* Your Family will be charged temporary hourly rates at +$1 per hour until the Placement Agreement is completed. 
 
 Nanny Match will not themselves perform the services agreed to, but rather will supply one or more workers to fulfill your Family’s request. Nannies supplied by Nanny Match to carry out work shall at all times remain employees of Nanny Match.
 
