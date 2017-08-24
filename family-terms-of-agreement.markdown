@@ -21,21 +21,27 @@ The general terms of this agreement may be amended from time to time at the disc
 
 You have requested Nanny Match to provide your Family with the services of an employee of Nanny Match. Nanny Match is a service provider for the purposes of the Australian Consumer Law, and will provide services in accordance with this and all other relevant legislation.
 
-In addition to this agreement, you will also be provided with a Family & Nanny Agreement. This agreement is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. Nanny Match must be notified of any variations to this agreement negotiated between your Family and the. It is your Family's responsibility to complete the Family & Nanny Agreement before services commence. Should your Family fail to complete the Family & Nanny Agreement your Family indemnifies Nanny Match and the Nanny against any loss, damages, actions, suits, claims, demands and other liabilities of any nature whatsoever which at any time may arise from the Nanny’s engagement.
+In addition to this agreement, you will also be provided with a Placement Agreement. This agreement is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. 
+
+Nanny Match must be notified of any variations to this agreement negotiated between your Family and the Nanny. It is your Family's responsibility to complete the Placement Agreement before services commence. 
+
+Should your Family fail to complete the Placement Agreement:
+
+* Your Family indemnifies Nanny Match and the Nanny against any loss, damages, actions, suits, claims, demands and other liabilities of any nature whatsoever which at any time may arise from the Nanny’s engagement.
+
+* Your Family will be charged for temporary rates of $1 more per hour until the Placement Agreement is completed. 
 
 Nanny Match will not themselves perform the services agreed to, but rather will supply one or more workers to fulfill your Family’s request. Nannies supplied by Nanny Match to carry out work shall at all times remain employees of Nanny Match.
 
 The contact details for any Nanny engaged by the Family shall remain confidential. Such details shall not be made available to any other person, company, or private employer without the consent of the Nanny.
 
-It is your Family’s responsibility to contact a Nanny to arrange an interview. Nannies employed by Nanny Match will interview with multiple families.
+It is your Family’s responsibility to contact a Nanny to arrange an interview. 
 
 A Nanny may work with multiple families. In order to facilitate this, your Family must notify the Nanny of any changes to the times and dates of their engagement with your Family in advance.
 
 A Nanny may work overtime or engage in casual babysitting for your Family outside of their regular hours of employment if:
 
-* The Nanny is available and agrees to take on this additional work; and 
-
-* Additional compensation or a higher hourly rate is offered to and accepted by the Nanny.
+* The Nanny is available and agrees to take on this additional work.
 
 **Nanny Match Responsibilities**
 
@@ -53,10 +59,10 @@ Nanny Match is responsible for the following in relation to the Nanny:
 
 **Payments**
 
-Your Family will be charged a permanent placement fee of $290 upon indication of interest in a Nanny. A placement fee will not be charged if:
+Your Family will be charged a permanent placement fee of $490 upon indication of interest in a Nanny. A placement fee will not be charged if:
 
 * Your Family engages with a temporary Nanny; or
-* Your Family has found the Nanny to be employed by Nanny Match.
+* Your Family recruits a Nanny independent of Nanny Match.
 
 Your Family will be charged for hours when a temp Nanny and ongoing Nanny is engaged. Nannies will record their arrival and departure times using online human resources and employee management software. 
 
@@ -68,7 +74,7 @@ Your Family shall bear the legal or other costs incurred by Nanny Match to recov
 
 Nanny Match may vary its rates from time to time to include any change to any statutory on-costs, e.g. any legislative changes, public liability insurance premiums; or if there is any change which affects the cost of providing Nanny Match employees. Nanny Match will give your Family at least two weeks’ written notice of the new rates. 
 
-The rates charged to your Family will also be increased by $1 per hour for each consecutive year of childcare services provided by Nanny Match. 
+The rates charged to your Family will increase by $1 per hour for each consecutive year of childcare services provided by Nanny Match. 
 
 **Occupational Health and Safety**
 
@@ -125,6 +131,6 @@ In the event that no Nanny Match employees are available, Nanny Match will endea
 
 No pre-placement interviews will take place for Nannies engaged into temporary positions, unless your Family elects to pay the costs of the temporary Nanny attending an interview. Nanny Match charges a minimum of 2 hours per interview.
 
-In the event that a Nanny terminates their engagement with your Family within 12 months of placement, Nanny Match will endeavor to find your Family a suitable replacement as soon as possible.
+In the event that a Nanny terminates their engagement with your Family within 12 months of placement, Nanny Match will endeavour to find your Family a suitable replacement as soon as possible.
 
 An additional placement fee will not be charged to your Family if the replacement is required less than 6 months after the first placement fee was charged, and the fundamental working conditions of the engagement (including but not limited to location, working hours, number of children in care) have not changed. 
