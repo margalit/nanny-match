@@ -64,7 +64,7 @@ Your Family will be charged a permanent placement fee of $490 upon indication of
 * Your Family engages with a temporary Nanny; or
 * Your Family recruits a Nanny independent of Nanny Match.
 
-Your Family will be charged for hours when a temp Nanny and ongoing Nanny is engaged. Nannies will record their arrival and departure times using online human resources and employee management software. 
+Your Family will be charged for hours when a temp Nanny and ongoing Nanny is engaged. Your Family will be charged for the total hours between the nanny's arrival and her departure. Nannies will record their arrival and departure times using online human resources and employee management software. 
 
 Nanny Match employee rates are based on a minimum of 4 hours or more. Your family will be charged for four hours if less than the minimum four hours is booked.
 
