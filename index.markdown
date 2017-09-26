@@ -11,8 +11,8 @@ feature:
   - First-aid qualified
   image: "/assets/images/nannies-melbourne.jpg"
   position: 25%
-  call_to_action: Register Now
-  destination: "/register"
+  call_to_action: Book Now
+  destination: "/book-a-nanny"
 testimonials:
 - name: Missy Higgins
   photo: "/uploads/missy.png"
