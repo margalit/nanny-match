@@ -1,6 +1,6 @@
 ---
 title: Book a Nanny
-subtitle: Start your search today
+subtitle: Casual or long term
 layout: airtable
 ---
 
