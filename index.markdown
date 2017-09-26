@@ -43,8 +43,8 @@ call_to_action:
   - 3 year average match
   image: "/assets/images/ruby.jpg"
   position: 25%
-  call_to_action: Register Now
-  destination: "/register"
+  call_to_action: Book Now
+  destination: "/book-a-nanny"
 sidebar:
   content: 'Rates start at $30 an hour and are inclusive of salary, WorkCover, private
     and public indemnity insurance, superannuation, statutory costs and agency fees.
