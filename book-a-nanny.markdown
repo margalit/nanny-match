@@ -1,5 +1,5 @@
 ---
-title: Register your family
+title: Book a Nanny
 subtitle: Start your search today
 layout: airtable
 ---
