@@ -9,6 +9,8 @@ tags:
 
 The nanny industry is fast-paced. When we find a great nanny, we have two weeks to place her before she finds another job. For parents, this means taking time to run phone interviews before investing time to meet in person. 
 
+The following questions will help you determine if you've found a potential match: 
+
 * Tell me about your experience with children. 
 * What do you enjoy most about working with children? 
 * What do you bring to your work with children?
