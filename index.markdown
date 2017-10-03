@@ -58,7 +58,7 @@ image: "/assets/images/nannies-melbourne.jpg"
 layout: parents
 ---
 
-When we connect you with a nanny, you’ll have peace of mind knowing each nanny has been met personally and carefully vetted for experience, reliability and cultural fit. We look for:
+When we connect you with a nanny, you’ll have peace of mind knowing each nanny has been met personally and carefully vetted for experience, reliability and compatibility. We look for:
 - Mature and empathetic carers
 - Australian citizens or permanent residents
 - Tertiary educated carers and teachers
