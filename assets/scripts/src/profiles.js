@@ -2,7 +2,7 @@ const AIRTABLE_KEY = 'keywcoHiGZUHcYyaO'
 const profiles = document.getElementById('profiles')
 
 if (profiles) {
-  fetch(`https://api.airtable.com/v0/appJv6x50plgdZjnP/Nannies?api_key=${AIRTABLE_KEY}&maxRecords=3&view=Current%20available%20nannies`)
+  fetch(`https://api.airtable.com/v0/appJv6x50plgdZjnP/Nannies?api_key=${AIRTABLE_KEY}&maxRecords=3&view=Nanny%20Match%20Availabilities`)
     .then(resp => resp.json())
     .then(response => {
       const profilesMarkup = response.records.map(nanny => (
@@ -20,7 +20,7 @@ if (profiles) {
             </div>
             <div class="f3 sm-f2">${nanny.fields['Blurb']}</div>
           </div>
-        `  
+        `
       )).join('')
       profiles.innerHTML = `
       <div class="py-5 sm-py-4 mx-auto col-12 lg-col-10 flex sm-block justify-between">
