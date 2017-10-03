@@ -43,8 +43,8 @@ call_to_action:
   - Casual and long term care
   image: "/assets/images/ruby.jpg"
   position: 25%
-  call_to_action: (03) 9088 2062
-  destination: "tel:+61390882062"
+  call_to_action: "(03) 9088 2062"
+  destination: tel:+61390882062
 sidebar:
   content: 'Rates start at $30 an hour and are inclusive of salary, WorkCover, private
     and public indemnity insurance, superannuation, statutory costs and agency fees.
