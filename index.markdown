@@ -36,15 +36,15 @@ collage:
   image: "/assets/images/best-nannies-melbourne.jpg"
   image_mobile: "/assets/images/best-nannies-melbourne-mobile.jpg"
 call_to_action:
-  title: Bring more freedom to your family life
-  subtitle: Call Ruby today to discuss your family’s needs
+  title: Call Ruby to discuss your options
+  subtitle: Share your needs with an expert
   checklist:
-  - No upfront fees
-  - 3 year average match
+  - Matchmaking since 2011
+  - Casual and long term care
   image: "/assets/images/ruby.jpg"
   position: 25%
-  call_to_action: Book Now
-  destination: "/book-a-nanny"
+  call_to_action: (03) 9088 2062
+  destination: "tel:+6190882062"
 sidebar:
   content: 'Rates start at $30 an hour and are inclusive of salary, WorkCover, private
     and public indemnity insurance, superannuation, statutory costs and agency fees.

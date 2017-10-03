@@ -33,7 +33,8 @@ gems:
 sass:
   sass_dir: assets/styles/
   style: compressed
-phone: 03 9088 2062
+phone: (03) 9088 2062
+phone_local: +61390882062
 email: ruby@nannymatch.com.au
 address_line_1: 9/41 Hanover St
 address_line_2: Fitzroy 3065
