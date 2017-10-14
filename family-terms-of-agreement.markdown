@@ -3,23 +3,25 @@ title: Family terms of agreement
 date: 2017-04-14 08:44:00 +10:00
 ---
 
-Thank you for choosing to use Nanny Match. These terms and conditions form the agreement upon which Nannies and Families use the services provided by ATA Creative Pty Ltd trading as Nanny Match (“Nanny Match”).
+Thank you for choosing to use Nanny Match. These terms and conditions form the agreement upon which Nannies and Families use the services provided by Nanny Match PTY LTD trading as Nanny Match (“Nanny Match”).
 
 In these terms and conditions: 
 
-“Family means any person(s) who uses or intends to use Nanny Match to receive childcare services.
+“Family" means any person(s) who uses or intends to use Nanny Match to receive childcare services.
 
 “Nanny” means any person who uses or intends to provide in-home child care services to a Family. 
 
 **Agreement**
 
-This agreement commences upon the acceptance of the terms below, which is indicated by viewing the profiles of Nanny Match employees. Please take the time to carefully read through the following conditions. 
+This agreement commences upon the acceptance of the terms below, which is indicated by viewing Nanny Match profiles. Please take the time to carefully read through the following conditions. 
 
 The general terms of this agreement may be amended from time to time at the discretion of Nanny Match. Up to date Family Terms of Agreement can at all times be found on our website. Please ensure that you check these conditions regularly, as your continued use of Nanny Match’s services will indicate your acceptance of any amended terms.
 
 **General Provisions**
 
 You have requested Nanny Match to provide your Family with the services of an employee of Nanny Match. Nanny Match is a service provider for the purposes of the Australian Consumer Law, and will provide services in accordance with this and all other relevant legislation.
+
+Nanny Match will not themselves perform the services agreed to, but rather will supply one or more workers to fulfill your Family’s request. Nannies supplied by Nanny Match to carry out work shall at all times remain employees of Nanny Match.
 
 In addition to this agreement, you will also be provided with a Placement Agreement. This agreement is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. 
 
@@ -30,8 +32,6 @@ Should your Family fail to complete the Placement Agreement:
 * Your Family indemnifies Nanny Match and the Nanny against any loss, damages, actions, suits, claims, demands and other liabilities of any nature whatsoever which at any time may arise from the Nanny’s engagement.
 
 * Your Family will be charged temporary hourly rates at +$1 per hour until the Placement Agreement is completed. 
-
-Nanny Match will not themselves perform the services agreed to, but rather will supply one or more workers to fulfill your Family’s request. Nannies supplied by Nanny Match to carry out work shall at all times remain employees of Nanny Match.
 
 The contact details for any Nanny engaged by the Family shall remain confidential. Such details shall not be made available to any other person, company, or private employer without the consent of the Nanny.
 
