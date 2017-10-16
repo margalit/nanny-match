@@ -1,5 +1,5 @@
 ---
-title: Family terms of agreement
+title: Services Agreement
 date: 2017-04-14 08:44:00 +10:00
 ---
 
@@ -9,17 +9,17 @@ In these terms and conditions:
 
 “Family" means any person(s) who uses or intends to use Nanny Match to receive childcare services.
 
-“Nanny” means any person who uses or intends to provide in-home child care services to a Family. 
+“Nanny” means any person who intends to provide in-home child care services to a Family. 
 
 **Agreement**
 
-This agreement commences upon the acceptance of the terms below, which is indicated by viewing Nanny Match profiles. Please take the time to carefully read through the following conditions. 
+This agreement commences when the Family contacts a Nanny Match Nanny. 
 
 The general terms of this agreement may be amended from time to time at the discretion of Nanny Match. Up to date Family Terms of Agreement can at all times be found on our website. Please ensure that you check these conditions regularly, as your continued use of Nanny Match’s services will indicate your acceptance of any amended terms.
 
 **General Provisions**
 
-You have requested Nanny Match to provide your Family with the services of an employee of Nanny Match. Nanny Match is a service provider for the purposes of the Australian Consumer Law, and will provide services in accordance with this and all other relevant legislation.
+You have requested Nanny Match to provide your Family with the services of a Nanny Match employee. Nanny Match is a service provider for the purposes of the Australian Consumer Law, and will provide services in accordance with this and all other relevant legislation.
 
 Nanny Match will not themselves perform the services agreed to, but rather will supply one or more workers to fulfill your Family’s request. Nannies supplied by Nanny Match to carry out work shall at all times remain employees of Nanny Match.
 
