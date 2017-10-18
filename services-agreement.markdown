@@ -33,8 +33,8 @@ The contact details for any Nanny engaged by the Family shall remain confidentia
 
 A Nanny may interview and work with multiple families. In order to facilitate this, your Family is responsible for: 
 
-—notifying the Nanny of any changes to your booking, and;
-—contacting the Nanny to arrange an interview.
+* Notifying the Nanny of any changes to your booking, and;
+* Contacting the Nanny to arrange an interview.
 
 Long term bookings will take priority over casual bookings.
 
