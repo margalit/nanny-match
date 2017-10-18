@@ -1,5 +1,5 @@
 ---
-title: Services Agreement
+title: Terms of Service
 date: 2017-04-14 08:44:00 +10:00
 ---
 
