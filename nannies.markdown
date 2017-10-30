@@ -1,5 +1,5 @@
 ---
-title: Find nanny work in Melbourne, earn super and a yearly payrise
+title: Find nanny work in Melbourne, earn super and a yearly pay rise
 description: Earn a fair wage while working with children in Melbourne
 feature:
   title: We’ve got you covered
@@ -47,9 +47,9 @@ call_to_action:
   destination: "/apply"
 sidebar:
   content: |
-    All our nannies start on a rate between $22–$30 + super depending on experience.
+    All our nannies start on a rate between $23 and $30 + super depending on experience.
 
-    You can look forward to a $1 per hour payrise every year you work with us.
+    You can look forward to a $1 per hour pay rise every year you work with us.
   button:
     text: Download PDF
     destination: "/assets/pdfs/nanny-match-for-nannies.pdf"
@@ -59,8 +59,8 @@ layout: nannies
 ---
 
 We individually match each nanny with the best families for them. We encourage and support open communication, understanding, equality and respect. For the greatest chance at a successful working relationship each nanny receives:
-- A yearly payrise
-- Automated timesheets
+- A time-tracking app
+- Automated time sheets and pay slips
 - Private and public indemnity insurance
-- Customisable and flexible formal agreements with each family
-- Sick and holiday cover
+- Formal agreements with each family
+- A yearly pay rise
