@@ -7,7 +7,7 @@ date: 2017-04-14 13:24:00 +10:00
 
 Re: Offer of casual employment
 
-It is with pleasure that I confirm an offer of casual employment as Nanny with Ata Creative Pty Ltd (Employer).
+It is with pleasure that I confirm an offer of casual employment as Nanny with Nanny Match PTY LTD (Employer).
 
 **1. Job title and position responsibilities**
 
@@ -104,7 +104,7 @@ Please save a copy of this document for your reference. By completing our online
 Yours faithfully,
 
 Ruby Brown
-Ata Creative Pty Ltd
+Nanny Match PTY LTD
 9/41 Hanover Street
 Fitzroy, VIC 3065
 
