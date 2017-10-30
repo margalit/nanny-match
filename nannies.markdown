@@ -1,5 +1,5 @@
 ---
-title: Find nanny work in Melbourne, earn super and a yearly payrise
+title: Find nanny work in Melbourne, earn super and a yearly pay rise
 description: Earn a fair wage while working with children in Melbourne
 feature:
   title: We’ve got you covered
