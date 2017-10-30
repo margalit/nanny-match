@@ -44,7 +44,8 @@ It is with pleasure that I confirm an offer of casual employment as Nanny with N
 
 **2.3 Worker's compensation**
 
-In order to protect the rights of employees, notice of any injury incurred during working hours or while travelling to or from work must be given immediately to the Employer. You can report injury by email (ruby@nannymatch.com.au) or by entering the injury on your Deputy timesheet. 
+In order to protect the rights of employees, notice of any injury incurred during working hours or while travelling to or from work must be given immediately to the Employer. You can report injury by email 
+(ruby@nannymatch.com.au) or phone (0406262869).
 
 **2.4 Return of Employer property**
 
@@ -61,7 +62,7 @@ By accepting this letter of offer, you acknowledge and agree that you will not, 
 
 (a) You will be paid an hourly rate for all hours worked. You will be required to submit your working hours to the Employer by way of Deputy. You will be required to check in upon arrival at the Family location and check out upon leaving the Family location. 
 
-(b) The standard Hourly Rate will be minimum $22.125 per hour. You will be paid an Hourly Rate of minimum $22.125 per hour for work performed on weekends and an Hourly Rate of minimum $22.125 per hour for work performed on public holidays.
+(b) The standard Hourly Rate will be minimum $22.125 per hour. You will be paid an Hourly Rate of minimum $22.125 per hour for work performed on weekends and an Hourly Rate of minimum $22.125 per hour for work performed on public holidays. Please keep record of your starting rate with Nanny Match as communicated by email.
 
 (c) You will receive your pay fortnightly into your nominated bank account.
 
