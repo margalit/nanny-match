@@ -46,8 +46,8 @@ call_to_action:
   call_to_action: "(03) 9088 2062"
   destination: tel:+61390882062
 sidebar:
-  content: 'Rates start at $30 an hour and are inclusive of salary, WorkCover, private
-    and public indemnity insurance, superannuation, statutory costs and agency fees.
+  content: 'Rates start at $30 an hour inclusive of salary, WorkCover, private and
+    public indemnity insurance, superannuation and agency fees.
 
 '
   button:
