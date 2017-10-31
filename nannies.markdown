@@ -47,7 +47,7 @@ call_to_action:
   destination: "/apply"
 sidebar:
   content: |
-    All our nannies start on a rate between $23 and $30 + super depending on experience.
+    Our nannies start on a rate between $23 and $30 + super, based on experience.
 
     You can look forward to a $1 per hour pay rise every year you work with us.
   button:
