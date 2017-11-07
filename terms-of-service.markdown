@@ -68,6 +68,8 @@ You will be provided with a Placement Review at the end of your trial period. Yo
 
 **Payments**
 
+Hourly rates do not include GST. You will be charged GST in addition to the hourly rates. 
+
 Invoices are generated weekly and will be automatically charged to your nominated credit card or direct debit account within one week. A transaction fee of 1.98% (Visa/Mastercard) or 3.85% (AMEX) + 33c will be charged if paying by credit card. There is no transaction fee for direct debit. 
 
 Services may be suspended if an account is in arrears for more than seven days. 
