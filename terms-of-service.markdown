@@ -44,13 +44,17 @@ Families that have completed placement reviews will take priority over all booki
 
 Your Family will be charged the casual hourly rate listed on the Nanny's profile. There is no placement fee for casual bookings.
 
-Should your Family request to interview a nanny for a casual booking your Family will be charged an interview fee. The interview fee is a minimum of 2-hours at the Nanny's casual hourly rate.
+Should your Family request to interview a nanny for a casual booking your Family will be charged an interview fee. The interview fee is a minimum of 2-hours at the Nanny's casual hourly rate. 
+
+Should your Family request to trial a nanny for a casual booking your Family will be charged for the trial at the Nanny's casual hourly rate. Nanny Match recommends a 4-hour trial shift. 
 
 Casual bookings require 24 hours notice of cancellation. When cancellation is made in less than 24 hours a 50% cancellation fee applies.
 
 **Long term bookings**
 
 There is no charge to interview nannies for long term bookings.
+
+Should your Family request to trial a nanny for a long term booking your Family will be charged for the trial at the Nanny's long term hourly rate. Nanny Match recommends a 4-hour trial shift. 
 
 Long term bookings require a placement fee of $490. The placement fee is charged on confirmation of your match. 
 
