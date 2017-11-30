@@ -7,7 +7,7 @@ tags:
 - family
 ---
 
-Once you've selected a candidate to interview or trial, Nanny Match will make the introduction so you can organise a time to meet. 
+Once you've selected a candidate to interview or trial Nanny Match will make the introduction so you can organise a time to meet. 
 
 For an interview, the family will invite the nanny to their home to chat about values, experiences and ask each other questions to determine if it's the best match. The family will show the nanny around the home and invite the children to observe the meeting. 
 
