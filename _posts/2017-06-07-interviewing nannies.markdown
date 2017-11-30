@@ -1,5 +1,5 @@
 ---
-title: Interviewing Nannies
+title: Our tips for interviews and trials
 date: 2017-06-07 09:34:00 +10:00
 tags:
 - interviews
@@ -7,21 +7,23 @@ tags:
 - family
 ---
 
-The nanny industry is fast-paced. When we find a great nanny, we have two weeks to place her before she finds another job. For parents, this means taking time to run phone interviews before investing time to meet in person. 
+After you've selected candidates for interviews or trials, Nanny Match will make the introductions so you can find a time to meet. 
 
-The following questions will help you determine if you've found a potential match: 
+For an interview, the family will invite the nanny to their home to chat about values, experiences and ask each other questions to determine if it's the best match. The family will show the nanny around the home and invite the children to observe the meeting. 
 
-* Tell me about your experience with children. 
+If you feel confident about a particular candidate, you may choose to skip the interview and organise a trial shift. The family will invite the nanny over for a minimum of 4 hours, offer a tour of the family home and discuss some of the following topics. The parents will then head out so the nanny can work independently. 
+
+Here are some questions to help you clarify expectations and find your match: 
+
 * What do you enjoy most about working with children? 
-* What do you bring to your work with children?
-* What was your own childhood like? 
-* What are you looking for in your new job? 
+* What are you looking for in your new family? 
 * Do you have a routine that you work to? 
-* What are your favourite things to do with children (ages)? 
+* What are your favourite things to do with this age group? 
 * Tell me about your last nanny job. What were the positives? Were there any difficulties? How did you work through these? 
 * What have you learned from your work with families? 
 * What do you consider to be your strengths? 
-* Do you have any interviews coming up? 
+* What is your childcare philosophy? 
+* Where do you draw inspiration from? 
 * What are your other commitments during the week?
 * What are your plans for the next year or so? 
-* Do you have any questions for me? 
+* Do you have any questions for us? 
