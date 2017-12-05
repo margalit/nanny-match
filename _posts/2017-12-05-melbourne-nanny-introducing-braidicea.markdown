@@ -3,7 +3,7 @@ title: 'Melbourne Nanny: Introducing Braidicea'
 date: 2017-12-05 15:24:00 +11:00
 ---
 
-It's an absolute delight to introduce Braidicea aka Kiwi Mary Poppins! Braidicea works with us part-time, caring for two main families in the northern suburbs. Braidicea inspires us with her work every day. She brings magic to all interactions—even her emails and texts make us smile. 
+It's an absolute delight to introduce Braidicea aka Kiwi Mary Poppins! Braidicea works with us part-time, caring for two main families in the northern suburbs. She brings magic to all interactions—down to her sunshine-filled emails and texts, Braidicea inspires us every day!
 
 ![Braidicea Rhiannan Photo.jpg](/uploads/Braidicea%20Rhiannan%20Photo.jpg)
 
