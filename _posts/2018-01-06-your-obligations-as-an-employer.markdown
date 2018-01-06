@@ -21,8 +21,12 @@ If you pay an employee $450 or more (before tax) in a calendar month, you have t
 
 * Holiday leave and sick leave: There are minimum leave entitlements for full-time and part-time employees which vary from state to state.
 
-* Insurance: It’s strongly recommended that you have insurance that covers domestic employees in the event of injury in the workplace (your home) or on their way to and from work.
+**Insurance**
 
-* Family car: If the Nanny is going to drive the family car you will need to consider your insurance policy.
+* Domestic Workers Compensation, or household workers insurance, is essential if you employ someone in your home environment; it can be obtained at an estimated cost of $40 per year from most insurance companies and covers you in the unfortunate case of the
+employee injuring themselves whilst in your home. Contact WorkCover QLD on 1300 362 128
+* Public Liability Insurance to cover accidents in your home. You should check your Home and Contents insurance policy to ensure your Nanny is covered. Alternatively, you may arrange public liability insurance with an insurer such as NannySure
+* Motor Vehicle Insurance if your Nanny is going to be using your car. 
 
-* Km rate: If the Nanny is going to be using their own vehicle the current rate set by Fair Work is 0.66 cents per km.
+**Km rate** 
+If the Nanny is going to be using their own vehicle the current rate set by Fair Work is 0.66 cents per km.
