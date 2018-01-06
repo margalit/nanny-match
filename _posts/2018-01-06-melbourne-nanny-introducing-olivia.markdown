@@ -1,12 +1,13 @@
 ---
 title: 'Melbourne Nanny: Introducing Olivia'
 date: 2018-01-06 15:12:00 +11:00
+tags:
+- nanny profile
+- nanny match
+- nanny life
 ---
 
-We're so lucky to have Olivia as part of our team at Nanny Match. With a background in childcare, Olivia brings a wealth of knowledge and experience—she confidently steps into any job and she's an incredibly hard worker! 
-
-![20170530_164623 (1).jpg](/uploads/20170530_164623%20(1).jpg)
-
+We're so lucky to have Olivia as part of our team at Nanny Match. Olivia brings a wealth of knowledge and experience from her time in childcare—she confidently steps into any job and she's an incredibly hard worker! 
 
 **Tell us a little bit about you?**
 
