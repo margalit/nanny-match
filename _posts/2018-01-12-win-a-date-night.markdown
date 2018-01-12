@@ -1,5 +1,5 @@
 ---
-title: win-a-date-night
+title: Win a date night at Heide MoMA
 date: 2018-01-12 12:40:00 +11:00
 ---
 
