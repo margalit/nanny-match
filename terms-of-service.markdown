@@ -54,7 +54,7 @@ Casual bookings require 24 hours notice of cancellation. When cancellation is ma
 
 There is no charge to interview nannies for long term bookings.
 
-Should your Family request to trial a nanny for a long term booking your Family will be charged for the trial at the Nanny's long term hourly rate. Nanny Match recommends a 4-hour trial shift. 
+Should your Family request to trial a nanny for a long term booking your Family will be charged for the trial at the Nanny's casual rate. 
 
 Long term bookings require a placement fee of $490. The placement fee is charged on confirmation of your match. 
 
