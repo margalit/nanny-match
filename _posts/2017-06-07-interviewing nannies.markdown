@@ -7,23 +7,25 @@ tags:
 - family
 ---
 
-Once you've selected a candidate to interview or trial Nanny Match will make the introduction so you can organise a time to meet. 
+Once you've selected some candidates from your shortlist, we'll make an email introduction so you can contact each nanny directly. 
 
-For an interview, the family will invite the nanny to their home to chat about values, experiences and ask each other questions to determine if it's the best match. The family will show the nanny around the home and invite the children to observe the meeting. 
+The first step is a quick phone chat to discuss each other's needs and get a feel for compatibility. We encourage families to ask as many questions as possible over the phone before booking a meet-and-greet. 
 
-If you feel confident about a particular candidate you may choose to skip the interview and organise a paid trial shift. The family will invite the nanny over for a minimum of 4 hours, offer a tour of the family home and discuss some of the following topics. The parents will then head out so the nanny can work independently. 
+Once you've had a chat with your selected nannies you can book some meetings. We call the initial meeting a 'meet and greet'. Please note we charge a minimum of 2-hours for all face-to-face time in accordance with the national employment standards. All shifts after a meet and greet are considered a standard shift. A 4-hour minimum applies to standard shifts.  
 
-Here are some questions to help you clarify expectations and find your match: 
+Here are some questions to help you clarify expectations and find your match. We work with multiple families across the week and our availability is quick to change during peak season, so please be sure to clarify the nanny's availability before moving forward. 
 
+* Do you work with other families? If so, when? 
+* When are you available to work with us? 
+* Do you have any changes to availability coming up? 
 * What do you enjoy most about working with children? 
-* What are you looking for in your new family? 
+* What are you looking for in your next family? 
 * Do you have a routine that you work to? 
 * What are your favourite things to do with this age group? 
 * Tell me about your last nanny job. What were the positives? Were there any difficulties? How did you work through these? 
 * What have you learned from your work with families? 
 * What do you consider to be your strengths? 
+* What are your plans for the next year or so? 
 * What is your childcare philosophy? 
 * Where do you draw inspiration from? 
-* What are your other commitments during the week?
-* What are your plans for the next year or so? 
 * Do you have any questions for us? 
