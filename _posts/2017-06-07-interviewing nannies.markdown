@@ -7,9 +7,9 @@ tags:
 - family
 ---
 
-Once you've selected some candidates from your shortlist, we'll make an email introduction so you can contact each nanny directly. 
+First you'll select some candidates from your shortlist. Next, we'll introduce you to your candidates by email so you can contact each nanny directly. 
 
-The first step is a quick phone chat to discuss each other's needs and get a feel for compatibility. We encourage families to ask as many questions as possible over the phone before booking a meet-and-greet. 
+The first step is a quick phone chat to discuss each others needs and get a feel for compatibility. We encourage families to ask as many questions as possible before booking a meet-and-greet. 
 
 Once you've had a chat with your selected nannies you can book some meetings. We call the initial meeting a 'meet and greet'. Please note we charge a minimum of 2-hours for all face-to-face time in accordance with the national employment standards. All shifts after a meet and greet are considered a standard shift. A 4-hour minimum applies to standard shifts.  
 
