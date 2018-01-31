@@ -41,7 +41,7 @@ Families who complete placement reviews will take priority over all bookings.
 
 There is no placement fee for casual bookings.
 
-Your Family will be charged the casual hourly rate listed on the Nanny's profile. Our rates are GST exclusive. 
+Your Family will be charged the casual hourly rate listed on the Nanny's profile. 
 
 A 4-hour minimum applies to all casual bookings.
 
@@ -67,8 +67,6 @@ Placement fees:
 * 4 days per week $1160
 * 5 days per week $1450 
 
-Rates and fees are GST exclusive.
-
 In addition to this agreement, you will also be provided with a Placement Agreement. This agreement is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. It is your Family's responsibility to complete the Placement Agreement before services commence. Your Family will be charged casual hourly rates until the Placement Agreement is completed.
 
 Nanny Match must be notified of any variations to this agreement negotiated between your Family and the Nanny. 
@@ -88,8 +86,6 @@ Your Family shall bear the legal or other costs incurred by Nanny Match to recov
 Nanny Match may vary its rates from time to time to include any change to any statutory on-costs, e.g. any legislative changes, public liability insurance premiums; or if there is any change which affects the cost of providing Nanny Match employees. Nanny Match will give your Family at least two weeks’ written notice of the new rates. 
 
 The rates charged to your Family will increase by $1 per hour for each consecutive year of childcare services provided by Nanny Match. 
-
-Nanny Match rates are exclusive of GST.
 
 **Nanny Match Responsibilities**
 
