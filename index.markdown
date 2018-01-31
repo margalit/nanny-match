@@ -1,6 +1,6 @@
 ---
 title: Qualified, checked and insured nannies
-description: We are a people-first nanny agency specialising in affordable childcare
+description: We are a people-first nanny agency specialising in flexible childcare
   in Melbourne. Our nannies are fully insured, background checked and first-aid qualified.
 feature:
   title: Find the right fit
@@ -46,7 +46,7 @@ call_to_action:
   call_to_action: "(03) 9088 2062"
   destination: tel:+61390882062
 sidebar:
-  content: 'Rates start at $30 an hour inclusive of salary, WorkCover, private and
+  content: 'Rates start at $32 an hour inclusive of salary, WorkCover, private and
     public indemnity insurance, superannuation and agency fees.
 
 '
