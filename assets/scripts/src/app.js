@@ -1,5 +1,4 @@
 import profiles from './profiles';
-import trackBooking from './track-booking';
 
 const setupMenu = () => {
   const toggle = document.querySelector('[data-toggle]');
@@ -14,15 +13,34 @@ const setupForm = () => {
   const form = document.querySelector('[data-nanny-form]');
   if (form) {
     const fields = form.querySelectorAll('[data-field]');
+    Array.from(fields).map(field => {
+      field.addEventListener('change', () => {
+        renderErrorText('');
+      });
+    });
     form.onsubmit = evt => {
       evt.preventDefault();
-      screenResults(fields);
+      if (fieldsValid(fields)) {
+        screenResults(fields);
+      } else {
+        renderErrorText('Please answer all the questions');
+      }
     };
   }
 };
 
+const fieldsValid = fields => {
+  return Array.from(fields).reduce((valid, field) => {
+    return field.value === 'Select one' ? false : valid;
+  }, true);
+};
+
+const renderErrorText = text => {
+  const errorContainer = document.querySelector('[data-error]');
+  errorContainer.innerText = text;
+};
+
 const screenResults = fields => {
-  let dateOfBirth;
   let satisfyCriteria = true;
   fields.forEach(field => {
     const { value } = field;
@@ -30,11 +48,8 @@ const screenResults = fields => {
       satisfyCriteria = false;
     }
     switch (field.dataset.field) {
-      case 'date-of-birth':
-        dateOfBirth = value;
-        const ageDiff = Date.now() - new Date(value).getTime();
-        const age = Math.abs(new Date(ageDiff).getUTCFullYear() - 1970);
-        if (age < 22) satisfyCriteria = false;
+      case 'experience':
+        if (value === 'no-experience') satisfyCriteria = false;
         break;
       case 'visa-status':
         if (value !== 'permanent') satisfyCriteria = false;
@@ -51,9 +66,7 @@ const screenResults = fields => {
     }
   });
   if (satisfyCriteria) {
-    window.location.assign(
-      `https://airtable.com/shreBpX2w5XcDiImt?prefill_Date%20of%20Birth=${dateOfBirth}`
-    );
+    window.location.assign(`https://airtable.com/shreBpX2w5XcDiImt`);
   } else {
     window.location.assign('/sorry');
   }
