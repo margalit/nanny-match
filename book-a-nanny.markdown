@@ -1,6 +1,7 @@
 ---
 title: Book a Nanny
-subtitle: Casual or long term
+subtitle: "Casual or long term—request a booking below. \n\nWant to learn more about
+  how to find a nanny? Book a phone consultation for expert advice."
 layout: airtable
 ---
 
