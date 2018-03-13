@@ -7,7 +7,7 @@ tags:
 - nanny life
 ---
 
-We're so lucky to have Olivia as part of our team at Nanny Match. Olivia brings a wealth of knowledge and experience from her time in childcare—she confidently steps into any job and she's an incredibly hard worker! 
+We're so lucky to work with Olivia who brings a wealth of knowledge and experience from her time in childcare. Olivia wows us with her ability to take on any job and she is an incredibly hard worker.  
 
 ![20170530_164623 (1).jpg](/uploads/20170530_164623%20(1).jpg)
 
