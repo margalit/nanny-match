@@ -9,6 +9,8 @@ tags:
 
 We're so lucky to have Olivia as part of our team at Nanny Match. Olivia brings a wealth of knowledge and experience from her time in childcare—she confidently steps into any job and she's an incredibly hard worker! 
 
+![20170530_164623 (1).jpg](/uploads/20170530_164623%20(1).jpg)
+
 **Tell us a little bit about you?**
 
 I grew up in Queensland, mainly in the area of Logan until I moved to London for 2 years and now I live here in Melbourne in the wonderful area of Northcote. I studied my diploma in early years services. My goal for 2018 is to finish knitting my partner a jumper I started last year!
