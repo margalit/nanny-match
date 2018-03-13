@@ -13,11 +13,7 @@ I grew up in the north-eastern suburb of Melbourne, Eltham. I’ve lived a few o
 
 **How did you find Nanny Match?** 
 
-I found Nanny Match through a mutual friend of Ruby's, whom I studied with at The Victorian College of the Arts.
-
-**What attracted you to Nanny Match?** 
-
-I was attracted to Nanny Match because of it’s person centred focus, strong network of passionate creatives, and Ruby’s smart, bright, brilliant and generous energy! 
+I found Nanny Match through a mutual friend of Ruby's, whom I studied with at The Victorian College of the Arts. I was attracted to Nanny Match because of it’s person centred focus, strong network of passionate creatives, and Ruby’s smart, bright, brilliant and generous energy! 
 
 **Tell us about the children you work with?**
 
