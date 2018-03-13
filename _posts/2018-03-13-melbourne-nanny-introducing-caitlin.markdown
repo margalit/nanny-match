@@ -5,6 +5,8 @@ date: 2018-03-13 14:24:00 +11:00
 
 What a delight to introduce the brilliantly creative and mature Caitlin who will soon celebrate her anniversary with Nanny Match. 
 
+![Caitlin Cummane.jpg](/uploads/Caitlin%20Cummane.jpg)
+
 **Tell us a little bit about you?**
 
 I grew up in the north-eastern suburb of Melbourne, Eltham. I’ve lived a few other places post high-school, including overseas, but am back in Eltham now. It’s special to me. I love Eltham because of the plants, animals, stars and Yarra river. I studied visual art at university, and have continued to nurture my arts practice since graduating. I work predominantly in the mediums of photography and video. In the future, I plan to pursue my interest in child development and education, probably undertaking a Master of Teaching.
