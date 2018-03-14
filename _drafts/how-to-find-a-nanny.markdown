@@ -28,7 +28,7 @@ Hiring a contractor:
 * A nanny cannot simply claim to be a contractor. It is the nature of the work and the engagement that determines whether the worker is a contractor or an employee. It’s important to clarify your needs from the beginning so you can determine your responsibilities, costs and the associated administration. It’s also important to keep tabs on the engagement as a contractor may start working more often and on a more regular basis, indicating a change to an employee/employer arrangement. 
 
 
-* The nanny works for herself and is responsible for her own employment. Expect rates of at least $30 per hour for a contractor in Australia. This will include the nanny’s base rate, casual loading, superannuation, insurance and WorkCover. A rate of $30 per hour can reflect a base rate of just $23 per hour—close to minimum wage in Australia. 
+* The nanny works for herself and is responsible for her own employment. Expect rates of at least $35 per hour for a contractor in Australia. This will include the nanny’s base rate, loading or leave, superannuation, insurance and WorkCover. A rate of $35 per hour can reflect a base rate of just $23 per hour—close to minimum wage in Australia. 
 
 
 * The nanny is responsible for managing her own PAYG tax, superannuation payments and leave entitlements. 
