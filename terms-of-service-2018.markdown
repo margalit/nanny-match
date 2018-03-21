@@ -37,13 +37,13 @@ Families who complete placement reviews will take priority over all bookings.
 
 **Casual bookings**
 
-"Casual booking" means any booking that is intended to last less than 3 months or offers shifts that are less than 6 hours in length. 
+"Casual booking" means any booking that is intended to last less than 3 months.
 
 There is no placement fee for casual bookings.
 
 Your Family will be charged the casual hourly rate listed on the Nanny's profile. 
 
-A 4-hour minimum applies to all casual bookings.
+A 6-hour minimum applies to all casual bookings.
 
 Should your Family request to meet or trial a nanny before making a casual booking your Family will be charged a minimum of 2 hours at the Nanny's casual hourly rate in accordance with the National Employment Standards.
 
@@ -51,11 +51,11 @@ Should your Family request to meet or trial a nanny before making a casual booki
 
 "Long term placement" means any placement intended to last a minimum of 3 months and offers shifts that are 6 hours or more at a time.
 
-All bookings are based on a minimum 4-hour shift length. Shifts less than 4 hours will round to 4 hours. 
+All bookings are based on a minimum 6-hour shift length. Shifts less than 6 hours will round to 6 hours. 
 
-For shifts that are longer than 4 hours, your Family will be charged for the total hours between the nanny's arrival and departure to your home or the place of care. Nannies will record their arrival and departure times using online human resources and employee management software. 
+For shifts that are longer than 6 hours, your Family will be charged for the total hours between the nanny's arrival and departure to your home or the place of care. Nannies will record their arrival and departure times using online human resources and employee management software. 
 
-Should your Family request to trial a nanny for a long term booking your Family be charged at the Nanny's casual rate. 
+Should your Family request to meet or trial a nanny before making a casual booking your Family will be charged a minimum of 2 hours at the Nanny's casual hourly rate in accordance with the National Employment Standards. Should your Family request to meet or trial a nanny for a long term booking your Family be charged at the Nanny's casual rate. 
 
 Long term bookings require a placement fee, charged on confirmation of your match.
 
@@ -67,11 +67,11 @@ Placement fees:
 * 4 days per week $1160
 * 5 days per week $1450 
 
-In addition to this agreement, you will also be provided with a Placement Agreement. This agreement is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. It is your Family's responsibility to complete the Placement Agreement before services commence. Your Family will be charged casual hourly rates until the Placement Agreement is completed.
+In addition to this agreement, you will also be provided with a Placement Plan. This plan is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. It is your Family's responsibility to complete the Placement Plan before services commence. Your Family will be charged casual hourly rates until the Placement Plan is completed.
 
 Nanny Match must be notified of any variations to this agreement negotiated between your Family and the Nanny. 
 
-Long term bookings begin with a 4-week trial period. 
+Long term bookings begin with a standard 4-week trial period. 
 
 You will be provided with a Placement Review at the end of your trial period. Your Family is responsible for completing the Placement Review. 
 
