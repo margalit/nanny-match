@@ -26,10 +26,10 @@ You have requested Nanny Match to provide your Family with the services of a Nan
 
 Nannies supplied by Nanny Match to carry out work shall at all times remain employees of Nanny Match. The contact details for any Nanny engaged by the Family shall remain confidential. Such details shall not be made available to any other person, company, or private employer without the consent of the Nanny.
 
-A Nanny may interview and work with multiple families. In order to facilitate this, your Family must: 
+A Nanny may meet and work with multiple families. In order to facilitate this, your Family must: 
 
 * notify the Nanny of any changes to your position, and;
-* contact the Nanny as soon as possible to arrange an interview.
+* contact the Nanny as soon as possible to arrange a meeting.
 
 Long term placements will take priority over casual bookings.
 
@@ -37,15 +37,15 @@ Families who complete placement reviews will take priority over all bookings.
 
 **Casual bookings**
 
-"Casual booking" means any booking that is intended to last less than 3 months.
+"Casual booking" means any booking intended to last less than 3 months.
 
 There is no placement fee for casual bookings.
 
-Your Family will be charged the casual hourly rate listed on the Nanny's profile. 
+Your Family will be charged the casual hourly rate listed on the Nanny's profile. Casual rates start at $35 per hour.
 
-A 6-hour minimum applies to all casual bookings.
+A 4-hour minimum applies to all casual bookings.
 
-Should your Family request to meet or trial a nanny before making a casual booking your Family will be charged a minimum of 2 hours at the Nanny's casual hourly rate in accordance with the National Employment Standards.
+Should your Family request to meet or trial a nanny before making a casual booking your Family will be charged a minimum of 2 hours at the Nanny's casual hourly rate in accordance with National Employment Standards.
 
 **Long term placements**
 
