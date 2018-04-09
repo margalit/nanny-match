@@ -1,30 +1,33 @@
 ---
-title: We need a nanny—things to consider
+title: How to find a nanny in Melbourne
 date: 2018-02-08 15:14:00 +11:00
 ---
 
-Navigating the nanny world can be a confusing experience for first time families. As traditional child care becomes more scarce and costly, more parents are turning to nanny care as a solution.
+Navigating the nanny world can be a confusing experience for first time families. The pressures of contemporary family life and long child care wait lists means more parents are turning to nanny care as a solution.
 
-Nanny care can be a wonderful experience for parents, children and nannies. Families can enjoy flexible, one-on-one care, less illness and a unique extension to their circle of trust. Nannies enjoy working closely with children and finding reward in helping them  grow and learn.   
+Nanny care can be a wonderful experience for parents, children and nannies. Families can enjoy flexible, one-on-one care, less illness and a unique extension to their circle of trust. Nannies find reward in working closely with children and supporting them to grow and learn.   
 
-The key differences to traditional childcare and nanny care include: 
+## The key differences to traditional childcare and nanny care include: 
 
 * **Compatibility factor**—inviting someone to work in your home introduces a new layer to the parent/carer relationship. It's important that both parties feel 100% comfortable with each other before engaging. 
 
 * **Employer obligations**—in most cases, the nanny could be deemed an employee for superannuation and WorkCover purposes. In these circumstances, either the family or an agency will need to take on employer obligations, administration and costs. 
 
-* **Cost**—unlike childcare, where many families share the cost of care, engaging with one carer means the cost is likely to be higher than traditional care. Some families may be eligible for the in-home care package—more information can be found here. 
+* **Cost**—engaging with one carer to one or two children means a higher cost compared to traditional child care. Most nanny services are not government rebated, however some families may be eligible for the in-home care package—[more information can be found here](https://www.education.gov.au/in-home-care). 
 
-The first step is to determine if nanny care is a viable option for your family. To do this, you will need to: 
+## Before jumping into a time-consuming nanny search, your first step is to determine if nanny care is a viable option for your family. 
 
-1. Work out the spread and amount of hours to determine how likely it is that you will find (and keep) a nanny.
+### 1. Work out the spread and amount of hours to determine how likelihood of finding (and keeping) a nanny.
 
-The spread and amount of hours will determine how much time and effort it's going to take to find a nanny. A general rule is the more hours on offer each shift, the more interest you will receive, and you have a higher chance of keeping your nanny. 
+The spread will determine how much time and effort it's going to take to find a nanny. As a general rule, if you offer more hours per shift you will receive more interest in your role, quality applicants and you are more likely to keep your nanny. 
 
-2. Work out your employer obligations by considering the spread and amount of hours, ATO and Fair Work guidelines. 
+### 2. Work out your employer obligations by considering the spread and amount of hours, ATO and Fair Work guidelines. 
 
-3. Work out the cost and administration associated with the type of employment arrangement required. 
+More often than not, it's likely your job will reflect an employee and employer relationship. This means as the employer you will be responsible for your employee's pay, superannuation, WorkCover and other administration and costs.
 
+### 3. Work out the cost and administration associated with the type of employment required. 
+
+You will need to pay your nanny a base hourly rate + casual loading or leave entitlements, superannuation, WorkCover, insurance costs and administrative / payroll costs.
 
 **What days and hours do I need?** 
 
@@ -45,7 +48,7 @@ b) hiring a nanny through an employment agency.
 
 * As the employer, the agency is responsible for all costs, administration and liabilities associated with the employment arrangement, including the nanny's wage, superannuation, PAYG tax, WorkCover, leave entitlements and employment agreements. 
 
-* As the employer the agency is responsible for maintaining all checks and certificates. Each agency will require different checks, depending on their policies and their insurance cover. At a basic level, each agency nanny should hold a valid National Police Check, a Victorian Working with Children Check and a first aid certificate. 
+* As the employer the agency is responsible for maintaining all checks and certificates. Each agency will require different checks, depending on their policies and their insurance cover. At the very least each agency nanny should hold a valid National Police Check, a Victorian Working with Children Check and a first aid certificate. 
 
 * As the employer the agency is responsible for adhering to National Employment Standards, tax and superannuation law. 
 
