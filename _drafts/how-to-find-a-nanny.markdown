@@ -3,19 +3,19 @@ title: How to find a nanny in Melbourne
 date: 2018-02-08 15:14:00 +11:00
 ---
 
-Navigating the nanny world can be a confusing experience for first time families. The pressures of contemporary family life and long child care wait lists means more parents are turning to nanny care as a solution.
+Navigating the nanny world can be a confusing experience for first time families. The pressures of contemporary family life and long child care wait lists has encouraged more parents to consider engaging with a nanny.
 
-Nanny care can be a wonderful experience for parents, children and nannies. Families can enjoy flexible, one-on-one care, less illness and a unique extension to their circle of trust. Nannies find reward in working closely with children and supporting them to grow and learn.   
+Nanny care can be a wonderful experience for parents, children and nannies. Families can enjoy flexible, one-on-one care, less illness and a unique extension to their circle of trust. Nannies find reward in working closely with children and supporting them to grow and learn. 
 
-## The key differences to traditional childcare and nanny care include: 
+## Before jumping into a time-consuming nanny search, your first step is to determine if nanny care is a viable option for your family. You'll need to consider:
 
 * **Compatibility factor**—inviting someone to work in your home introduces a new layer to the parent/carer relationship. It's important that both parties feel 100% comfortable with each other before engaging. 
 
 * **Employer obligations**—in most cases, the nanny could be deemed an employee for superannuation and WorkCover purposes. In these circumstances, either the family or an agency will need to take on employer obligations, administration and costs. 
 
-* **Cost**—engaging with one carer to one or two children means a higher cost compared to traditional child care. Most nanny services are not government rebated, however some families may be eligible for the in-home care package—[more information can be found here](https://www.education.gov.au/in-home-care). 
+* **Cost**—engaging with one carer means a higher cost compared to traditional child care. Most nanny services are not government rebated, however some families may be eligible for the in-home care package—[more information can be found here](https://www.education.gov.au/in-home-care). 
 
-## Before jumping into a time-consuming nanny search, your first step is to determine if nanny care is a viable option for your family. 
+## Next, work out your needs 
 
 ### 1. Work out the spread and amount of hours to determine how likelihood of finding (and keeping) a nanny.
 
