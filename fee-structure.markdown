@@ -14,7 +14,7 @@ We require a single placement fee on confirmation of your match, after you have 
 * 4 days per week $1960 paid once
 * 5 days per week $2450 paid once
 
-You will be required to engage with our partner payroll service, Nanny Pay. Nanny Pay will ensure all your legal obligations are met in regard to regard to tax, superannuation, work cover, fair work standards and pay rate requirements.  
+You will be required to engage with our partner payroll service, [Nanny Pay](nannypay.com.au). Nanny Pay will ensure all your legal obligations are met in regard to regard to tax, superannuation, work cover, fair work standards and pay rate requirements.  
 
 **Nanny Pay Fees**
 * $165 single set up cost
