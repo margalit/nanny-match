@@ -49,7 +49,7 @@ sidebar:
 
 '
   button:
-    text: Download PDF
+    text: PDF coming soon
     destination: "/assets/pdfs/nanny-match-for-nannies.pdf"
 content_title: Start off on the right foot
 image: "/assets/images/nanny-jobs-melbourne.jpg"
