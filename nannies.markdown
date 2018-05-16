@@ -49,8 +49,8 @@ sidebar:
 
 '
   button:
-    text: Download PDF
-    destination: "/assets/pdfs/nanny-match-for-nannies.pdf"
+    text: PDF coming soon
+    destination: 
 content_title: Start off on the right foot
 image: "/assets/images/nanny-jobs-melbourne.jpg"
 layout: nannies
