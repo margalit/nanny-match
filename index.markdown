@@ -1,7 +1,7 @@
 ---
 title: Qualified, checked and insured nannies
-description: We are a people-first nanny agency specialising in flexible childcare
-  in Melbourne. Our nannies are fully insured, background checked and first-aid qualified.
+description: We are a people-first recruitment service specialising in flexible childcare
+  in Melbourne. Our nannies are background checked, first-aid qualified and valued.
 feature:
   title: Find the right fit
   subtitle: Meet experienced and reliable nannies in Melbourne
@@ -31,8 +31,8 @@ testimonials:
     looking to hire a nanny for the first time!
 collage:
   title: Happy Nannies
-  subtitle: We're fair work advocates. Our nannies receive superannuation and pay
-    slips.
+  subtitle: We're fair work advocates. Our nannies receive superannuation and they're
+    covered by WorkSafe.
   image: "/assets/images/best-nannies-melbourne.jpg"
   image_mobile: "/assets/images/best-nannies-melbourne-mobile.jpg"
 call_to_action:
