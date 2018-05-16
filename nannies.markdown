@@ -50,7 +50,7 @@ sidebar:
 '
   button:
     text: PDF coming soon
-    destination: "/assets/pdfs/nanny-match-for-nannies.pdf"
+    destination: 
 content_title: Start off on the right foot
 image: "/assets/images/nanny-jobs-melbourne.jpg"
 layout: nannies
