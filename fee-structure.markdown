@@ -21,4 +21,5 @@ You will be required to engage with our partner payroll service, [Nanny Pay](nan
 * $55 per payroll process—monthly, fortnightly or weekly.
 
 **Hourly costs**
+
 You can expect hourly costs between $30 and $36 per hour. This includes a base hourly rate, super, work cover and Nanny Pay's $55 fee.
