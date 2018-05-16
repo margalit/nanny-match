@@ -8,7 +8,7 @@ feature:
   checklist:
   - Background checked
   - First-aid qualified
-  - 1–5 days per week
+  - 1+ days per week
   image: "/assets/images/nannies-melbourne.jpg"
   position: 25%
   call_to_action: Book Now
@@ -40,7 +40,7 @@ call_to_action:
   subtitle: We'll come back with a shortlist
   checklist:
   - Matchmaking since 2011
-  - Find care for 1–5 days per week
+  - Care for one or more days per week
   image: "/assets/images/ruby.jpg"
   position: 25%
   call_to_action: "(03) 9088 2062"
