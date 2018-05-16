@@ -1,6 +1,6 @@
 ---
-title: Book a Nanny
-subtitle: 'Casual or long term—request a booking below. '
+title: Share your needs
+subtitle: 'Request a shortlist below. '
 layout: airtable
 ---
 
