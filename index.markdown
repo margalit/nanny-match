@@ -40,7 +40,7 @@ call_to_action:
   subtitle: We'll come back with a shortlist
   checklist:
   - Matchmaking since 2011
-  - Between 1 and 5 days per week
+  - Find care for 1–5 days per week
   image: "/assets/images/ruby.jpg"
   position: 25%
   call_to_action: "(03) 9088 2062"
