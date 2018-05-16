@@ -6,7 +6,7 @@ feature:
   subtitle: Find legal employment working with children in Melbourne
   checklist:
   - Superannuation
-  - Work Cover
+  - WorkCover
   - Pay slips
   image: "/assets/images/nanny-jobs-melbourne.jpg"
   position: center
@@ -32,7 +32,7 @@ testimonials:
 pull_out:
   title: Freedom to grow
   subtitle: 'We take care of the administration so you can enjoy your daily nanny
-    adventures. Let us handle tax contributions, employment benefits and superannuation. '
+    adventures. Let us handle tax contributions and superannuation. '
 call_to_action:
   title: We’re here for you
   subtitle: You are worth it. We want you to feel valued in your work.
@@ -57,8 +57,8 @@ layout: nannies
 ---
 
 We individually match each nanny with the best families for them. We encourage and support open communication, understanding, equality and respect. For the greatest chance at a successful working relationship each nanny receives:
-- Jobs at a minimum of 6 hours per shift
+- A minimum of six hours per shift
 - Legal employment direct with each family
-- WorkCover if you are injured or sick
+- WorkCover if you are injured or sick at work
 - Automated time sheets and pay slips
 - Formal agreements with each family
