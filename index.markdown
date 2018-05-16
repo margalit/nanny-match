@@ -4,7 +4,7 @@ description: We are a people-first nanny agency specialising in flexible childca
   in Melbourne. Our nannies are fully insured, background checked and first-aid qualified.
 feature:
   title: Find the right fit
-  subtitle: Meet experienced and reliable agency nannies in Melbourne
+  subtitle: Meet experienced and reliable nannies in Melbourne
   checklist:
   - Fully insured
   - Background checked
@@ -31,25 +31,23 @@ testimonials:
     looking to hire a nanny for the first time!
 collage:
   title: Happy Nannies
-  subtitle: Our nannies are employed by us, paid superannuation and receive a yearly
-    payrise.
+  subtitle: We're fair work advocates. Our nannies receive superannuation and pay
+    slips.
   image: "/assets/images/best-nannies-melbourne.jpg"
   image_mobile: "/assets/images/best-nannies-melbourne-mobile.jpg"
 call_to_action:
-  title: Call Ruby to discuss your options
-  subtitle: Share your needs with an expert
+  title: Contact us to discuss your needs
+  subtitle: We'll come back with a shortlist
   checklist:
   - Matchmaking since 2011
-  - Casual and long term care
+  - Between 1 and 5 days per week
   image: "/assets/images/ruby.jpg"
   position: 25%
   call_to_action: "(03) 9088 2062"
   destination: tel:+61390882062
 sidebar:
-  content: 'Rates start at $32 an hour inclusive of salary, WorkCover, private and
-    public indemnity insurance, superannuation and agency fees.
-
-'
+  content: "Hourly costs start at $30 including your nanny's base rate, superannuation,
+    WorkCover and payroll fees. \n"
   button:
     text: Download PDF
     destination: "/assets/pdfs/nanny-match-for-parents.pdf"
@@ -58,7 +56,7 @@ image: "/assets/images/nannies-melbourne.jpg"
 layout: parents
 ---
 
-When we connect you with a nanny, you’ll have peace of mind knowing each nanny has been met personally and carefully vetted for experience, reliability and compatibility. We look for:
+We're a close-knit team. You’ll have peace of mind knowing each nanny has been met personally and carefully vetted for experience, reliability and compatibility. We look for:
 - Mature and empathetic carers
 - Australian citizens or permanent residents
 - Tertiary educated carers and teachers
