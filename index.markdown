@@ -6,9 +6,9 @@ feature:
   title: Find the right fit
   subtitle: Meet experienced and reliable nannies in Melbourne
   checklist:
-  - Fully insured
   - Background checked
   - First-aid qualified
+  - 1–5 days per week
   image: "/assets/images/nannies-melbourne.jpg"
   position: 25%
   call_to_action: Book Now
