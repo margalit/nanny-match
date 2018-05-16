@@ -1,13 +1,13 @@
 ---
-title: Find nanny work in Melbourne, earn super and a yearly pay rise
+title: Find fair nanny work in Melbourne and earn superannuation
 description: Earn a fair wage while working with children in Melbourne
 feature:
   title: We’ve got you covered
   subtitle: Find legal employment working with children in Melbourne
   checklist:
-  - Yearly payrise
+  - Pay slips
   - Superannuation
-  - Nanny insurance
+  - Work Cover
   image: "/assets/images/nanny-jobs-melbourne.jpg"
   position: center
   call_to_action: Apply now
@@ -31,25 +31,23 @@ testimonials:
     two amazing families through Nanny Match!
 pull_out:
   title: Freedom to grow
-  subtitle: We take care of the administration so you can enjoy your daily nanny adventures.
-    Let us handle tax contributions, employment benefits and superannuation. All you
-    need to do is check in, check out and get paid on time.
+  subtitle: 'We take care of the administration so you can enjoy your daily nanny
+    adventures. Let us handle tax contributions, employment benefits and superannuation. '
 call_to_action:
   title: We’re here for you
-  subtitle: Our goal is to help nannies feel supported in their work
+  subtitle: You are worth it. We want you to feel valued in your work.
   checklist:
-  - Support with each placement
-  - Wine-downs and social events
-  - Workshops and courses
+  - Find caring, supportive families
+  - Earn a better wage
+  - Attend workshops, courses and social events
   image: "/assets/images/happy-nanny-melbourne.jpg"
   position: center
   call_to_action: Apply now
   destination: "/apply"
 sidebar:
-  content: |
-    Our nannies start on a rate between $23 and $30 + super, based on experience.
+  content: 'Our nannies start on a rate between $25 and $35 + super based on experience.
 
-    You can look forward to a $1 per hour pay rise every year you work with us.
+'
   button:
     text: Download PDF
     destination: "/assets/pdfs/nanny-match-for-nannies.pdf"
@@ -59,8 +57,8 @@ layout: nannies
 ---
 
 We individually match each nanny with the best families for them. We encourage and support open communication, understanding, equality and respect. For the greatest chance at a successful working relationship each nanny receives:
-- A time-tracking app
+- Jobs at a minimum of 6 hours per shift
+- Legal employment direct with each family
+- WorkCover if you are injured or sick
 - Automated time sheets and pay slips
-- Private and public indemnity insurance
 - Formal agreements with each family
-- A yearly pay rise
