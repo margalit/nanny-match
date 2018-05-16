@@ -5,9 +5,9 @@ feature:
   title: We’ve got you covered
   subtitle: Find legal employment working with children in Melbourne
   checklist:
-  - Pay slips
   - Superannuation
   - Work Cover
+  - Pay slips
   image: "/assets/images/nanny-jobs-melbourne.jpg"
   position: center
   call_to_action: Apply now
