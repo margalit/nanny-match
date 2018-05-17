@@ -1,5 +1,5 @@
 ---
-title: terms of engagement
+title: Terms of Engagement
 date: 2018-05-16 15:51:00 +10:00
 ---
 
