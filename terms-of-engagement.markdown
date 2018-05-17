@@ -11,7 +11,7 @@ date: 2018-05-16 15:51:00 +10:00
 
 ## Confirmation of Acknowledgement of Employer
 
-The NANNY is employed by the CLIENT, not by NANNY MATCH. The NANNY is selected and hired by the CLIENT with assistance of NANNY MATCH in the recruitment process only. All pay negotiations and disputes must be dealt with in a professional manner between the CLIENT and the NANNY.
+The Nanny is employed by the Client, not by Nanny Match. The Nanny is selected and hired by the Client with assistance of Nanny Match in the recruitment process only. All pay negotiations and disputes must be dealt with in a professional manner between the Client and the Nanny.
 
 ## Obligations of Employer
 
