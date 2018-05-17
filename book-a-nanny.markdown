@@ -1,6 +1,6 @@
 ---
 title: Share your needs
-subtitle: 'Request a shortlist below. '
+subtitle: 
 layout: airtable
 ---
 
