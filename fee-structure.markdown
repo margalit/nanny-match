@@ -8,7 +8,6 @@ We do not charge a registration fee—it's free to share your job with us.
 ## Nanny Match Fees
 We require a single placement fee on confirmation of your match, once you have met your nanny and confirmed employment.
 
-**Nanny Match Placement Fees**
 * 1 day per week $490 paid once
 * 2 days per week $980 paid once
 * 3 days per week $1470 paid once
@@ -16,7 +15,7 @@ We require a single placement fee on confirmation of your match, once you have m
 * 5 days per week $2450 paid once
 
 ## Nanny Pay Fees
-You will be required to engage with our partner payroll service, [Nanny Pay](nannypay.com.au). Nanny Pay will ensure all your legal obligations are met in regard to tax, superannuation, work cover, fair work standards and pay rate requirements.  
+You will be required to engage with our partner payroll service, [Nanny Pay](www.nannypay.com.au). Nanny Pay will ensure all your legal obligations are met in regard to tax, superannuation, work cover, fair work standards and pay rate requirements.  
 
 * $165 single set up cost
 * $55 per payroll process—monthly, fortnightly or weekly.
