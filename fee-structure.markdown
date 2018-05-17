@@ -15,7 +15,7 @@ We require a single placement fee on confirmation of your match, once you have m
 * 5 days per week $2450 paid once
 
 ## Nanny Pay Fees
-You will be required to engage with our partner payroll service, [Nanny Pay](https://www.singletouchpayrollaustralia.com.au/industry/nanny-pay-household-staff). Nanny Pay will ensure all your legal obligations are met in regard to tax, superannuation, work cover, fair work standards and pay rate requirements.  
+You will be required to engage with our partner payroll service, Nanny Pay. Nanny Pay will ensure all your legal obligations are met in regard to tax, superannuation, work cover, fair work standards and pay rate requirements.  
 
 * $165 single set up cost
 * $55 per payroll process on a monthly, fortnightly or weekly basis
