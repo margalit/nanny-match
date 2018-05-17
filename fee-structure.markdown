@@ -21,5 +21,7 @@ You will be required to engage with our partner payroll service, [Nanny Pay](nan
 * $165 single set up cost
 * $55 per payroll process—monthly, fortnightly or weekly.
 
+You can download a Nanny Pay brochure [here](https://www.dropbox.com/s/8rqc73i929lyv61/Nanny%20Pay%20Brochure%20with%20bleed.pdf?dl=0).
+
 ## Hourly costs
 You can expect hourly costs between $28 and $36 per hour. This includes a base hourly rate, super, work cover and Nanny Pay's $55 fee.
