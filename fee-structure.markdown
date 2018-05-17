@@ -18,9 +18,9 @@ We require a single placement fee on confirmation of your match, once you have m
 You will be required to engage with our partner payroll service, [Nanny Pay](www.nannypay.com.au). Nanny Pay will ensure all your legal obligations are met in regard to tax, superannuation, work cover, fair work standards and pay rate requirements.  
 
 * $165 single set up cost
-* $55 per payroll process—monthly, fortnightly or weekly.
+* $55 per payroll process on a monthly, fortnightly or weekly basis
 
 You can download a Nanny Pay brochure [here](https://www.dropbox.com/s/8rqc73i929lyv61/Nanny%20Pay%20Brochure%20with%20bleed.pdf?dl=0).
 
 ## Hourly costs
-You can expect hourly costs between $28 and $36 per hour. This includes a base hourly rate, super, work cover and Nanny Pay's $55 fee.
+You can expect hourly costs between $27 and $36, including superannuation and WorkCover.
