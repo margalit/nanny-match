@@ -15,16 +15,16 @@ The Nanny is employed by the Client, not by Nanny Match. The Nanny is selected a
 
 ## Obligations of Employer
 
-Nannies will interview and with multiple families. The Client is responsible for the following:
-
-* Notifying Nannies of any changes to the advertised position
-* Contacting Nannies as soon as possible
-
 In the event that the Client is successful in finding a Nanny, the Client is responsible for the following:
 
 * Ensuring all Fair Work standards are upheld in the workplace
 * Negotiating fair and reasonable wage reflective of duties required, compliant with Award Wage Rates and Legislation
 * Appointing payroll management to Nanny Pay to manage tax, superannuation, work cover, fair work standards and pay rate requirements.
+
+Throughout the recruitment process, the Client is responsible for the following:
+
+* Notifying Nannies of any changes to the advertised position
+* Contacting Nannies as soon as possible
 
 ## Placement fees
 * 1 day per week $490
