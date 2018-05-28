@@ -45,7 +45,6 @@ Nanny Match is responsible for relevant screening to be completed, including:
 * verification of work history
 * first aid qualifications 
 * working with children checks
-* verification of public and products liability insurance
 
 Where qualifications and checks require renewal after placement, the Client is responsible for maintaining relevant screening.
 
