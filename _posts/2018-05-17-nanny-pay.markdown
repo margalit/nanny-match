@@ -8,9 +8,10 @@ tags:
 - employment
 ---
 
-A successful nanny match takes two steps:
-1) Find your nanny
-2) Pay your nanny 
+Making a successful match takes two steps:
+
+1. Find your nanny
+2. Pay your nanny 
 
 Nanny Match takes care of the magic that is finding your perfect match. Then we'll refer you to our affiliated payroll service, [Nanny Pay](https://www.singletouchpayrollaustralia.com.au/industry/nanny-pay-household-staff).
 
