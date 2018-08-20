@@ -27,11 +27,11 @@ Throughout the recruitment process, the Client is responsible for the following:
 * Contacting Nannies as soon as possible
 
 ## Placement fees
-* 1 day per week $490
-* 2 days per week $980
-* 3 days per week $1470
-* 4 days per week $1960
-* 5 days per week $2450 
+1 day per week $1200 paid once
+2 days per week $2400 paid once
+3 days per week $3600 paid once
+4 days per week $4800 paid once
+5 days per week $6000 paid once 
 
 ## Payments
 Invoices are generated on confirmation of a match. A match is confirmed when the Family initiates the employment process; including but not limited to registering for Nanny Pay services and offering the position to the nanny, verbally or in writing. 
