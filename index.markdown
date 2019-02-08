@@ -43,8 +43,8 @@ call_to_action:
   - Care for one or more days per week
   image: "/assets/images/ruby.jpg"
   position: 25%
-  call_to_action: "(03) 9088 2062"
-  destination: tel:+61390882062
+  call_to_action: 
+  destination: 
 sidebar:
   content: "Hourly costs start at $30 including your nanny's base rate, superannuation,
     WorkCover and payroll fees. \n"
