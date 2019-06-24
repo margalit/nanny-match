@@ -8,7 +8,7 @@ feature:
   checklist:
   - Background checked
   - First-aid qualified
-  - 1+ days per week
+  - Casual or part-time
   image: "/assets/images/nannies-melbourne.jpg"
   position: 25%
   call_to_action: Book Now
