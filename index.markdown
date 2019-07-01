@@ -1,8 +1,9 @@
 ---
 title: Qualified, checked and valued nannies
 description: 'We are a people-first recruitment service specialising in flexible childcare
-  in Melbourne. We work with parents who work in areas such as design, marketing,
-  architecture, music, finance, software development, law.  '
+  in Melbourne. Most of our families seek part-time nanny care. We work with parents
+  who have careers in areas such as design, marketing, architecture, music, finance,
+  software development and law. '
 feature:
   title: Find the right fit
   subtitle: Meet experienced and reliable nannies in Melbourne
@@ -40,8 +41,8 @@ call_to_action:
   title: Contact us to discuss your needs
   subtitle: We'll come back to you within 48 hours
   checklist:
-  - Matching happy nannies and families since 2011
-  - Personalised matching for each family
+  - Finding nannies since 2011
+  - Quality over quantity
   image: "/assets/images/ruby.jpg"
   position: 25%
   call_to_action: Enquire Now
