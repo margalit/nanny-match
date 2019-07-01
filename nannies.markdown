@@ -39,7 +39,7 @@ call_to_action:
   checklist:
   - Find caring, supportive families
   - Earn a better wage
-  - Attend workshops, courses and social events
+  - Be valued for what you do
   image: "/assets/images/happy-nanny-melbourne.jpg"
   position: center
   call_to_action: Apply now
@@ -57,7 +57,6 @@ layout: nannies
 ---
 
 We individually match each nanny with the best families for them. We encourage and support open communication, understanding, equality and respect. For the greatest chance at a successful working relationship each nanny receives:
-- A minimum of six hours per shift
 - Legal employment direct with each family
 - WorkCover if you are injured or sick at work
 - Automated time sheets and pay slips
