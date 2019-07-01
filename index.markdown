@@ -1,17 +1,18 @@
 ---
-title: Qualified, checked and insured nannies
-description: We are a people-first recruitment service specialising in flexible childcare
-  in Melbourne. Our nannies are background checked, first-aid qualified and valued.
+title: Qualified, checked and valued nannies
+description: 'We are a people-first recruitment service specialising in flexible childcare
+  in Melbourne. We work with parents who work in areas such as design, marketing,
+  architecture, music, finance, software development, law.  '
 feature:
   title: Find the right fit
   subtitle: Meet experienced and reliable nannies in Melbourne
   checklist:
   - Background checked
-  - First-aid qualified
-  - Casual or part-time
+  - Experienced
+  - Casual, part-time and full-time
   image: "/assets/images/nannies-melbourne.jpg"
   position: 25%
-  call_to_action: Book Now
+  call_to_action: Enquire Now
   destination: "/book-a-nanny"
 testimonials:
 - name: Missy Higgins
@@ -31,20 +32,20 @@ testimonials:
     looking to hire a nanny for the first time!
 collage:
   title: Happy Nannies
-  subtitle: We're fair work advocates. Our nannies receive superannuation and they're
-    covered by WorkSafe.
+  subtitle: We're fair work advocates. Our payroll partner takes care of all the employment
+    administration for you.
   image: "/assets/images/best-nannies-melbourne.jpg"
   image_mobile: "/assets/images/best-nannies-melbourne-mobile.jpg"
 call_to_action:
   title: Contact us to discuss your needs
-  subtitle: We'll come back with a shortlist
+  subtitle: We'll come back to you within 48 hours
   checklist:
-  - Matchmaking since 2011
-  - Care for one or more days per week
+  - Matching happy nannies and families since 2011
+  - Personalised matching for each family
   image: "/assets/images/ruby.jpg"
   position: 25%
-  call_to_action: 
-  destination: 
+  call_to_action: Enquire Now
+  destination: http://nannymatch.com.au/book-a-nanny/
 sidebar:
   content: "Hourly costs start at $30 including your nanny's base rate, superannuation,
     WorkCover and payroll fees. \n"
@@ -56,7 +57,7 @@ image: "/assets/images/nannies-melbourne.jpg"
 layout: parents
 ---
 
-We're a close-knit team. You’ll have peace of mind knowing each nanny has been met personally and carefully vetted for experience, reliability and compatibility. We look for:
+Most of our nannies come to us by word-of-mouth. You’ll have peace of mind knowing each nanny has  carefully vetted for experience, reliability and compatibility. We look for:
 - Mature and empathetic carers
 - Australian citizens or permanent residents
 - Tertiary educated carers and teachers
