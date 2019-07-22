@@ -58,8 +58,6 @@ layout: parents
 ---
 
 Most of our nannies come to us by word-of-mouth. You’ll have peace of mind knowing each nanny has  carefully vetted for experience, reliability and compatibility. We look for:
-- Mature and empathetic carers
-- Australian citizens or permanent residents
-- Tertiary educated carers and teachers
 - Experience working with children and families
-- People who have that spark, communicate effectively and smile throughout their day
+- Australian citizens and permanent residents
+- Tertiary educated teachers and carers 
