@@ -1,5 +1,5 @@
 ---
-title: Find fair nanny work in Melbourne and earn superannuation
+title: Find nanny jobs in Melbourne
 description: Find long-lasting matches in Melbourne
 feature:
   title: Find your family match
