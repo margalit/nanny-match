@@ -57,7 +57,9 @@ image: "/assets/images/nannies-melbourne.jpg"
 layout: parents
 ---
 
-Most of our nannies come to us by word-of-mouth. You’ll have peace of mind knowing each nanny has  carefully vetted for experience, reliability and compatibility. We look for:
+Most of our nannies come to us by word-of-mouth. You’ll have peace of mind knowing each nanny has  checked for experience, reliability and compatibility. 
+
+We look for:
 - Experience working with children and families
 - Australian citizens and permanent residents
 - Tertiary educated teachers and carers 
