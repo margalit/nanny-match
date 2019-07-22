@@ -2,8 +2,8 @@
 title: Find fair nanny work in Melbourne and earn superannuation
 description: Find long-lasting matches in Melbourne
 feature:
-  title: 'Receive jobs straight to your inbox '
-  subtitle: Find your family match
+  title: Find your family match
+  subtitle: Receive jobs straight to your inbox
   checklist:
   - Superannuation
   - WorkCover
