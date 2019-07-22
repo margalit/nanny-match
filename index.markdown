@@ -8,12 +8,12 @@ feature:
   title: Find the right fit
   subtitle: Meet experienced and reliable nannies in Melbourne
   checklist:
-  - Background checked
+  - Verified
   - Experienced
-  - Casual, part-time and full-time
+  - Flexible
   image: "/assets/images/nannies-melbourne.jpg"
   position: 25%
-  call_to_action: Enquire Now
+  call_to_action: Find a Nanny
   destination: "/book-a-nanny"
 testimonials:
 - name: Missy Higgins
@@ -33,13 +33,12 @@ testimonials:
     looking to hire a nanny for the first time!
 collage:
   title: Happy Nannies
-  subtitle: We're fair work advocates. Our payroll partner takes care of all the employment
-    administration for you.
+  subtitle: 'Our payroll partner takes care of the employment administration for you. '
   image: "/assets/images/best-nannies-melbourne.jpg"
   image_mobile: "/assets/images/best-nannies-melbourne-mobile.jpg"
 call_to_action:
-  title: Contact us to discuss your needs
-  subtitle: We'll come back to you within 48 hours
+  title: Share your needs
+  subtitle: Find the right match
   checklist:
   - Finding nannies since 2011
   - Quality over quantity
