@@ -44,7 +44,7 @@ call_to_action:
   - Quality over quantity
   image: "/assets/images/ruby.jpg"
   position: 25%
-  call_to_action: Enquire Now
+  call_to_action: Find a Nanny
   destination: http://nannymatch.com.au/book-a-nanny/
 sidebar:
   content: "Hourly costs start at $30 including your nanny's base rate, superannuation,
