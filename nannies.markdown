@@ -45,8 +45,7 @@ call_to_action:
   call_to_action: Apply now
   destination: "/apply"
 sidebar:
-  content: 'Our payroll partner manages all your employment admin giving you more
-    time for nanny adventures!
+  content: 'Our payroll partner manages all your employment admin for you!
 
 '
   button:
