@@ -1,13 +1,13 @@
 ---
-title: Find fair nanny work in Melbourne and earn superannuation
+title: Find nanny jobs in Melbourne
 description: Find long-lasting matches in Melbourne
 feature:
   title: Find your family match
   subtitle: Receive jobs straight to your inbox
   checklist:
-  - Superannuation
-  - WorkCover
-  - Pay slips
+  - Caring families
+  - Fair pay
+  - All job types
   image: "/assets/images/nanny-jobs-melbourne.jpg"
   position: center
   call_to_action: Apply now
@@ -34,18 +34,19 @@ pull_out:
   subtitle: Our payroll partner takes care of the administration so you can enjoy
     your daily nanny adventures.
 call_to_action:
-  title: We’re here for you
-  subtitle: You are worth it. We want you to feel valued in your work.
+  title: Find your family match
+  subtitle: Receive jobs straight to your inbox
   checklist:
-  - Find caring, supportive families
-  - Earn a better wage
-  - Be valued for what you do
+  - Caring families
+  - Fair Pay
+  - All job types
   image: "/assets/images/happy-nanny-melbourne.jpg"
   position: center
   call_to_action: Apply now
   destination: "/apply"
 sidebar:
-  content: 'Our nannies start on a rate between $25 and $35 + super based on experience.
+  content: 'Our payroll partner manages all your employment admin giving you more
+    time for nanny adventures!
 
 '
   button:
