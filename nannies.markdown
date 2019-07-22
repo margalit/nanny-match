@@ -1,9 +1,9 @@
 ---
 title: Find fair nanny work in Melbourne and earn superannuation
-description: Earn a fair wage while working with children in Melbourne
+description: Find long-lasting matches in Melbourne
 feature:
-  title: We’ve got you covered
-  subtitle: Find legal employment working with children in Melbourne
+  title: 'Receive jobs straight to your inbox '
+  subtitle: Find your family match
   checklist:
   - Superannuation
   - WorkCover
@@ -31,8 +31,8 @@ testimonials:
     two amazing families through Nanny Match!
 pull_out:
   title: Freedom to grow
-  subtitle: 'We take care of the administration so you can enjoy your daily nanny
-    adventures. Let us handle tax contributions and superannuation. '
+  subtitle: Our payroll partner takes care of the administration so you can enjoy
+    your daily nanny adventures.
 call_to_action:
   title: We’re here for you
   subtitle: You are worth it. We want you to feel valued in your work.
@@ -56,8 +56,9 @@ image: "/assets/images/nanny-jobs-melbourne.jpg"
 layout: nannies
 ---
 
-We individually match each nanny with the best families for them. We encourage and support open communication, understanding, equality and respect. For the greatest chance at a successful working relationship each nanny receives:
+We're fair work advocates. Our payroll partner helps you to receive the support you need at work. This can include: 
+
+- Fair pay
 - Legal employment direct with each family
 - WorkCover if you are injured or sick at work
 - Automated time sheets and pay slips
-- Formal agreements with each family
