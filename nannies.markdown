@@ -49,7 +49,7 @@ sidebar:
 
 '
   button:
-    text: PDF coming soon
+    text: View PDF
     destination: https://drive.google.com/file/d/1XOmyN7ChrCosHFWlDBg9OlkASEi89uOl/view?usp=sharing
 content_title: Start off on the right foot
 image: "/assets/images/nanny-jobs-melbourne.jpg"
