@@ -7,7 +7,7 @@ feature:
   checklist:
   - Caring families
   - Fair pay
-  - All job types
+  - New jobs each week
   image: "/assets/images/nanny-jobs-melbourne.jpg"
   position: center
   call_to_action: Apply now
@@ -45,13 +45,12 @@ call_to_action:
   call_to_action: Apply now
   destination: "/apply"
 sidebar:
-  content: 'Our payroll partner manages all your employment admin giving you more
-    time for nanny adventures!
+  content: 'Our payroll partner manages all your employment admin for you!
 
 '
   button:
     text: PDF coming soon
-    destination: 
+    destination: https://drive.google.com/file/d/1XOmyN7ChrCosHFWlDBg9OlkASEi89uOl/view?usp=sharing
 content_title: Start off on the right foot
 image: "/assets/images/nanny-jobs-melbourne.jpg"
 layout: nannies
