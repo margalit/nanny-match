@@ -42,7 +42,7 @@ call_to_action:
   checklist:
   - Finding nannies since 2011
   - Quality over quantity
-  image: "/assets/images/ruby.jpg"
+  image: "/uploads/Nanny_Melbourne.jpeg"
   position: 25%
   call_to_action: Find a Nanny
   destination: http://nannymatch.com.au/book-a-nanny/
