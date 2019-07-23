@@ -50,8 +50,8 @@ sidebar:
   content: "Hourly costs start at $30 including your nanny's base rate, superannuation,
     WorkCover and payroll fees. \n"
   button:
-    text: PDF coming soon
-    destination: 
+    text: View PDF
+    destination: https://drive.google.com/file/d/1XOmyN7ChrCosHFWlDBg9OlkASEi89uOl/view?usp=sharing
 content_title: We value quality and long-lasting matches
 image: "/assets/images/nannies-melbourne.jpg"
 layout: parents
