@@ -76,7 +76,7 @@ Thank you for choosing to use Nanny Match.
 
 9.1 Nanny Match is responsible for addressing any questions, comments or claims relating to the Service and your use of them. If you have any comments, questions, complaints relating to the Service, or would like to report a violation of any these Terms, please contact hello@nannymatch.com.au.
 
-9.2 Nanny Match will not become involved in disputes between you and another job-hunter or a talent-hunter unless the dispute impacts on Nanny Match’s legal rights or obligations.
+9.2 Nanny Match will not become involved in disputes between you and another job-hunter or a family unless the dispute impacts on Nanny Match’s legal rights or obligations.
 
 9.3 You agree to use reasonable efforts to resolve any dispute you have with Nanny Match before issuing proceedings based on the dispute.
 
