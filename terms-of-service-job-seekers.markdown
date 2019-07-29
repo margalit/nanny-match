@@ -6,9 +6,11 @@ date: 2017-04-14 08:44:00 +10:00
 Thank you for choosing to use Nanny Match. 
 
 **About Nanny Match**
+
 1.1 Nanny Match provides Nanny Match’s nanny industry recruitment via www.nannymatch.com.au (Service) to you, the job-hunter. Nanny Match also provides services to families on the Service.
 
 **TERMS OF USE AND PRIVACY**
+
 2.1 By using the Service you agree to be bound by these terms and conditions of use (Terms). Please use the Service only if you have read, understood and agree to the Terms.
 
 2.2 By using the Service, you consent to Nanny Match using the information you provide to it in accordance with Nanny Match’s Privacy Policy.
@@ -65,11 +67,13 @@ Thank you for choosing to use Nanny Match.
 7.2 Nanny Match will not be liable for any cost, expense or damages whatsoever for suspension or termination of your use.
 
 **FEES**
+
 8.1 As a job-hunter your use of the Service is free.
 
 8.2 If Nanny Match believes that you are a talent-hunter, it will be entitled to charge you the applicable fee(s) for your activity and/or suspend your use of the Service until payment is received.
 
 **CONTACT AND DISPUTES**
+
 9.1 Nanny Match is responsible for addressing any questions, comments or claims relating to the Service and your use of them. If you have any comments, questions, complaints relating to the Service, or would like to report a violation of any these Terms, please contact hello@nannymatch.com.au.
 
 9.2 Nanny Match will not become involved in disputes between you and another job-hunter or a talent-hunter unless the dispute impacts on Nanny Match’s legal rights or obligations.
@@ -77,6 +81,7 @@ Thank you for choosing to use Nanny Match.
 9.3 You agree to use reasonable efforts to resolve any dispute you have with Nanny Match before issuing proceedings based on the dispute.
 
 **GENERAL**
+
 10.1 These Terms are governed by the laws of Victoria, Australia.
 
 10.2 These Terms are the entire agreement of the parties in relation to the use of the Service and supersede all other representations, understandings or agreements.
