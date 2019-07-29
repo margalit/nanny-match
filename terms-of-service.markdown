@@ -1,148 +1,84 @@
 ---
-title: Terms of Service
+title: Terms of Service - Job Seekers
 date: 2017-04-14 08:44:00 +10:00
 ---
 
 Thank you for choosing to use Nanny Match. 
 
-These terms and conditions form the agreement upon which Nannies and Families use the services provided by Nanny Match PTY LTD trading as Nanny Match (“Nanny Match”).
+**About Nanny Match**
+1.1 Nanny Match provides Nanny Match’s nanny industry recruitment via www.nannymatch.com.au (Service) to you, the job-hunter. Nanny Match also provides services to families on the Service.
 
-In these terms and conditions: 
+**TERMS OF USE AND PRIVACY**
+2.1 By using the Service you agree to be bound by these terms and conditions of use (Terms). Please use the Service only if you have read, understood and agree to the Terms.
 
-“Family" means any person(s) who uses or intends to use Nanny Match to receive childcare services.
+2.2 By using the Service, you consent to Nanny Match using the information you provide to it in accordance with Nanny Match’s Privacy Policy.
 
-“Nanny” means any person who intends to provide in-home child care services to a Family. 
+2.3 Nanny Match may from time to time update or modify these Terms and/or its Privacy Policy. The updated Terms and Privacy Policy will always be available on the Nanny Match website. By using the Service after a change, you agree to any amendments made.
 
-"Long term booking" means any booking that is likely to last more than 3 months and offers shifts that are longer than 5 hours.
+**USING THE SERVICE**
 
-"Casual booking" means any booking that is less than 3 months in length or offers shifts that are less than 5 hours. 
- 
-**Agreement**
+3.1 When using the Service, you promise that you will: 
+(a) use it for the purpose of exploring and finding job opportunities suitable for you only and not use it in connection with any other commercial or business purpose; 
+(b) only contribute legal, accurate, current, appropriate and original (or properly licensed) content; 
+(c) not criticise or damage the reputation of Nanny Match or any person or entity whose details, image or business features on the Service; 
+(d ) not engage in any discriminatory conduct (including discrimination on the basis of race, gender, sexual preference, age, physical or mental disability, pregnancy, marriage status, nationality, religion, political views, membership of a union or party); 
+(e) not disclose the personal information of any person without consent or send any electronic communication to any person without their consent; 
+(f) not behave in an intimidatory, aggressive, hateful or threatening way; 
+(g) not mislead, deceive or carry out any illegal or criminal purpose on or via the Service.
 
-This agreement commences when your Family contacts a Nanny Match Nanny. 
+3.2 Please ensure that the information you share is complete and accurate. Where necessary, please update your information. If your information is inaccurate, incomplete or outdated Nanny Match’s ability to provide the Service may be compromised.
 
-The general terms of this agreement may be amended from time to time at the discretion of Nanny Match. Up to date service agreement can at all times be found on our website. Please ensure that you check these conditions regularly, as your continued use of Nanny Match’s services will indicate your acceptance of any amended terms.
- 
-**General Provisions**
+3.3 You acknowledge and agree that your right to use the Service may be revoked if you breach any of these Terms.
 
-You have requested Nanny Match to provide your Family with the services of a Nanny Match employee. Nanny Match is a service provider for the purposes of the Australian Consumer Law, and will provide services in accordance with this and all other relevant legislation.
+**LIMITATIONS**
 
-Nanny Match will not themselves perform the services agreed to, but rather will supply one or more workers to fulfill your Family’s request. Nannies supplied by Nanny Match to carry out work shall at all times remain employees of Nanny Match.
+4.1 Nanny Match provides the platform board on which families may share content. It is not the author of any content provided by such users and does not control the behaviour of users. To the extent permitted by law, the Service is provided to you on an "as is" basis. The Service may contain errors, faults and inaccuracies and may not be complete or current.
 
-The contact details for any Nanny engaged by the Family shall remain confidential. Such details shall not be made available to any other person, company, or private employer without the consent of the Nanny.
+4.2 Nanny Match makes no representations about the operation or suitability of the Service for any particular purpose; the availability, performance, security, characteristics or operation of the Service; or the truthfulness or reliability of content provided by any third party.
 
-A Nanny may interview and work with multiple families. In order to facilitate this, your Family is responsible for: 
+4.3 Nanny Match makes no representations or warranties with respect to the availability, suitability, job position, location, activities, conditions, remuneration, period or work environment of any job opportunity listed on the Service; the terms of any employment agreement or services contract entered into in connection with the Service; or the conduct of the families advertising job opportunities (including whether or not they will comply with any employment, work health and safety, privacy or other employment or work related laws). Those issues are issues between the families and you.
 
-* Notifying the Nanny of any changes to your booking, and;
-* Contacting the Nanny to arrange an interview.
+**INTELLECTUAL PROPERTY**
 
-Long term bookings will take priority over casual bookings.
+5.1 The text, images, designs, graphics, pictures, applications, software, music, sound files, animation files, video files and their arrangement on the Service (including third party content) (Service Content) are all subject to copyright and other intellectual property protection laws in Australia.
 
-Families that have completed placement reviews will take priority over all bookings.
+5.2 Nanny Match and/or its related entities are the owners or licensees of all Service Content. Apart from any use that is permitted under the Copyright Act 1968 (Cth) all rights are reserved.
 
-**Casual bookings**
+5.3 Service Content may not be copied, reproduced, adapted, reposted to other Internet sites; or otherwise transmitted or distributed, without Nanny Match’s consent. Some Service Content is subject to the copyright rights of third party content providers, including other families, job-hunters, contributors and advertisers.
 
-Your Family will be charged the casual hourly rate listed on the Nanny's profile. There is no placement fee for casual bookings.
+5.4 You acknowledge that: all intellectual property rights in the Service Content throughout the world belong to Nanny Match or its related entities, Nanny Match’s suppliers or Service users; and these Terms do not transfer title to any intellectual property in the Service Content to you.
 
-Should your Family request to interview a nanny for a casual booking your Family will be charged an interview fee. The interview fee is a minimum of 2-hours at the Nanny's casual hourly rate. 
+**LIABILITY**
 
-Should your Family request to trial a nanny for a casual booking your Family will be charged for the trial at the Nanny's casual hourly rate. Nanny Match recommends a 4-hour trial shift. 
+6.1 You agree that your use of the Service is subject to these Terms and is at your sole risk.
 
-Casual bookings require 24 hours notice of cancellation. When cancellation is made in less than 24 hours a 50% cancellation fee applies.
+6.2 You agree that you are solely responsible for the implications of any of your acts or omissions in connection with communicating and working with any person you encounter on the Service. You are responsible for assessing any information or opinion expressed on or by the Service and that each decision and action you take is taken independently, with an opportunity to obtain independent advice (including legal advice) and having regard to your unique circumstances.
 
-**Long term bookings**
+6.3 To the extent permitted by law, you agree that Nanny Match will not be responsible or liable for any damages, economic loss or other loss whatsoever arising out of, or in any way related to: any matter in respect of which liability is excluded under clause 4.2 or 4.3; a failure to obtain employment or remuneration; the modification, interruption, suspension or discontinuation of the Service; any technical faults which impact on the availability or use of the Service; or your use of the Service or any Service Content.
 
-There is no charge to interview nannies for long term bookings.
+6.4 Certain legislation (including the Australian Consumer Law) may impose consumer guarantees or obligations upon Nanny Match which cannot be excluded, restricted or modified or cannot be excluded, restricted or modified except to a limited extent. These Terms must be read subject to these statutory provisions.
 
-Should your Family request to trial a nanny for a long term booking your Family will be charged for the trial at the Nanny's casual rate. 
+**TERMINATION OR SUSPENTION**
 
-Long term bookings require a placement fee of $490. The placement fee is charged on confirmation of your match. 
+7.1 Nanny Match may, in its sole discretion, temporarily or permanently suspend or terminate the rights granted to you under these Terms or remove your email from the mailing list if Nanny Match suspects in its sole discretion that you are not complying with the Terms or that you pose a threat to the Service or any of its users or that your conduct is inconsistent with Nanny Match’s brand values.
 
-All bookings are based on a minimum 4 hour shift length. Your family will be charged a minimum of 4 hours. 
+7.2 Nanny Match will not be liable for any cost, expense or damages whatsoever for suspension or termination of your use.
 
-For shifts that are longer than 4 hours, your Family will be charged for the total hours between the nanny's arrival and departure to your home or the place of care. Nannies will record their arrival and departure times using online human resources and employee management software.  
+**FEES**
+8.1 As a job-hunter your use of the Service is free.
 
-In addition to this agreement, you will also be provided with a Placement Agreement. This agreement is entered into between your Family and your Nanny and will describe the services which the Nanny will provide to your Family as agreed between you. It is your Family's responsibility to complete the Placement Agreement before services commence. Your Family will be charged casual hourly rates until the Placement Agreement is completed.
+8.2 If Nanny Match believes that you are a talent-hunter, it will be entitled to charge you the applicable fee(s) for your activity and/or suspend your use of the Service until payment is received.
 
-Nanny Match must be notified of any variations to this agreement negotiated between your Family and the Nanny. 
+**CONTACT AND DISPUTES**
+9.1 Nanny Match is responsible for addressing any questions, comments or claims relating to the Service and your use of them. If you have any comments, questions, complaints relating to the Service, or would like to report a violation of any these Terms, please contact hello@nannymatch.com.au.
 
-Long term bookings begin with a 4-week trial period. 
+9.2 Nanny Match will not become involved in disputes between you and another job-hunter or a talent-hunter unless the dispute impacts on Nanny Match’s legal rights or obligations.
 
-You will be provided with a Placement Review at the end of your trial period. Your Family is responsible for completing the Placement Review. 
+9.3 You agree to use reasonable efforts to resolve any dispute you have with Nanny Match before issuing proceedings based on the dispute.
 
-**Payments**
+**GENERAL**
+10.1 These Terms are governed by the laws of Victoria, Australia.
 
-Invoices are generated weekly and will be automatically charged to your nominated credit card or direct debit account within one week. A transaction fee of 1.98% (Visa/Mastercard) or 3.85% (AMEX) + 33c will be charged if paying by credit card. There is no transaction fee for direct debit. 
+10.2 These Terms are the entire agreement of the parties in relation to the use of the Service and supersede all other representations, understandings or agreements.
 
-Services may be suspended if an account is in arrears for more than seven days. 
-
-Your Family shall bear the legal or other costs incurred by Nanny Match to recover monies on all invoices not paid within the agreed terms. 
-
-Nanny Match may vary its rates from time to time to include any change to any statutory on-costs, e.g. any legislative changes, public liability insurance premiums; or if there is any change which affects the cost of providing Nanny Match employees. Nanny Match will give your Family at least two weeks’ written notice of the new rates. 
-
-The rates charged to your Family will increase by $1 per hour for each consecutive year of childcare services provided by Nanny Match. 
-
-**Nanny Match Responsibilities**
-
-Nanny Match is responsible for the following in relation to the Nanny:
-
-* Ensuring that relevant screening is completed prior to commencement of placement, including verification of work history, child care first aid qualifications and working with children checks;
-
-* Lodging salary payments to the Nanny’s nominated bank account, deducting PAYG taxation and lodging with the Australian Taxation Office;
-
-* Paying to the Nanny a casual loading at a rate of 25% in lieu of sick and annual leave;
-
-* Paying Workers Compensation Insurance; and
-
-* Paying superannuation to meet the requirements of the Superannuation Guarantee Act 1992 (Cth) and lodging with an approved superannuation fund. 
-
-**Absenteeism, Cancellations and Holidays**
-
-At your Family’s request, Nanny Match will endeavour to find your Family a replacement Nanny, if the usual Nanny engaged with your Family is unable to provide care.
-
-No pre-placement interviews will take place for Nannies engaged into temporary positions, unless your Family elects to pay the costs of the temporary Nanny attending an interview. Nanny Match charges a minimum of 2 hours per interview.
-
-Both the Family and the Nanny will give notice of absenteeism, cancellations, and holidays as outlined in the Placement Agreement. Your Family will notify the Nanny and Nanny Match if they decide to take any holiday which would impact the Nanny’s engagement, and if taking a holiday longer than 14 days will communicate to the Nanny their agreement for: 
-
-* The Nanny to be paid a retainer during your Family’s holiday to ensure continued commitment; or
-* The Nanny to be placed with another family.
-
-In the event that a Nanny terminates their engagement with your Family within 12 months of placement, Nanny Match will endeavour to find your Family a suitable replacement as soon as possible. An additional placement fee will not be charged to your Family if the replacement is required less than 12 months after the first placement fee was charged, and the fundamental working conditions of the engagement (including but not limited to location, working hours, number of children in care) have not changed. 
-
-**Occupational Health and Safety**
-
-The provision of services to a Family by a Nanny is subject at all times to the place of care being a safe and suitable place for the Nanny, and a suitable Nanny being available.
-
-Your Family is responsible for the direction, instruction and supervision of the Nanny during the engagement. 
-
-Your Family is responsible for the maintenance of a safe workplace for the Nanny, including the safety and condition of all machinery and vehicles provided for the Nanny as used during the course of the engagement.
-
-A Nanny is entitled to an informal break at some point during their shift. The length and nature of this break will be agreed upon between your Family and the Nanny.
-
-Your Family indemnifies Nanny Match from claims arising from the failure of the Family to provide a safe or harassment-free workplace.
-
-Your Family must ensure that current emergency contact information is given to Nanny Match staff. Your Family agrees to pay any costs related to the provision of emergency services and must notify Nanny Match within 24 hours if a Nanny suffers an injury during their engagement.
-
-Your Family must permit Nanny Match staff to conduct support visits to the Nanny in the Family home.
-
-**Insurance and Motor Vehicles**
-
-Your Family must maintain insurance for the premises where the Nanny is engaged, including contents and personal effects cover. 
-
-In the event that the Nanny is required to drive a motor vehicle owned or controlled by your Family:
-
-* Your Family will ensure that the motor vehicle is registered and adequately insured, and is in a condition suitable for the purpose of transporting children while in the care and control of the Nanny; and
-
-Your Family will ensure that the motor vehicle is fitted with child restraints appropriate for the age and weight of the children the Nanny will be transporting; 
-
-* Your Family indemnifies Nanny Match and the Nanny against any loss, damages, actions, suits, claims, demands and other liabilities of any nature whatsoever which at any time may arise from the Nanny’s use of a motor vehicle during their engagement with your Family; and
-
-* Your Family will ensure the motor vehicle has adequate fuel for the Nanny to perform their duties, or otherwise provide the Nanny with an allowance for the purchase of additional fuel.
-
-In the event that the Nanny is required to drive their own motor vehicle during their engagement with your Family:
-
-* Your Family will indemnify Nanny Match and the Nanny in relation to any and all principal or vicarious liability whatsoever in relation to the use of the Nanny’s vehicle; 
-
-Your Family will indemnify Nanny Match and the Nanny against any loss, damages, actions, suits, claims, demands and other liabilities of any nature whatsoever which your Family now or at any time may have arising from the use of a motor vehicle owned by the Nanny; and
-
-* Your Family will negotiate a petrol allowance to be paid directly to the Nanny.
+Version: 29 July 2019
