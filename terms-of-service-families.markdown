@@ -1,5 +1,5 @@
 ---
-title: Terms of Service 2018
+title: Terms of Service
 date: 2018-01-25 12:37:00 +11:00
 ---
 
