@@ -1,6 +1,6 @@
 ---
 title: Get in touch
-position: 1
+position: 4
 subtitle: Call, email or fill out our form
 layout: contact
 ---

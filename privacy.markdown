@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-position: 6
+position: 13
 subtitle: We value your privacy
 layout: page
 ---
