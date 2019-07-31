@@ -1,6 +1,6 @@
 ---
 title: Your message was sent
-position: 4
+position: 13
 subtitle: Thank you for your interest
 layout: page
 ---
