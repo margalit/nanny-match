@@ -1,6 +1,6 @@
 ---
 title: Nanny Application
-position: 13
+position: 12
 layout: apply
 ---
 
