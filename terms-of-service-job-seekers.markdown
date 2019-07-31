@@ -40,6 +40,8 @@ Thank you for choosing to use Nanny Match.
 
 4.3 Nanny Match makes no representations or warranties with respect to the availability, suitability, job position, location, activities, conditions, remuneration, period or work environment of any job opportunity listed on the Service; the terms of any employment agreement or services contract entered into in connection with the Service; or the conduct of the families advertising job opportunities (including whether or not they will comply with any employment, work health and safety, privacy or other employment or work related laws). Those issues are issues between the families and you.
 
+4.4 Nanny Match makes no representations or warranties with respect to the amount of job listings available on Nanny Match. 
+
 **INTELLECTUAL PROPERTY**
 
 5.1 The text, images, designs, graphics, pictures, applications, software, music, sound files, animation files, video files and their arrangement on the Service (including third party content) (Service Content) are all subject to copyright and other intellectual property protection laws in Australia.
