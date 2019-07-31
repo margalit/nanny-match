@@ -1,6 +1,7 @@
 ---
 title: Nanny Terms of Agreement (Applicant)
 date: 2017-04-29 19:42:00 +10:00
+position: 2
 ---
 
 * By registering with us you warrant that all details you provide are valid and correct and that you are over 18 years of age and that you are eligible to work in Australia. You agree to only provide information that is true and correct and that is not false or misleading in any way. You agree to indemnify Nanny Match for any costs incurred, loss or claim (including potential claim) that arises as a result of incorrect information provided to Nanny Match by you.

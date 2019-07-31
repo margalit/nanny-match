@@ -1,6 +1,7 @@
 ---
 title: Terms of Service - Job Seekers
 date: 2017-04-14 08:44:00 +10:00
+position: 8
 ---
 
 Thank you for choosing to use Nanny Match. 
