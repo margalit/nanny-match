@@ -7,9 +7,11 @@ position: 11
 Thank you for choosing Nanny Match. 
 
 **ABOUT US**
+
 1.1 Nanny Match provides Nanny Match’s nanny recruitment services via www.nannymatch.com.au (Service) to you, the employer. Nanny Match also provides services to job-hunters on the Service.
 
 **TERMS OF USE AND PRIVACY**
+
 2.1 By using the Service (including by viewing or submitting any emails), you agree to be bound by these terms and conditions of use (Terms). Please use the Service only if you have read, understood and agree to the Terms.
 
 2.2 By using the Service, you consent to Nanny Match using the information you provide to it in accordance with Nanny Match’s Privacy Policy.
@@ -17,6 +19,7 @@ Thank you for choosing Nanny Match.
 2.3 Nanny Match may from time to time update or modify these Terms and/or its Privacy Policy. The updated Terms and Privacy Policy will always be available on the Nanny Match website. By using the Service after a change, you agree to any amendments made.
 
 **USING THE SERVICE**
+
 3.1 When using the Service, you promise that you will: 
 (a) use it for the purpose of posting job opportunities for your genuine childcare needs only and will not use it in connection with any other purpose; 
 (b) only contribute legal, accurate, current, appropriate and original (or properly licensed) content; 
@@ -42,6 +45,7 @@ Thank you for choosing Nanny Match.
 3.6 You acknowledge and agree that your right to use the Service may be revoked if you breach any of these Terms.
 
 **LIMITATIONS**
+
 4.1 Nanny Match provides the job board on which job-hunters and families may exchange content. It is not the author of any content provided by such users and does not control the behaviour of users. To the extent permitted by law, the Service is provided to you on an "as is" basis. The Service may contain errors, faults and inaccuracies and may not be complete or current.
 
 4.2 Nanny Match makes no representations about the operation or suitability of the Service for any particular purpose; the availability, performance, security, characteristics or operation of the Service; or the truthfulness or reliability of content provided by any third party.
@@ -51,9 +55,11 @@ Thank you for choosing Nanny Match.
 4.4 Nanny Match makes no representations or warranties with respect to the amount of applications you receive from job-hunters using the service.
  
 **PRIVACY**
+
 5.1 You acknowledge and agree that job-hunter information and images and other information may be personal information protected by the Privacy Act 1988 (Cth) (Privacy Act). You agree to comply with the Nanny Match Privacy Policy and the Australian Privacy Principles contained in the Privacy Act whenever you collect, use, disclose or destroy personal information.
 
 **INTELLECTUAL PROPERTY**
+
 6.1 The text, images, designs, graphics, pictures, applications, software, music, sound files, animation files, video files and their arrangement on the Service (including third party content) (Service Content) are all subject to copyright and other intellectual property protection laws in Australia.
 
 6.2 Nanny Match and/or its related entities are the owners or licensees of all Service Content. Apart from any use that is permitted under the Copyright Act 1968 (Cth) all rights are reserved.
@@ -65,6 +71,7 @@ Thank you for choosing Nanny Match.
 6.5 You may provide text on the Service to assist with your nanny-finding activities (Your Content). When you provide Your Content, you grant to Nanny Match and its related entities a non-exclusive, transferable, sub-licensable licence to use Your Content to conduct the Service.
 
 **LIABILITY**
+
 7.1 You agree that your use of the Service is subject to these Terms and is at your sole risk.
 
 7.2 You agree that you are solely responsible for the implications of any of your acts or omissions in connection with selecting, engaging and working with any person you encounter on the Service and that you are responsible for assessing any information or opinion expressed on or by the Service and that each decision and action you take is taken independently, with an opportunity to obtain independent advice (including legal advice) and having regard to your unique circumstances.
@@ -85,11 +92,13 @@ Thank you for choosing Nanny Match.
 (b) for breach of agreement, negligence, breach of statutory duty or any other cause of action other than a breach of an applicable consumer guarantee (regardless of how that liability is caused including without limitation the negligence or breach of Nanny Match), arising under this agreement or related to Nanny Match’s goods or services, in aggregate to the total fees paid by you in the preceding 12 month period.
 
 **TERMINATION, SUSPENSION OR TAKING DOWN CONTENT**
+
 8.1 Nanny Match may, in its sole discretion, temporarily or permanently suspend or terminate the rights granted to you under these Terms or remove or take down Your Content if Nanny Match suspects in its sole discretion that you are not complying with the Terms or that you pose a threat to the Service or any of its users or that your conduct is inconsistent with Nanny Match's brand values.
 
 8.2 Nanny Match will not be liable for any cost, expense or damages whatsoever for suspension or termination of your use.
 
 **FEES**
+
 9.1 Nanny Match may charge you fees for posting job ads according to the current price list available on the Nanny Match website.
 
 9.2 Nanny Match may change fees from time to time and will give notice of fee changes by posting such changes on the website. Promotional offers and prices are valid only for the offer period.
@@ -107,6 +116,7 @@ Thank you for choosing Nanny Match.
 10.3 You agree to use reasonable efforts to resolve any dispute you have with Nanny Match before issuing proceedings based on the dispute.
 
 **GENERAL**
+
 11.1 These Terms are governed by the laws of Victoria, Australia.
 
 11.2 These Terms are the entire agreement of the parties in relation to the use of the Service and supersede all other representations, understandings or agreements.
