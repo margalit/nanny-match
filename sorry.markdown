@@ -1,6 +1,6 @@
 ---
 title: Sorry, you do not qualify
-position: 9
+position: 8
 subtitle: Thank you for your interest
 layout: page
 ---
