@@ -9,11 +9,11 @@ We do not charge a registration fee—it's free to share your job with us.
 ## Nanny Match Fees
 We require a single placement fee on confirmation of your match, once you have met your nanny and confirmed employment.
 
-* 1 day per week $1200 paid once
-* 2 days per week $2400 paid once
-* 3 days per week $3600 paid once
-* 4 days per week $4800 paid once
-* 5 days per week $6000 paid once
+* 1 shift per week $490 paid once
+* 2 shifts per week $980 paid once
+* 3 shifts per week $1470 paid once
+* 4 shifts per week $2450 paid once
+* 5 shifts per week $2940 paid once
 
 ## Nanny Pay Fees
 You will be required to engage with our partner payroll service, Nanny Pay. Nanny Pay will ensure all your legal obligations are met in regard to tax, superannuation, work cover, fair work standards and pay rate requirements.  
