@@ -1,7 +1,7 @@
 ---
 title: Fee Structure
 date: 2018-05-16 16:35:00 +10:00
-position: 12
+position: 11
 ---
 
 We do not charge a registration fee—it's free to share your job with us. 
