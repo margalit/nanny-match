@@ -1,5 +1,5 @@
 ---
-title: Terms of Service - Job Seekers
+title: Terms and Conditions - Job Seekers
 date: 2017-04-14 08:44:00 +10:00
 position: 12
 ---
