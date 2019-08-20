@@ -25,24 +25,24 @@ Keep in mind that the most experienced nannies are in high demand and they often
 ### Be clear about the days and hours you require. 
 
 
-## Like this: *We are looking for a nanny to work with us on Mondays and Tuesdays from 8:30am to 4:30pm.*
+Like this: *We are looking for a nanny to work with us on Mondays and Tuesdays from 8:30am to 4:30pm.*
 
 
-## Not like this: *Mondays*.
+Not like this: *Mondays*.
 
 
 ### If you have any flexibility around days or times, mention the flexibility with clarity. 
 
 
-## Like this: *We are looking for a nanny to work with us and have a preference for Mondays and Tuesdays from 8:30am to 4:30pm. We can be flexible with the hours for the right person.*
+Like this: *We are looking for a nanny to work with us and have a preference for Mondays and Tuesdays from 8:30am to 4:30pm. We can be flexible with the hours for the right person.*
 
 
-## Not like this: *Maybe on Tuesday or Monday, we aren't really sure.*
+Not like this: *Maybe on Tuesday or Monday, we aren't really sure.*
 
 
 ### Tell the nannies about your family. 
 
 
-## Like this: *We are a couple in our mid-thirties with one child, Jess. We moved to Melbourne from Sydney and we don't have any family here, so we're looking for support. We work in marketing and software development. We enjoy weekend play dates, brunch, exploring the city and bush walking. We appreciate music, art and good food.*
+Like this: *We are a couple in our mid-thirties with one child, Jess. We moved to Melbourne from Sydney and we don't have any family here, so we're looking for support. We work in marketing and software development. We enjoy weekend play dates, brunch, exploring the city and bush walking. We appreciate music, art and good food.*
 
-## Not like this: *Parents needing help with childcare. Two kids.*
+Not like this: *Parents needing help with childcare. Two kids.*
