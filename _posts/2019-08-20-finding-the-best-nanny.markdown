@@ -19,7 +19,7 @@ The most experienced nannies are in high demand and they often work with more th
 
 ## Four tips to attract the best nanny candidates: 
 * Be clear about the days and hours you require.
-* If you can offer flexibility in the days or times, mention it with clarity. 
+* If you can offer flexibility in the days or times, mention it. 
 * Tell the candidates about your family.
 * If you just want to meet the best person for your family, be open to negotiation. 
 
@@ -32,7 +32,7 @@ Like this: *Mondays and Tuesdays from 8:30am to 4:30pm.*
 Not like this: *Mondays and Tuesdays*.
 
 
-### If you have any flexibility around days or times, mention the flexibility with clarity. 
+### If you have any flexibility around days or times, mention it. 
 
 
 Like this: *We have a preference for Mondays and Tuesdays from 8:30am to 4:30pm. We can be flexible with the hours for the right person.*
