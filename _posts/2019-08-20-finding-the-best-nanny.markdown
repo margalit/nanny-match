@@ -11,7 +11,7 @@ tags:
 Your advert is what draws nannies to your family—the more attractive the ad, the more interest you'll receive. 
 
 
-If you're looking for a part-time nanny, they will have other commitments. It's important to share your needs with applicants so they can consider how the role will fit into their schedule. This will save you time by only meeting people who can actually consider your role.
+If you're looking for a part-time nanny, you will need to consider the fact that they will have other commitments. It's important to share your needs with applicants so they can consider how the role will fit with their schedule. This will save you time in the long run by avoiding candidates who can't actually consider the position.
 
 
 The most experienced nannies are in high demand and they often work with more than one family. A nanny can view up to 10 family-ads per day. They're looking for a good connection. You will receive more views—and a higher chance of a perfect match—if you include an interesting family description.
