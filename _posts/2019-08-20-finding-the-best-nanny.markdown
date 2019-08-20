@@ -19,9 +19,7 @@ Another thing to keep in mind is that the most experienced nannies are in high d
 
 ### 1) Be clear about the days and hours you require. 
 
-Like this: 
-
-"We are looking for a nanny to work with us on Mondays and Tuesdays from 8:30am to 4:30pm." 
+Like this: *We are looking for a nanny to work with us on Mondays and Tuesdays from 8:30am to 4:30pm.*
 
 Not like this: 
 
