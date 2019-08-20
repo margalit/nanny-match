@@ -8,7 +8,7 @@ tags:
 - best nanny
 ---
 
-Your nanny-ad is what draws nannies to your family—the more attractive the ad, the more interest you'll receive. 
+Your advert is what draws nannies to your family—the more attractive the ad, the more interest you'll receive. 
 
 
 If you're looking for a part-time nanny, they will have other commitments. It's important to share your needs with applicants so they can consider how the role will fit into their schedule. This will save you time by only meeting people who can actually consider your role.
