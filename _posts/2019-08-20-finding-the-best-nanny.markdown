@@ -8,13 +8,13 @@ tags:
 - best nanny
 ---
 
-Your nanny-ad is what draws nannies to your family—the more attractive the ad, the more interest you'll receive. The key is knowing what makes an attractive ad. 
+Your nanny-ad is what draws nannies to your family—the more attractive the ad, the more interest you'll receive. 
 
 
-If you're looking for a part-time nanny, they will have other commitments. It's important to share your needs with applicants so they can consider how the role will fit into their schedule. This will save you from meeting people who can't actually consider the role.
+If you're looking for a part-time nanny, they will have other commitments. It's important to share your needs with applicants so they can consider how the role will fit into their schedule. This will save you time by only meeting people who can actually consider your role.
 
 
-Keep in mind that the most experienced nannies are in high demand and they often work with more than one family. A nanny can view up to 20 family-ads per day. They're looking for a family who they will connect with. You will get more views if you include an interesting family description.
+The most experienced nannies are in high demand and they often work with more than one family. A nanny can view up to 10 family-ads per day. They're looking for a family who they will connect with. You will receive more views—and a higher chance of a perfect match—if you include an interesting family description.
 
 
 ## Three tips to attract the best nanny candidates: 
