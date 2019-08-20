@@ -23,7 +23,7 @@ You can view some examples of current ads [here](https://nannymatch.com.au/jobs/
 * Be clear about the days and hours you require.
 * If you can offer flexibility in the days or times, mention it. 
 * Tell the candidates about your family.
-* If you just want to meet the best person for your family, be open to negotiation. 
+* If you want to quickly meet the best person for your family, open it up to negotiation. 
 
 ### Be clear about the days and hours you require. 
 
@@ -46,12 +46,12 @@ Not like this: *Maybe on Tuesday or Monday, we aren't really sure.*
 ### Tell the nannies about your family. 
 
 
-Like this: *We are a couple in our mid-thirties with one child, Jess. We moved to Melbourne from Sydney and we don't have any family here, so we're looking for support. We work in marketing and software development. We enjoy weekend play dates, brunch, exploring the city and bush walking. We appreciate music, art and good food.*
+Like this: *We are a couple in our mid-thirties with one child, Jess. We're from Sydney and we don't have any family here, so we're looking for a part-time nanny in Melbourne. We work in marketing and software development. We enjoy weekend play dates, brunch, exploring the city and bush walking. We appreciate music, art and good food.*
 
 Not like this: *Parents needing help with childcare. Two kids.*
 
 ### If you are open to negotiation, mention it. 
 
-Like this: *We are interested in meeting the right person for our children, and we are open to negotiation regarding hours and pay.*
+Like this: *We are interested in finding the right nanny for our family and we are open to negotiation regarding hours and pay.*
 
 [Post an ad with Nanny Match here](https://nannymatch.com.au/book-a-nanny/). Your ad is published to our website and sent to approved nannies. Only approved nannies can apply to your ad. 
