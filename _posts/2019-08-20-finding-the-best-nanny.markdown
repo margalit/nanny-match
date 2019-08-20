@@ -25,19 +25,22 @@ Not like this:
 
 "Mondays."
 
-**2) If you do have any flexibility in the days or times, mention the flexibility with clarity. 
-**
+## 2) If you do have any flexibility in the days or times, mention the flexibility with clarity. 
+
 Like this: 
 
 "We are looking for a nanny to work with us and have a preference for Mondays and Tuesdays from 8:30am to 4:30pm. We can be flexible with the hours for the right person."
 
-Not like this: 
-"Maybe on Tuesday or Monday, we aren't really sure."
+Not like this:
 
-3) Tell the nannies about your family. 
+Maybe on Tuesday or Monday, we aren't really sure.
+
+## 3) Tell the nannies about your family. 
 
 Like this: 
-"We are a couple in our mid-thirties with one child, Jess. We moved to Melbourne from Sydney and we don't have any family here, so we're looking for support. We work in marketing and software development. We enjoy weekend play dates, brunch, exploring the city and bush walking. We appreciate music, art and good food."
+
+We are a couple in our mid-thirties with one child, Jess. We moved to Melbourne from Sydney and we don't have any family here, so we're looking for support. We work in marketing and software development. We enjoy weekend play dates, brunch, exploring the city and bush walking. We appreciate music, art and good food.
 
 Not like this: 
-"Parents needing help with childcare. Two kids."
+
+Parents needing help with childcare. Two kids.
