@@ -5,7 +5,7 @@ date: 2019-08-26 14:52:00 +10:00
 
 **Tell us about your experience as a nanny?**
 
-I have over 2 years' experience as a nanny. I've worked with five different families in various nanny share configurations based on the families needs. I have cared for 2 kids at a time ranging in ages from 8 months up til 5 years. I bring a lot of maturity and life experience to my work with children as I am in my early thirties and I hold a master's degree. 
+> I have over 2 years' experience as a nanny. I've worked with five different families in various nanny share configurations based on the families needs. I have cared for 2 kids at a time ranging in ages from 8 months up til 5 years. I bring a lot of maturity and life experience to my work with children as I am in my early thirties and I hold a master's degree. 
 
 **What do you love about working as a nanny in Melbourne?**
 
