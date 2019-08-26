@@ -3,6 +3,9 @@ title: Introducing Jessica
 date: 2019-08-26 14:52:00 +10:00
 ---
 
+**Tell us about your experience as a nanny?**
+I have over 2 years' experience as a nanny. I've worked with five different families in various nanny share configurations based on the families needs. I have cared for 2 kids at a time ranging in ages from 8 months up til 5 years. I bring a lot of maturity and life experience to my work with children as I am in my early thirties and I hold a master's degree. 
+
 **What do you love about working as a nanny in Melbourne? 
 **
 For me, being a nanny is never just a job, its always a unique invitation to be part of a family and cherish the responsibility of caring for someone's children. I love that the child/children and I get to build a strong bond and ideally I become almost an extension to the family I'm working for. The relationship between nanny and family that develops is, without a doubt, the most rewarding part of being a nanny. 
