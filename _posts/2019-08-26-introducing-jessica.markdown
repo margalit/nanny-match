@@ -8,8 +8,6 @@ tags:
 - find a nanny
 ---
 
-**Tell us about your experience as a nanny?**
-
 I have over 2 years' experience as a nanny. I've worked with five different families in various nanny share configurations based on the families needs. I have cared for 2 kids at a time ranging in ages from 8 months up til 5 years. I bring a lot of maturity and life experience to my work with children as I am in my early thirties and I hold a master's degree. 
 
 **What do you love about working as a nanny in Melbourne?**
