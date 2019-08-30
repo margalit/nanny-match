@@ -7,7 +7,7 @@ tags:
 - family
 ---
 
-When looking for a new nanny, it's best to start advertising and meeting people. Depending on your timeline, you may choose to run phone or cafe interviews first before meeting in your home with your children. 
+When looking for a new nanny, it's best to start advertising and interviewing—it can seem quite abstract until you actually start to meet people. Depending on your timeline, you may choose to run phone or cafe interviews first before meeting in your home with your children. 
 
 Some helpful questions include: 
 
