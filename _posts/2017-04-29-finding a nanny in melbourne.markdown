@@ -11,16 +11,11 @@ tags:
 - experienced nanny
 ---
 
-**Engaging with a nanny** is quite an abstract idea until you actually meet your match. Most of our new families have had very little contact with the nanny world and the idea of having a nanny (or even saying the word nanny) is completely foreign. So they often ask—what's it like?
-
-Ruth approached us with the need to find an experienced and mature nanny who could work two days a week, at her home in Coburg, Melbourne. Here, Ruth shares her nanny-finding story and some great tips for new families. 
+Ruth was looking for an experienced and mature nanny who could work two days a week, at her home in Coburg, Melbourne. Ruth kindly shares her experience with the hope that more parents will reach out for help. 
 
 **What was happening in your life that lead to your decision to find a nanny?**
 
-My child was about to turn 1. I'd been back at work part-time for about 6 months. We had decided to try to both work part-time without childcare or a nanny and it just wasn't working. We both felt like we
-weren’t enjoying either parenting or work and it was putting a strain on our relationship.
-
-![Flexible childcare.jpg](/uploads/Flexible%20childcare.jpg)
+My child was about to turn 1. I'd been back at work part-time for about 6 months. We were trying to both work part-time without childcare and it just wasn't working. We both felt like we weren’t enjoying either parenting or work and it was putting a strain on our relationship.
 
 **What were your initial thoughts and feelings around finding someone?**
 
@@ -33,12 +28,11 @@ Someone who had a similar philosophy in terms of children who would stimulate ou
 
 **How did you find Nanny Match? How did Nanny Match help you?**
 
-Nanny Match was recommended to my sister through her mother’s group though she didn’t end up needing to use it. After looking at some websites with hundreds of people wanting to be nannies, I liked the idea of someone who found a shortlist that matched what you wanted. Ruby gave us a really good short list and later on found us a babysitter so we could go out on dates again too!
+Nanny Match was recommended to my sister through her mother’s group. After looking at some websites with hundreds of people wanting to be nannies, I liked the idea of the curated community at Nanny Match. We received a really great shortlist. We really liked everyone, they were all experienced and kind natured. It put my partner at ease. Once we found our nanny we also engaged with Nanny Match to find a babysitter so we could go out on dates again, too! 
 
 **Tell us about your first meeting with Brooke. How did you know she was the one?**
 
-Brooke was the first nanny we interviewed and we were both nervous about it. I had spoken earlier that day to a mum who Brooke still works for one day a week and she had nothing but praise for her
-which was great. I really liked how Brooke was with our son. She didn’t try to cuddle him or push it but was just gentle and interested. She has an outstanding smile and he seemed to like her straight away. She was someone who I immediately felt would be a friend and a lovely presence in our house. She was also immensely knowledgeable about kids. **It felt right**.
+Brooke was the first nanny we interviewed. I had spoken earlier that day to a mum who Brooke still works for one day a week and she had nothing but praise for her which was great. I really liked how Brooke was with our son. She didn’t try to cuddle him or push it but was just gentle and interested. She has an outstanding smile and he seemed to like her straight away. She was someone who I immediately felt would be a friend and a lovely presence in our house. She was also immensely knowledgeable about kids. It felt right.
 
 **How has your life changed since Brooke started with your family?**
 
