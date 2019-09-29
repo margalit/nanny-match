@@ -9,7 +9,7 @@ tags:
 - kindergarten
 ---
 
-We're part of an ongoing conversation about childcare alternatives that offer more flexibility to our community. We connected with Neri Solomon to learn more about a great solution that could change the lives of many Australian families.
+We're part of the ongoing conversation about care alternatives that can offer more flexibility to our community. We connected with Neri S. to learn more about an innovative, human-centred solution that could change the lives of many Australian families.
 
 ![pexels-photo-167300.jpeg](/uploads/pexels-photo-167300.jpeg)
 
