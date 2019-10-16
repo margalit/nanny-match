@@ -46,12 +46,12 @@ call_to_action:
   call_to_action: Apply now
   destination: "/apply"
 sidebar:
-  content: 'Our payroll partner manages all your employment admin for you!
+  content: 'Looking for work? Receive job notifications to your inbox.
 
 '
   button:
-    text: View PDF
-    destination: https://drive.google.com/file/d/1XOmyN7ChrCosHFWlDBg9OlkASEi89uOl/view?usp=sharing
+    text: Sign up
+    destination: http://eepurl.com/bZ4OXv
 content_title: Start off on the right foot
 image: "/assets/images/nanny-jobs-melbourne.jpg"
 layout: nannies
